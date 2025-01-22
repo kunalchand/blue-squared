@@ -1,17 +1,11 @@
-import sys
-import os
+# logic.py
 
-# Add the project root directory (blue-squared) to the Python path
-script_dir = os.path.dirname(os.path.abspath(__file__))
-project_root = os.path.abspath(os.path.join(script_dir, '..', '..'))
-sys.path.append(project_root)
-
-# Now import the repository from the Repository folder
 from Repository.repository import DatabaseRepository
 
 class RecordService:
-    def __init__(self, db_url):
-        self.db_repo = DatabaseRepository(db_url)
+    def __init__(self):
+        # No need to pass db_url anymore, DatabaseRepository handles it internally
+        self.db_repo = DatabaseRepository()
 
     def get_records(self, record_id):
         record_from_table1 = self.db_repo.get_record_from_table1(record_id)

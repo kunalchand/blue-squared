@@ -1,13 +1,13 @@
+# app.py
+
 from flask import Flask, jsonify
 from Service.logic import RecordService
 
+
 app = Flask(__name__)
 
-# Define the database connection URL
-db_url = 'postgresql://postgres:Postgres%401234@localhost:5433/TrainingDB'
-
-# Initialize the RecordService with the DB URL
-record_service = RecordService(db_url)
+# Initialize the RecordService with the DB URL from config.py
+record_service = RecordService()
 
 @app.route('/get_records/<int:id>', methods=['GET'])
 def get_records(id):
