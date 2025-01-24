@@ -4,7 +4,6 @@ from Repository.repository import DatabaseRepository
 
 class RecordService:
     def __init__(self):
-        # No need to pass db_url anymore, DatabaseRepository handles it internally
         self.db_repo = DatabaseRepository()
 
     def get_records(self, record_id):

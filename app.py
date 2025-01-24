@@ -1,5 +1,5 @@
 from flask import Flask
-from Contoller.routes import *  # Import all routes from Contoller/routes.py
+from Contoller.routes1 import *  # Import all routes from Contoller/routes.py
 
 def init_app():
     app = Flask(__name__)
