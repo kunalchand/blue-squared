@@ -1,18 +1,19 @@
+# app.py
 from flask import Flask
-from Contoller.routes1 import *  # Import all routes from Contoller/routes.py
+from Contoller.routes1 import init_routes  # Import your routes
+from error_handlers import register_error_handlers  # Import the error handler module
 
-def init_app():
+def create_app():
     app = Flask(__name__)
+
+    # Register the error handlers
+    register_error_handlers(app)
+
+    # Initialize routes
     init_routes(app)
 
-    @app.before_first_request
-    def init_db():
-        pass
-
-    @app.teardown_appcontext
-    def shutdown_session(exception=None):
-        pass
     return app
+
 if __name__ == '__main__':
-    application = init_app()
-    application.run(debug=True)
+    app = create_app()
+    app.run(debug=True)
