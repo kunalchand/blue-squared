@@ -1,4 +1,4 @@
-# app.py
+
 from flask import Flask
 from Contoller.routes import init_routes  # Import your routes
 from error_handlers import register_error_handlers  # Import the error handler module
