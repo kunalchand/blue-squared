@@ -9,6 +9,7 @@ def create_app():
     # Register the error handlers
     register_error_handlers(app)
 
+
     # Initialize routes
     init_routes(app)
 

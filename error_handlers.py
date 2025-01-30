@@ -1,14 +1,15 @@
-# error_handlers.py
 from flask import jsonify
 
 def register_error_handlers(app):
 
+    @app.errorhandler(400)
+    def bad_request(error):
+        return jsonify({"message": "bad request"}), 400
 
     @app.errorhandler(404)
     def not_found(error):
-        return jsonify({"message": "IDs must be positive numbers "}), 200
-
+        return jsonify({"message": "not found"}), 404
 
     @app.errorhandler(500)
-    def not_found(error):
+    def internal_error(error):
         return jsonify({"message": "wrong"}), 500

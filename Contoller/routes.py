@@ -39,4 +39,3 @@ def init_routes(app):
         except Exception as e:
             # Return error if something goes wrong
             return jsonify({"message": str(e)}), 500
-
