@@ -9,7 +9,6 @@ if not os.path.exists(log_directory):
 # Define the log file path
 log_file_path = os.path.join(log_directory, 'app_log.log')
 
-
 # Set up the logging configuration
 def setup_logger(module_name):
     logger = logging.getLogger(module_name)

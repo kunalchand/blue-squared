@@ -4,6 +4,7 @@ class RecordService:
     def __init__(self):
         self.db_repo = DatabaseRepository()
 
+
     def get_record_from_table1(self, record_id):
         # Fetch record from table1 (Person)
         return self.db_repo.get_record_from_table1(record_id)
@@ -11,6 +12,12 @@ class RecordService:
     def get_record_from_table2(self, record_id):
         # Fetch record from table2 (Person2)
         return self.db_repo.get_record_from_table2(record_id)
+
+    def get_fields_from_both_tables(self, record_id):
+        return self.db_repo.get_same_different_from_tables(record_id)
+
+    def get_fields_from_both_tables2(self,record_id1,record_id2):
+        return self.db_repo.get_same_different_from_tables_2(record_id1,record_id2)
 
     #  method to fetch records based on two IDs from both tables
     def get_records(self, record_id1, record_id2):
@@ -34,7 +41,13 @@ class RecordService:
         else:
             response['table2'] = None
 
+        # Now call the comparison function to get the same/different fields for both sets of records
+        comparison_result1 = self.get_fields_from_both_tables2(record_id1,record_id2)  # Comparison for the first set of records
+
+        # Add the comparison results to the response
+        response['comparison1'] = comparison_result1
         return response
+
 
     #  method to fetch records based on a single ID from both tables
     def get_records_single_id(self, record_id):
@@ -57,5 +70,12 @@ class RecordService:
                                   'height':record_from_table2.height_cm, 'city':record_from_table2.city}
         else:
             response['table2'] = None
+
+
+        # Now call the comparison function to get the same/different fields
+        comparison_result = self.get_fields_from_both_tables(record_id)
+
+        # Add the comparison result to the response
+        response['comparison2'] = comparison_result
 
         return response

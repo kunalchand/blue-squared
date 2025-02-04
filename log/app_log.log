@@ -14,3 +14,50 @@
 2025-02-03 10:01:58 - app - INFO - Line 13 - Flask application started
 2025-02-03 10:02:44 - Repository - INFO - Line 21 - Fetching record with ID 1 from table2 (Person2).
 2025-02-03 10:02:44 - Repository - INFO - Line 28 - Fetching record with ID 1 from table2 (Person2).
+2025-02-03 10:22:50 - Repository - INFO - Line 18 - Database connection established.
+2025-02-03 10:22:50 - app - INFO - Line 13 - Flask application started
+2025-02-03 10:22:50 - Repository - INFO - Line 18 - Database connection established.
+2025-02-03 10:22:50 - app - INFO - Line 13 - Flask application started
+2025-02-03 10:39:43 - Repository - INFO - Line 18 - Database connection established.
+2025-02-03 10:39:43 - app - INFO - Line 13 - Flask application started
+2025-02-03 10:39:44 - Repository - INFO - Line 18 - Database connection established.
+2025-02-03 10:39:44 - app - INFO - Line 13 - Flask application started
+2025-02-03 10:40:23 - Repository - INFO - Line 21 - Fetching record with ID 1 from table2 (Person2).
+2025-02-03 10:40:23 - Repository - INFO - Line 28 - Fetching record with ID 1 from table2 (Person2).
+2025-02-03 17:32:59 - Repository - INFO - Line 18 - Database connection established.
+2025-02-03 17:32:59 - app - INFO - Line 13 - Flask application started
+2025-02-03 17:33:00 - Repository - INFO - Line 18 - Database connection established.
+2025-02-03 17:33:00 - app - INFO - Line 13 - Flask application started
+2025-02-03 17:33:07 - Repository - INFO - Line 21 - Fetching record with ID 1 from table2 (Person2).
+2025-02-03 17:33:07 - Repository - INFO - Line 28 - Fetching record with ID 1 from table2 (Person2).
+2025-02-03 17:33:07 - Repository - INFO - Line 35 - Fetching records from both tables with ID 1 to compare fields.
+2025-02-03 17:33:40 - Repository - INFO - Line 21 - Fetching record with ID 1 from table2 (Person2).
+2025-02-03 17:33:40 - Repository - INFO - Line 28 - Fetching record with ID 2 from table2 (Person2).
+2025-02-03 17:33:40 - Repository - INFO - Line 35 - Fetching records from both tables with ID 1 to compare fields.
+2025-02-03 17:33:40 - Repository - INFO - Line 35 - Fetching records from both tables with ID 2 to compare fields.
+2025-02-03 17:35:17 - Repository - INFO - Line 21 - Fetching record with ID 2 from table2 (Person2).
+2025-02-03 17:35:17 - Repository - INFO - Line 28 - Fetching record with ID 2 from table2 (Person2).
+2025-02-03 17:35:17 - Repository - INFO - Line 35 - Fetching records from both tables with ID 2 to compare fields.
+2025-02-03 17:43:57 - Repository - INFO - Line 18 - Database connection established.
+2025-02-03 17:43:57 - app - INFO - Line 13 - Flask application started
+2025-02-03 17:43:57 - Repository - INFO - Line 18 - Database connection established.
+2025-02-03 17:43:57 - app - INFO - Line 13 - Flask application started
+2025-02-03 17:44:04 - Repository - INFO - Line 21 - Fetching record with ID 2 from table2 (Person2).
+2025-02-03 17:44:04 - Repository - INFO - Line 28 - Fetching record with ID 2 from table2 (Person2).
+2025-02-03 17:44:05 - Repository - INFO - Line 35 - Fetching records from both tables with ID 2 to compare fields.
+2025-02-03 17:44:14 - Repository - INFO - Line 21 - Fetching record with ID 2 from table2 (Person2).
+2025-02-03 17:44:14 - Repository - INFO - Line 28 - Fetching record with ID 1 from table2 (Person2).
+2025-02-03 17:52:44 - Repository - INFO - Line 18 - Database connection established.
+2025-02-03 17:52:45 - app - INFO - Line 13 - Flask application started
+2025-02-03 17:52:45 - Repository - INFO - Line 18 - Database connection established.
+2025-02-03 17:52:45 - app - INFO - Line 13 - Flask application started
+2025-02-03 17:53:08 - Repository - INFO - Line 21 - Fetching record with ID 2 from table2 (Person2).
+2025-02-03 17:53:08 - Repository - INFO - Line 28 - Fetching record with ID 1 from table2 (Person2).
+2025-02-03 17:53:08 - Repository - INFO - Line 65 - Fetching records from both tables with ID 2 from Person Table with ID 1 from Person2 compare fields.
+2025-02-03 17:53:40 - Repository - INFO - Line 21 - Fetching record with ID 7 from table2 (Person2).
+2025-02-03 17:53:40 - Repository - INFO - Line 28 - Fetching record with ID 1 from table2 (Person2).
+2025-02-03 17:53:40 - Repository - INFO - Line 65 - Fetching records from both tables with ID 7 from Person Table with ID 1 from Person2 compare fields.
+2025-02-03 17:54:42 - Repository - INFO - Line 18 - Database connection established.
+2025-02-03 17:54:42 - app - INFO - Line 13 - Flask application started
+2025-02-03 18:00:47 - Repository - INFO - Line 18 - Database connection established.
+2025-02-03 18:00:47 - app - INFO - Line 13 - Flask application started
