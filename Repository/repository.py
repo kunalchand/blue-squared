@@ -4,8 +4,8 @@ from sqlalchemy.orm import sessionmaker
 from Config.config import get_db_url  # Import get_db_url to dynamically get the DB URL
 from Model.models import Person, Person2
 from log.log_config import setup_logger
-# Set up logger for this module
 logger = setup_logger("Repository")
+
 
 class DatabaseRepository:
     def __init__(self):
@@ -15,8 +15,8 @@ class DatabaseRepository:
         session = sessionmaker(bind=self.engine)
         self.session = session()
 
-        logger.info("Database connection established.")  # Log when the connection is created
-
+        logger.info("Database connection established.")
+        
     def get_record_from_table1(self, record_id):
         logger.info(f"Fetching record with ID {record_id} from table2 (Person2).")
 
@@ -61,8 +61,10 @@ class DatabaseRepository:
             "same_fields": same_fields,
             "different_fields": different_fields
         }
-    def get_same_different_from_tables_2(self, record_id1,record_id2):
-        logger.info(f"Fetching records from both tables with ID {record_id1} from Person Table with ID {record_id2} from Person2 to compare fields.")
+
+    def get_same_different_from_tables_2(self, record_id1, record_id2):
+        logger.info(f"Fetching records from both tables with ID {record_id1} from Person Table with ID {record_id2}"
+                    f" from Person2 to compare fields.")
 
         record1 = self.session.query(Person).filter(Person.id == record_id1).first()
         record2 = self.session.query(Person2).filter(Person2.id == record_id2).first()
