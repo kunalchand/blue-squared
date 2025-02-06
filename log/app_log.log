@@ -1,43 +1,347 @@
-2025-02-05 12:36:06 - logic - INFO - Line 12 - Retrieving Data from Repository to Service Logic
-2025-02-05 12:36:06 - Repository - INFO - Line 19 - Database connection established.
-2025-02-05 12:36:06 - app - INFO - Line 13 - Flask application started
-2025-02-05 12:36:07 - logic - INFO - Line 12 - Retrieving Data from Repository to Service Logic
-2025-02-05 12:36:07 - Repository - INFO - Line 19 - Database connection established.
-2025-02-05 12:36:07 - app - INFO - Line 13 - Flask application started
-2025-02-05 12:36:16 - Routes - WARNING - Line 56 - Error Check for Exception in Route Function On two IDs
-2025-02-05 12:37:17 - logic - INFO - Line 12 - Retrieving Data from Repository to Service Logic
-2025-02-05 12:37:17 - Repository - INFO - Line 19 - Database connection established.
-2025-02-05 12:37:17 - app - INFO - Line 13 - Flask application started
-2025-02-05 12:37:19 - logic - INFO - Line 12 - Retrieving Data from Repository to Service Logic
-2025-02-05 12:37:19 - Repository - INFO - Line 19 - Database connection established.
-2025-02-05 12:37:19 - app - INFO - Line 13 - Flask application started
-2025-02-05 12:38:42 - logic - INFO - Line 12 - Retrieving Data from Repository to Service Logic
-2025-02-05 12:38:42 - Repository - INFO - Line 19 - Database connection established.
-2025-02-05 12:38:42 - app - INFO - Line 13 - Flask application started
-2025-02-05 12:38:43 - logic - INFO - Line 12 - Retrieving Data from Repository to Service Logic
-2025-02-05 12:38:44 - Repository - INFO - Line 19 - Database connection established.
-2025-02-05 12:38:44 - app - INFO - Line 13 - Flask application started
-2025-02-05 12:38:47 - logic - INFO - Line 17 - Masking record from fetched data ID 1 from table1 (Person).
-2025-02-05 12:38:47 - Repository - INFO - Line 22 - Fetching record with ID 1 from table2 (Person2).
-2025-02-05 12:38:47 - logic - INFO - Line 23 - Masking record from fetched data ID 3 from table2 (Person2).
-2025-02-05 12:38:47 - Repository - INFO - Line 29 - Fetching record with ID 3 from table2 (Person2).
-2025-02-05 12:38:47 - logic - INFO - Line 43 - Call the get_records() method to check whether Both Records present or not
-2025-02-05 12:38:47 - logic - INFO - Line 49 - Successfully record 1 exists in table1(Person) in required format
-2025-02-05 12:38:47 - logic - INFO - Line 58 - Successfully record 3 exists in table2(Person2) in required format
-2025-02-05 12:38:47 - logic - INFO - Line 65 - Now calling the comparison function to get the same/different fields for both sets of records of table1
-2025-02-05 12:38:47 - logic - INFO - Line 32 - Fetching records from both tables on Different IDs1,3 from Both tables (Person,Person2).
-2025-02-05 12:38:47 - Repository - INFO - Line 67 - Fetching records from both tables with ID 1 from Person Table with ID 3 from Person2 to compare fields.
-2025-02-05 12:38:47 - logic - INFO - Line 70 - Adding the comparison results from different id there are 1,3 to the response
-2025-02-05 12:38:47 - Routes - INFO - Line 37 - Fetch records based on Two IDs 1,3
-2025-02-05 12:38:47 - Routes - INFO - Line 42 - Both table1 and table2 have no records
-2025-02-05 12:38:47 - Routes - INFO - Line 45 - returning the records with 200 OK code
-2025-02-05 12:42:45 - logic - INFO - Line 12 - Retrieving Data from Repository to Service Logic
-2025-02-05 12:42:45 - Repository - INFO - Line 19 - Database connection established.
-2025-02-05 12:42:45 - app - INFO - Line 13 - Flask application started
-2025-02-05 12:42:47 - logic - INFO - Line 12 - Retrieving Data from Repository to Service Logic
-2025-02-05 12:42:47 - Repository - INFO - Line 19 - Database connection established.
-2025-02-05 12:42:47 - app - INFO - Line 13 - Flask application started
-2025-02-05 12:42:55 - Error Handlers - WARNING - Line 14 - ERROR HANDLER 404 GoT Called :NOT FOUND
-2025-02-05 12:44:02 - logic - INFO - Line 12 - Retrieving Data from Repository to Service Logic
-2025-02-05 12:44:02 - Repository - INFO - Line 18 - Database connection established.
-2025-02-05 12:44:02 - app - INFO - Line 13 - Flask application started
+2025-02-05 15:40:54 - logic - INFO - Line 12 - Retrieving Data from Repository to Service Logic
+2025-02-05 15:40:54 - Repository - INFO - Line 18 - Database connection established.
+2025-02-05 15:40:54 - app - INFO - Line 13 - Flask application started
+2025-02-05 15:40:55 - logic - INFO - Line 12 - Retrieving Data from Repository to Service Logic
+2025-02-05 15:40:55 - Repository - INFO - Line 18 - Database connection established.
+2025-02-05 15:40:55 - app - INFO - Line 13 - Flask application started
+2025-02-05 15:41:00 - Error Handlers - WARNING - Line 14 - ERROR HANDLER 404 GoT Called :NOT FOUND
+2025-02-05 15:41:00 - Error Handlers - WARNING - Line 14 - ERROR HANDLER 404 GoT Called :NOT FOUND
+2025-02-05 15:41:32 - logic - INFO - Line 17 - Masking record from fetched data ID 1 from table1 (Person).
+2025-02-05 15:41:32 - Repository - INFO - Line 21 - Fetching record with ID 1 from table2 (Person2).
+2025-02-05 15:41:32 - logic - INFO - Line 23 - Masking record from fetched data ID 1 from table2 (Person2).
+2025-02-05 15:41:32 - Repository - INFO - Line 28 - Fetching record with ID 1 from table2 (Person2).
+2025-02-05 15:41:32 - logic - INFO - Line 34 - Call the get_records() method to check whether Both Records present or not
+2025-02-05 15:41:32 - logic - INFO - Line 40 - Successfully record 1 exists in table1(Person) in required format
+2025-02-05 15:41:32 - logic - INFO - Line 49 - Successfully record 1 exists in table2(Person2) in required format
+2025-02-05 15:41:32 - Routes - INFO - Line 37 - Fetch records based on Two IDs 1,1
+2025-02-05 15:41:32 - Routes - INFO - Line 42 - Both table1 and table2 have no records
+2025-02-05 15:41:32 - Routes - INFO - Line 45 - returning the records with 200 OK code
+2025-02-05 15:43:43 - logic - INFO - Line 12 - Retrieving Data from Repository to Service Logic
+2025-02-05 15:43:43 - Repository - INFO - Line 18 - Database connection established.
+2025-02-05 15:43:43 - app - INFO - Line 13 - Flask application started
+2025-02-05 15:43:45 - logic - INFO - Line 17 - Masking record from fetched data ID 1 from table1 (Person).
+2025-02-05 15:43:45 - Repository - INFO - Line 21 - Fetching record with ID 1 from table2 (Person2).
+2025-02-05 15:43:45 - logic - INFO - Line 23 - Masking record from fetched data ID 1 from table2 (Person2).
+2025-02-05 15:43:45 - Repository - INFO - Line 28 - Fetching record with ID 1 from table2 (Person2).
+2025-02-05 15:43:45 - logic - INFO - Line 34 - Call the get_records() method to check whether Both Records present or not
+2025-02-05 15:43:45 - logic - INFO - Line 40 - Successfully record 1 exists in table1(Person) in required format
+2025-02-05 15:43:45 - logic - INFO - Line 49 - Successfully record 1 exists in table2(Person2) in required format
+2025-02-05 15:43:45 - Routes - INFO - Line 37 - Fetch records based on Two IDs 1,1
+2025-02-05 15:43:45 - Routes - INFO - Line 42 - Both table1 and table2 have no records
+2025-02-05 15:43:45 - Routes - INFO - Line 45 - returning the records with 200 OK code
+2025-02-05 15:43:50 - logic - INFO - Line 17 - Masking record from fetched data ID 1 from table1 (Person).
+2025-02-05 15:43:50 - Repository - INFO - Line 21 - Fetching record with ID 1 from table2 (Person2).
+2025-02-05 15:43:50 - logic - INFO - Line 23 - Masking record from fetched data ID 1 from table2 (Person2).
+2025-02-05 15:43:50 - Repository - INFO - Line 28 - Fetching record with ID 1 from table2 (Person2).
+2025-02-05 15:43:50 - logic - INFO - Line 34 - Call the get_records() method to check whether Both Records present or not
+2025-02-05 15:43:50 - logic - INFO - Line 40 - Successfully record 1 exists in table1(Person) in required format
+2025-02-05 15:43:50 - logic - INFO - Line 49 - Successfully record 1 exists in table2(Person2) in required format
+2025-02-05 15:43:50 - Routes - INFO - Line 37 - Fetch records based on Two IDs 1,1
+2025-02-05 15:43:50 - Routes - INFO - Line 42 - Both table1 and table2 have no records
+2025-02-05 15:43:50 - Routes - INFO - Line 45 - returning the records with 200 OK code
+2025-02-05 15:44:15 - logic - INFO - Line 17 - Masking record from fetched data ID 1 from table1 (Person).
+2025-02-05 15:44:15 - Repository - INFO - Line 21 - Fetching record with ID 1 from table2 (Person2).
+2025-02-05 15:44:15 - logic - INFO - Line 23 - Masking record from fetched data ID 3 from table2 (Person2).
+2025-02-05 15:44:15 - Repository - INFO - Line 28 - Fetching record with ID 3 from table2 (Person2).
+2025-02-05 15:44:15 - logic - INFO - Line 34 - Call the get_records() method to check whether Both Records present or not
+2025-02-05 15:44:15 - logic - INFO - Line 40 - Successfully record 1 exists in table1(Person) in required format
+2025-02-05 15:44:15 - logic - INFO - Line 49 - Successfully record 3 exists in table2(Person2) in required format
+2025-02-05 15:44:15 - Routes - INFO - Line 37 - Fetch records based on Two IDs 1,3
+2025-02-05 15:44:15 - Routes - INFO - Line 42 - Both table1 and table2 have no records
+2025-02-05 15:44:15 - Routes - INFO - Line 45 - returning the records with 200 OK code
+2025-02-05 15:46:25 - logic - INFO - Line 12 - Retrieving Data from Repository to Service Logic
+2025-02-05 15:46:25 - Repository - INFO - Line 18 - Database connection established.
+2025-02-05 15:46:25 - app - INFO - Line 13 - Flask application started
+2025-02-05 15:46:25 - logic - INFO - Line 17 - Masking record from fetched data ID 1 from table1 (Person).
+2025-02-05 15:46:25 - Repository - INFO - Line 21 - Fetching record with ID 1 from table2 (Person2).
+2025-02-05 15:46:26 - logic - INFO - Line 23 - Masking record from fetched data ID 3 from table2 (Person2).
+2025-02-05 15:46:26 - Repository - INFO - Line 28 - Fetching record with ID 3 from table2 (Person2).
+2025-02-05 15:46:26 - logic - INFO - Line 34 - Call the get_records() method to check whether Both Records present or not
+2025-02-05 15:46:26 - logic - INFO - Line 40 - Successfully record 1 exists in table1(Person) in required format
+2025-02-05 15:46:26 - logic - INFO - Line 49 - Successfully record 3 exists in table2(Person2) in required format
+2025-02-05 15:46:26 - Routes - INFO - Line 37 - Fetch records based on Two IDs 1,3
+2025-02-05 15:46:26 - Routes - INFO - Line 42 - Both table1 and table2 have no records
+2025-02-05 15:46:26 - Routes - INFO - Line 45 - returning the records with 200 OK code
+2025-02-05 15:46:30 - logic - INFO - Line 17 - Masking record from fetched data ID 1 from table1 (Person).
+2025-02-05 15:46:30 - Repository - INFO - Line 21 - Fetching record with ID 1 from table2 (Person2).
+2025-02-05 15:46:30 - logic - INFO - Line 23 - Masking record from fetched data ID 3 from table2 (Person2).
+2025-02-05 15:46:30 - Repository - INFO - Line 28 - Fetching record with ID 3 from table2 (Person2).
+2025-02-05 15:46:30 - logic - INFO - Line 34 - Call the get_records() method to check whether Both Records present or not
+2025-02-05 15:46:30 - logic - INFO - Line 40 - Successfully record 1 exists in table1(Person) in required format
+2025-02-05 15:46:30 - logic - INFO - Line 49 - Successfully record 3 exists in table2(Person2) in required format
+2025-02-05 15:46:30 - Routes - INFO - Line 37 - Fetch records based on Two IDs 1,3
+2025-02-05 15:46:30 - Routes - INFO - Line 42 - Both table1 and table2 have no records
+2025-02-05 15:46:30 - Routes - INFO - Line 45 - returning the records with 200 OK code
+2025-02-05 15:47:17 - logic - INFO - Line 12 - Retrieving Data from Repository to Service Logic
+2025-02-05 15:47:17 - Repository - INFO - Line 18 - Database connection established.
+2025-02-05 15:47:17 - app - INFO - Line 13 - Flask application started
+2025-02-05 15:47:32 - logic - INFO - Line 12 - Retrieving Data from Repository to Service Logic
+2025-02-05 15:47:32 - Repository - INFO - Line 18 - Database connection established.
+2025-02-05 15:47:32 - app - INFO - Line 13 - Flask application started
+2025-02-05 17:29:51 - logic - INFO - Line 12 - Retrieving Data from Repository to Service Logic
+2025-02-05 17:29:51 - Repository - INFO - Line 18 - Database connection established.
+2025-02-05 17:29:51 - app - INFO - Line 13 - Flask application started
+2025-02-05 17:33:11 - logic - INFO - Line 12 - Retrieving Data from Repository to Service Logic
+2025-02-05 17:33:11 - Repository - INFO - Line 18 - Database connection established.
+2025-02-05 17:33:11 - app - INFO - Line 13 - Flask application started
+2025-02-05 17:33:12 - logic - INFO - Line 12 - Retrieving Data from Repository to Service Logic
+2025-02-05 17:33:12 - Repository - INFO - Line 18 - Database connection established.
+2025-02-05 17:33:12 - app - INFO - Line 13 - Flask application started
+2025-02-05 17:33:16 - Error Handlers - WARNING - Line 14 - ERROR HANDLER 404 GoT Called :NOT FOUND
+2025-02-05 17:33:24 - logic - INFO - Line 17 - Masking record from fetched data ID 1 from table1 (Person).
+2025-02-05 17:33:24 - Repository - INFO - Line 21 - Fetching record with ID 1 from table2 (Person2).
+2025-02-05 17:33:24 - logic - INFO - Line 23 - Masking record from fetched data ID 2 from table2 (Person2).
+2025-02-05 17:33:24 - Repository - INFO - Line 28 - Fetching record with ID 2 from table2 (Person2).
+2025-02-05 17:33:24 - logic - INFO - Line 34 - Call the get_records() method to check whether Both Records present or not
+2025-02-05 17:33:24 - logic - INFO - Line 40 - Successfully record 1 exists in table1(Person) in required format
+2025-02-05 17:33:24 - logic - INFO - Line 49 - Successfully record 2 exists in table2(Person2) in required format
+2025-02-05 17:33:24 - Routes - INFO - Line 37 - Fetch records based on Two IDs 1,2
+2025-02-05 17:33:24 - Routes - INFO - Line 42 - Both table1 and table2 have no records
+2025-02-05 17:33:24 - Routes - INFO - Line 45 - returning the records with 200 OK code
+2025-02-05 17:35:42 - logic - INFO - Line 12 - Retrieving Data from Repository to Service Logic
+2025-02-05 17:35:42 - Repository - INFO - Line 18 - Database connection established.
+2025-02-05 17:35:42 - app - INFO - Line 13 - Flask application started
+2025-02-05 17:35:43 - logic - INFO - Line 12 - Retrieving Data from Repository to Service Logic
+2025-02-05 17:35:43 - Repository - INFO - Line 18 - Database connection established.
+2025-02-05 17:35:43 - app - INFO - Line 13 - Flask application started
+2025-02-05 17:35:48 - Error Handlers - WARNING - Line 14 - ERROR HANDLER 404 GoT Called :NOT FOUND
+2025-02-05 17:35:58 - logic - INFO - Line 17 - Masking record from fetched data ID 1 from table1 (Person).
+2025-02-05 17:35:58 - Repository - INFO - Line 21 - Fetching record with ID 1 from table2 (Person2).
+2025-02-05 17:35:58 - logic - INFO - Line 23 - Masking record from fetched data ID 3 from table2 (Person2).
+2025-02-05 17:35:58 - Repository - INFO - Line 28 - Fetching record with ID 3 from table2 (Person2).
+2025-02-05 17:35:58 - logic - INFO - Line 34 - Call the get_records() method to check whether Both Records present or not
+2025-02-05 17:35:58 - logic - INFO - Line 40 - Successfully record 1 exists in table1(Person) in required format
+2025-02-05 17:35:58 - logic - INFO - Line 49 - Successfully record 3 exists in table2(Person2) in required format
+2025-02-05 17:35:58 - Routes - INFO - Line 37 - Fetch records based on Two IDs 1,3
+2025-02-05 17:35:58 - Routes - INFO - Line 42 - Both table1 and table2 have no records
+2025-02-05 17:35:58 - Routes - INFO - Line 45 - returning the records with 200 OK code
+2025-02-05 17:40:45 - logic - INFO - Line 12 - Retrieving Data from Repository to Service Logic
+2025-02-05 17:40:45 - Repository - INFO - Line 18 - Database connection established.
+2025-02-05 17:40:45 - app - INFO - Line 13 - Flask application started
+2025-02-05 17:42:20 - logic - INFO - Line 12 - Retrieving Data from Repository to Service Logic
+2025-02-05 17:42:20 - Repository - INFO - Line 18 - Database connection established.
+2025-02-05 17:42:20 - app - INFO - Line 13 - Flask application started
+2025-02-05 17:42:21 - logic - INFO - Line 12 - Retrieving Data from Repository to Service Logic
+2025-02-05 17:42:21 - Repository - INFO - Line 18 - Database connection established.
+2025-02-05 17:42:21 - app - INFO - Line 13 - Flask application started
+2025-02-05 17:42:27 - Error Handlers - WARNING - Line 14 - ERROR HANDLER 404 GoT Called :NOT FOUND
+2025-02-05 17:42:32 - logic - INFO - Line 17 - Masking record from fetched data ID 1 from table1 (Person).
+2025-02-05 17:42:32 - Repository - INFO - Line 21 - Fetching record with ID 1 from table2 (Person2).
+2025-02-05 17:42:32 - logic - INFO - Line 23 - Masking record from fetched data ID 3 from table2 (Person2).
+2025-02-05 17:42:32 - Repository - INFO - Line 28 - Fetching record with ID 3 from table2 (Person2).
+2025-02-05 17:42:32 - logic - INFO - Line 34 - Call the get_records() method to check whether Both Records present or not
+2025-02-05 17:42:32 - logic - INFO - Line 40 - Successfully record 1 exists in table1(Person) in required format
+2025-02-05 17:42:32 - logic - INFO - Line 49 - Successfully record 3 exists in table2(Person2) in required format
+2025-02-05 17:42:32 - Routes - INFO - Line 37 - Fetch records based on Two IDs 1,3
+2025-02-05 17:44:21 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-05 17:44:21 - Repository - INFO - Line 18 - Database connection established.
+2025-02-05 17:44:21 - app - INFO - Line 13 - Flask application started
+2025-02-05 17:44:22 - logic - INFO - Line 16 - Masking record from fetched data ID 1 from table1 (Person).
+2025-02-05 17:44:22 - Repository - INFO - Line 21 - Fetching record with ID 1 from table2 (Person2).
+2025-02-05 17:44:22 - logic - INFO - Line 22 - Masking record from fetched data ID 3 from table2 (Person2).
+2025-02-05 17:44:22 - Repository - INFO - Line 28 - Fetching record with ID 3 from table2 (Person2).
+2025-02-05 17:44:22 - logic - INFO - Line 33 - Call the get_records() method to check whether Both Records present or not
+2025-02-05 17:44:22 - logic - INFO - Line 39 - Successfully record 1 exists in table1(Person) in required format
+2025-02-05 17:44:22 - logic - INFO - Line 48 - Successfully record 3 exists in table2(Person2) in required format
+2025-02-05 17:44:22 - Routes - INFO - Line 37 - Fetch records based on Two IDs 1,3
+2025-02-05 17:44:23 - logic - INFO - Line 16 - Masking record from fetched data ID 1 from table1 (Person).
+2025-02-05 17:44:23 - Repository - INFO - Line 21 - Fetching record with ID 1 from table2 (Person2).
+2025-02-05 17:44:23 - logic - INFO - Line 22 - Masking record from fetched data ID 3 from table2 (Person2).
+2025-02-05 17:44:23 - Repository - INFO - Line 28 - Fetching record with ID 3 from table2 (Person2).
+2025-02-05 17:44:23 - logic - INFO - Line 33 - Call the get_records() method to check whether Both Records present or not
+2025-02-05 17:44:23 - logic - INFO - Line 39 - Successfully record 1 exists in table1(Person) in required format
+2025-02-05 17:44:23 - logic - INFO - Line 48 - Successfully record 3 exists in table2(Person2) in required format
+2025-02-05 17:44:23 - Routes - INFO - Line 37 - Fetch records based on Two IDs 1,3
+2025-02-05 17:44:53 - logic - INFO - Line 12 - Retrieving Data from Repository to Service Logic
+2025-02-05 17:44:53 - Repository - INFO - Line 18 - Database connection established.
+2025-02-05 17:44:53 - app - INFO - Line 13 - Flask application started
+2025-02-05 17:48:23 - logic - INFO - Line 12 - Retrieving Data from Repository to Service Logic
+2025-02-05 17:48:23 - Repository - INFO - Line 18 - Database connection established.
+2025-02-05 17:48:23 - app - INFO - Line 13 - Flask application started
+2025-02-05 17:49:22 - logic - INFO - Line 12 - Retrieving Data from Repository to Service Logic
+2025-02-05 17:49:22 - Repository - INFO - Line 18 - Database connection established.
+2025-02-05 17:49:22 - app - INFO - Line 13 - Flask application started
+2025-02-05 17:49:22 - logic - INFO - Line 17 - Masking record from fetched data ID 1 from table1 (Person).
+2025-02-05 17:49:22 - Repository - INFO - Line 21 - Fetching record with ID 1 from table2 (Person2).
+2025-02-05 17:49:22 - logic - INFO - Line 23 - Masking record from fetched data ID 3 from table2 (Person2).
+2025-02-05 17:49:22 - Repository - INFO - Line 28 - Fetching record with ID 3 from table2 (Person2).
+2025-02-05 17:49:22 - logic - INFO - Line 34 - Call the get_records() method to check whether Both Records present or not
+2025-02-05 17:49:22 - logic - INFO - Line 40 - Successfully record 1 exists in table1(Person) in required format
+2025-02-05 17:49:22 - logic - INFO - Line 49 - Successfully record 3 exists in table2(Person2) in required format
+2025-02-05 17:49:22 - Routes - INFO - Line 37 - Fetch records based on Two IDs 1,3
+2025-02-05 17:49:22 - Routes - INFO - Line 42 - Both table1 and table2 have no records
+2025-02-05 17:49:22 - Routes - INFO - Line 45 - returning the records with 200 OK code
+2025-02-05 17:52:13 - logic - INFO - Line 12 - Retrieving Data from Repository to Service Logic
+2025-02-05 17:52:14 - Repository - INFO - Line 18 - Database connection established.
+2025-02-05 17:52:14 - app - INFO - Line 13 - Flask application started
+2025-02-05 17:52:14 - logic - INFO - Line 17 - Masking record from fetched data ID 1 from table1 (Person).
+2025-02-05 17:52:14 - Repository - INFO - Line 21 - Fetching record with ID 1 from table2 (Person2).
+2025-02-05 17:52:14 - logic - INFO - Line 23 - Masking record from fetched data ID 3 from table2 (Person2).
+2025-02-05 17:52:14 - Repository - INFO - Line 28 - Fetching record with ID 3 from table2 (Person2).
+2025-02-05 17:52:14 - logic - INFO - Line 34 - Call the get_records() method to check whether Both Records present or not
+2025-02-05 17:52:14 - logic - INFO - Line 40 - Successfully record 1 exists in table1(Person) in required format
+2025-02-05 17:52:14 - logic - INFO - Line 49 - Successfully record 3 exists in table2(Person2) in required format
+2025-02-05 17:52:14 - Routes - INFO - Line 37 - Fetch records based on Two IDs 1,3
+2025-02-05 17:52:14 - Routes - INFO - Line 42 - Both table1 and table2 have no records
+2025-02-05 17:52:14 - Routes - INFO - Line 45 - returning the records with 200 OK code
+2025-02-05 17:53:35 - logic - INFO - Line 12 - Retrieving Data from Repository to Service Logic
+2025-02-05 17:53:35 - Repository - INFO - Line 18 - Database connection established.
+2025-02-05 17:53:35 - app - INFO - Line 13 - Flask application started
+2025-02-05 17:53:35 - logic - INFO - Line 17 - Masking record from fetched data ID 1 from table1 (Person).
+2025-02-05 17:53:35 - Repository - INFO - Line 21 - Fetching record with ID 1 from table2 (Person2).
+2025-02-05 17:53:36 - logic - INFO - Line 23 - Masking record from fetched data ID 3 from table2 (Person2).
+2025-02-05 17:53:36 - Repository - INFO - Line 28 - Fetching record with ID 3 from table2 (Person2).
+2025-02-05 17:53:36 - logic - INFO - Line 34 - Call the get_records() method to check whether Both Records present or not
+2025-02-05 17:53:36 - logic - INFO - Line 40 - Successfully record 1 exists in table1(Person) in required format
+2025-02-05 17:53:36 - logic - INFO - Line 49 - Successfully record 3 exists in table2(Person2) in required format
+2025-02-05 17:53:51 - logic - INFO - Line 12 - Retrieving Data from Repository to Service Logic
+2025-02-05 17:53:51 - Repository - INFO - Line 18 - Database connection established.
+2025-02-05 17:53:51 - app - INFO - Line 13 - Flask application started
+2025-02-05 17:53:51 - logic - INFO - Line 17 - Masking record from fetched data ID 1 from table1 (Person).
+2025-02-05 17:53:51 - Repository - INFO - Line 21 - Fetching record with ID 1 from table2 (Person2).
+2025-02-05 17:53:52 - logic - INFO - Line 23 - Masking record from fetched data ID 3 from table2 (Person2).
+2025-02-05 17:53:52 - Repository - INFO - Line 28 - Fetching record with ID 3 from table2 (Person2).
+2025-02-05 17:53:52 - logic - INFO - Line 34 - Call the get_records() method to check whether Both Records present or not
+2025-02-05 17:53:52 - logic - INFO - Line 40 - Successfully record 1 exists in table1(Person) in required format
+2025-02-05 17:53:52 - logic - INFO - Line 49 - Successfully record 3 exists in table2(Person2) in required format
+2025-02-05 17:53:52 - Routes - INFO - Line 37 - Fetch records based on Two IDs 1,3
+2025-02-05 17:53:52 - Routes - INFO - Line 42 - Both table1 and table2 have no records
+2025-02-05 17:53:52 - Routes - INFO - Line 45 - returning the records with 200 OK code
+2025-02-05 17:55:48 - logic - INFO - Line 12 - Retrieving Data from Repository to Service Logic
+2025-02-05 17:55:48 - Repository - INFO - Line 18 - Database connection established.
+2025-02-05 17:55:48 - app - INFO - Line 13 - Flask application started
+2025-02-05 17:55:48 - logic - INFO - Line 17 - Masking record from fetched data ID 1 from table1 (Person).
+2025-02-05 17:55:48 - Repository - INFO - Line 21 - Fetching record with ID 1 from table2 (Person2).
+2025-02-05 17:55:48 - logic - INFO - Line 23 - Masking record from fetched data ID 3 from table2 (Person2).
+2025-02-05 17:55:48 - Repository - INFO - Line 28 - Fetching record with ID 3 from table2 (Person2).
+2025-02-05 17:55:48 - logic - INFO - Line 34 - Call the get_records() method to check whether Both Records present or not
+2025-02-05 17:55:48 - logic - INFO - Line 40 - Successfully record 1 exists in table1(Person) in required format
+2025-02-05 17:55:48 - logic - INFO - Line 49 - Successfully record 3 exists in table2(Person2) in required format
+2025-02-05 17:56:51 - logic - INFO - Line 12 - Retrieving Data from Repository to Service Logic
+2025-02-05 17:56:51 - Repository - INFO - Line 18 - Database connection established.
+2025-02-05 17:56:51 - app - INFO - Line 13 - Flask application started
+2025-02-05 17:56:51 - logic - INFO - Line 17 - Masking record from fetched data ID 1 from table1 (Person).
+2025-02-05 17:56:51 - Repository - INFO - Line 21 - Fetching record with ID 1 from table2 (Person2).
+2025-02-05 17:56:51 - logic - INFO - Line 23 - Masking record from fetched data ID 3 from table2 (Person2).
+2025-02-05 17:56:51 - Repository - INFO - Line 28 - Fetching record with ID 3 from table2 (Person2).
+2025-02-05 17:56:51 - logic - INFO - Line 34 - Call the get_records() method to check whether Both Records present or not
+2025-02-05 17:56:51 - logic - INFO - Line 40 - Successfully record 1 exists in table1(Person) in required format
+2025-02-05 17:56:51 - logic - INFO - Line 49 - Successfully record 3 exists in table2(Person2) in required format
+2025-02-05 17:56:51 - Routes - INFO - Line 37 - Fetch records based on Two IDs 1,3
+2025-02-05 17:56:51 - Routes - INFO - Line 42 - Both table1 and table2 have no records
+2025-02-05 17:56:51 - Routes - INFO - Line 45 - returning the records with 200 OK code
+2025-02-05 17:58:29 - logic - INFO - Line 12 - Retrieving Data from Repository to Service Logic
+2025-02-05 17:58:29 - Repository - INFO - Line 18 - Database connection established.
+2025-02-05 17:58:29 - app - INFO - Line 13 - Flask application started
+2025-02-05 18:01:12 - logic - INFO - Line 12 - Retrieving Data from Repository to Service Logic
+2025-02-05 18:01:13 - Repository - INFO - Line 18 - Database connection established.
+2025-02-05 18:01:13 - app - INFO - Line 13 - Flask application started
+2025-02-05 18:02:12 - logic - INFO - Line 12 - Retrieving Data from Repository to Service Logic
+2025-02-05 18:02:12 - Repository - INFO - Line 18 - Database connection established.
+2025-02-05 18:02:12 - app - INFO - Line 13 - Flask application started
+2025-02-05 18:02:36 - logic - INFO - Line 12 - Retrieving Data from Repository to Service Logic
+2025-02-05 18:02:36 - Repository - INFO - Line 18 - Database connection established.
+2025-02-05 18:02:36 - app - INFO - Line 13 - Flask application started
+2025-02-05 18:03:46 - logic - INFO - Line 12 - Retrieving Data from Repository to Service Logic
+2025-02-05 18:03:46 - Repository - INFO - Line 18 - Database connection established.
+2025-02-05 18:03:46 - app - INFO - Line 13 - Flask application started
+2025-02-05 18:04:01 - logic - INFO - Line 17 - Masking record from fetched data ID 1 from table1 (Person).
+2025-02-05 18:04:01 - Repository - INFO - Line 21 - Fetching record with ID 1 from table2 (Person2).
+2025-02-05 18:04:01 - logic - INFO - Line 23 - Masking record from fetched data ID 1 from table2 (Person2).
+2025-02-05 18:04:01 - Repository - INFO - Line 28 - Fetching record with ID 1 from table2 (Person2).
+2025-02-05 18:04:01 - logic - INFO - Line 33 - Call the get_records() method to check whether Both Records present or not
+2025-02-05 18:04:01 - logic - INFO - Line 39 - Successfully record 1 exists in table1(Person) in required format
+2025-02-05 18:04:01 - logic - INFO - Line 48 - Successfully record 1 exists in table2(Person2) in required format
+2025-02-05 18:04:01 - Routes - INFO - Line 15 - Fetch records based on one ID 1
+2025-02-05 18:04:01 - Routes - INFO - Line 20 - Both table1 and table2 have no records
+2025-02-05 18:04:01 - Routes - INFO - Line 23 - returning the records with 200 OK code
+2025-02-05 18:10:18 - logic - INFO - Line 12 - Retrieving Data from Repository to Service Logic
+2025-02-05 18:10:18 - Repository - INFO - Line 18 - Database connection established.
+2025-02-05 18:10:18 - app - INFO - Line 13 - Flask application started
+2025-02-05 18:11:47 - logic - INFO - Line 12 - Retrieving Data from Repository to Service Logic
+2025-02-05 18:11:47 - Repository - INFO - Line 18 - Database connection established.
+2025-02-05 18:11:47 - app - INFO - Line 13 - Flask application started
+2025-02-05 18:23:16 - logic - INFO - Line 12 - Retrieving Data from Repository to Service Logic
+2025-02-05 18:23:16 - Repository - INFO - Line 18 - Database connection established.
+2025-02-05 18:23:16 - app - INFO - Line 13 - Flask application started
+2025-02-05 18:23:41 - logic - INFO - Line 17 - Masking record from fetched data ID 1 from table1 (Person).
+2025-02-05 18:23:41 - Repository - INFO - Line 21 - Fetching record with ID 1 from table2 (Person2).
+2025-02-05 18:23:41 - logic - INFO - Line 23 - Masking record from fetched data ID 1 from table2 (Person2).
+2025-02-05 18:23:41 - Repository - INFO - Line 28 - Fetching record with ID 1 from table2 (Person2).
+2025-02-05 18:23:41 - logic - INFO - Line 33 - Call the get_records() method to check whether Both Records present or not
+2025-02-05 18:23:41 - logic - INFO - Line 39 - Successfully record 1 exists in table1(Person) in required format
+2025-02-05 18:23:41 - logic - INFO - Line 48 - Successfully record 1 exists in table2(Person2) in required format
+2025-02-05 18:23:41 - Routes - INFO - Line 15 - Fetch records based on one ID 1
+2025-02-05 18:23:41 - Routes - INFO - Line 20 - Both table1 and table2 have no records
+2025-02-05 18:23:41 - Routes - INFO - Line 23 - returning the records with 200 OK code
+2025-02-05 18:23:42 - logic - INFO - Line 17 - Masking record from fetched data ID 1 from table1 (Person).
+2025-02-05 18:23:42 - Repository - INFO - Line 21 - Fetching record with ID 1 from table2 (Person2).
+2025-02-05 18:23:42 - logic - INFO - Line 23 - Masking record from fetched data ID 1 from table2 (Person2).
+2025-02-05 18:23:42 - Repository - INFO - Line 28 - Fetching record with ID 1 from table2 (Person2).
+2025-02-05 18:23:42 - logic - INFO - Line 33 - Call the get_records() method to check whether Both Records present or not
+2025-02-05 18:23:42 - logic - INFO - Line 39 - Successfully record 1 exists in table1(Person) in required format
+2025-02-05 18:23:42 - logic - INFO - Line 48 - Successfully record 1 exists in table2(Person2) in required format
+2025-02-05 18:23:42 - Routes - INFO - Line 15 - Fetch records based on one ID 1
+2025-02-05 18:23:42 - Routes - INFO - Line 20 - Both table1 and table2 have no records
+2025-02-05 18:23:42 - Routes - INFO - Line 23 - returning the records with 200 OK code
+2025-02-05 18:23:48 - logic - INFO - Line 17 - Masking record from fetched data ID 1 from table1 (Person).
+2025-02-05 18:23:48 - Repository - INFO - Line 21 - Fetching record with ID 1 from table2 (Person2).
+2025-02-05 18:23:48 - logic - INFO - Line 23 - Masking record from fetched data ID 2 from table2 (Person2).
+2025-02-05 18:23:48 - Repository - INFO - Line 28 - Fetching record with ID 2 from table2 (Person2).
+2025-02-05 18:23:48 - logic - INFO - Line 79 - Call the get_records() method to check whether Both Records present or not
+2025-02-05 18:23:48 - logic - INFO - Line 85 - Successfully record 1 exists in table1(Person) in required format
+2025-02-05 18:23:48 - logic - INFO - Line 94 - Successfully record 2 exists in table2(Person2) in required format
+2025-02-05 18:23:48 - Routes - INFO - Line 37 - Fetch records based on Two IDs 1,2
+2025-02-05 18:25:39 - logic - INFO - Line 12 - Retrieving Data from Repository to Service Logic
+2025-02-05 18:25:40 - Repository - INFO - Line 18 - Database connection established.
+2025-02-05 18:25:40 - app - INFO - Line 13 - Flask application started
+2025-02-05 18:25:40 - logic - INFO - Line 17 - Masking record from fetched data ID 1 from table1 (Person).
+2025-02-05 18:25:40 - Repository - INFO - Line 21 - Fetching record with ID 1 from table2 (Person2).
+2025-02-05 18:25:40 - logic - INFO - Line 23 - Masking record from fetched data ID 2 from table2 (Person2).
+2025-02-05 18:25:40 - Repository - INFO - Line 28 - Fetching record with ID 2 from table2 (Person2).
+2025-02-05 18:25:40 - logic - INFO - Line 79 - Call the get_records() method to check whether Both Records present or not
+2025-02-05 18:25:40 - logic - INFO - Line 85 - Successfully record 1 exists in table1(Person) in required format
+2025-02-05 18:25:40 - logic - INFO - Line 94 - Successfully record 2 exists in table2(Person2) in required format
+2025-02-05 18:25:40 - Routes - INFO - Line 37 - Fetch records based on Two IDs 1,2
+2025-02-05 18:25:40 - Routes - INFO - Line 42 - Both table1 and table2 have no records
+2025-02-05 18:25:40 - Routes - INFO - Line 45 - returning the records with 200 OK code
+2025-02-05 18:27:35 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-05 18:27:35 - Repository - INFO - Line 18 - Database connection established.
+2025-02-05 18:27:35 - app - INFO - Line 13 - Flask application started
+2025-02-05 18:27:40 - logic - INFO - Line 16 - Masking record from fetched data ID 3 from table1 (Person).
+2025-02-05 18:27:40 - Repository - INFO - Line 21 - Fetching record with ID 3 from table2 (Person2).
+2025-02-05 18:27:40 - logic - INFO - Line 22 - Masking record from fetched data ID 3 from table2 (Person2).
+2025-02-05 18:27:40 - Repository - INFO - Line 28 - Fetching record with ID 3 from table2 (Person2).
+2025-02-05 18:27:40 - logic - INFO - Line 32 - Call the get_records() method to check whether Both Records present or not
+2025-02-05 18:27:40 - logic - INFO - Line 38 - Successfully record 3 exists in table1(Person) in required format
+2025-02-05 18:27:40 - logic - INFO - Line 47 - Successfully record 3 exists in table2(Person2) in required format
+2025-02-05 18:27:40 - Routes - INFO - Line 15 - Fetch records based on one ID 3
+2025-02-05 18:27:40 - Routes - INFO - Line 20 - Both table1 and table2 have no records
+2025-02-05 18:27:40 - Routes - INFO - Line 23 - returning the records with 200 OK code
+2025-02-05 18:33:03 - Error Handlers - WARNING - Line 14 - ERROR HANDLER 404 GoT Called :NOT FOUND
+2025-02-05 18:33:04 - Error Handlers - WARNING - Line 14 - ERROR HANDLER 404 GoT Called :NOT FOUND
+2025-02-05 18:33:07 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-05 18:33:07 - Repository - INFO - Line 18 - Database connection established.
+2025-02-05 18:33:07 - app - INFO - Line 13 - Flask application started
+2025-02-05 18:33:07 - Error Handlers - WARNING - Line 14 - ERROR HANDLER 404 GoT Called :NOT FOUND
+2025-02-05 18:33:11 - logic - INFO - Line 16 - Masking record from fetched data ID 1 from table1 (Person).
+2025-02-05 18:33:11 - Repository - INFO - Line 21 - Fetching record with ID 1 from table2 (Person2).
+2025-02-05 18:33:11 - logic - INFO - Line 22 - Masking record from fetched data ID 3 from table2 (Person2).
+2025-02-05 18:33:11 - Repository - INFO - Line 28 - Fetching record with ID 3 from table2 (Person2).
+2025-02-05 18:33:11 - logic - INFO - Line 76 - Call the get_records() method to check whether Both Records present or not
+2025-02-05 18:33:11 - logic - INFO - Line 83 - Successfully record 1 exists in table1(Person) in required format
+2025-02-05 18:33:11 - logic - INFO - Line 93 - Successfully record 3 exists in table2(Person2) in required format
+2025-02-05 18:33:11 - logic - INFO - Line 99 - Comparison Is Initiated for IDs 1,3
+2025-02-05 18:33:11 - logic - INFO - Line 114 - compared both fields separating in to same and different fields add upto Response 
+2025-02-05 18:33:11 - Routes - INFO - Line 37 - Fetch records based on Two IDs 1,3
+2025-02-05 18:33:11 - Routes - INFO - Line 42 - Both table1 and table2 have no records
+2025-02-05 18:33:11 - Routes - INFO - Line 45 - returning the records with 200 OK code
+2025-02-05 18:34:59 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-05 18:34:59 - Repository - INFO - Line 18 - Database connection established.
+2025-02-05 18:34:59 - app - INFO - Line 13 - Flask application started
+2025-02-05 18:35:35 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-05 18:35:35 - Repository - INFO - Line 18 - Database connection established.
+2025-02-05 18:35:35 - app - INFO - Line 13 - Flask application started
+2025-02-05 18:35:51 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-05 18:35:51 - Repository - INFO - Line 18 - Database connection established.
+2025-02-05 18:35:51 - app - INFO - Line 13 - Flask application started
