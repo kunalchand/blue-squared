@@ -53,17 +53,24 @@ class RecordService:
         same_fields = {}
         different_fields ={}
         logger.info(f"Comparison is initiated for IDs {record_id}")
-        for column in record_from_table1.__table__.columns:
-            field_name = column.name
-            value1 = getattr(record_from_table1, field_name)
-            value2 = getattr(record_from_table2, field_name)
 
-            if value1 == value2:
-                same_fields[field_name] = value1
-            else:
-                different_fields[field_name] = {" Table1_value ": value1, " Table2_Value ": value2}
-        logger.info("compared both fields separating in to same and different fields add upto Response ")
-        response["Comparison"] = {"same_fields": same_fields, "different_fields": different_fields}
+        if record_from_table1 and record_from_table2 :
+            logger.info(f"Comparison is initiated for IDs {record_id}")
+
+            for column in record_from_table1.__table__.columns:
+                field_name = column.name
+                value1 = getattr(record_from_table1, field_name)
+                value2 = getattr(record_from_table2, field_name)
+
+                if value1 == value2:
+                    same_fields[field_name] = value1
+                else:
+                    different_fields[field_name] = {" Table1_value ": value1, " Table2_Value ": value2}
+            logger.info("compared both fields separating in to same and different fields add upto Response ")
+            response["Comparison"] = {"same_fields": same_fields, "different_fields": different_fields}
+
+        else:
+            logger.warning(f"Cannot compare, one or both records with ID {record_id} not found in table1 or table2")
 
         return response
 
@@ -101,18 +108,24 @@ class RecordService:
         same_fields = {}
         different_fields = {}
 
-        for column in record_from_table1.__table__.columns:
-            field_name = column.name
-            value1 = getattr(record_from_table1, field_name)
-            value2 = getattr(record_from_table2, field_name)
+        if record_from_table1 and record_from_table2 :
+            logger.info(f"Comparison is initiated for IDs {record_id1} and {record_id2}")
 
-            if value1 == value2:
-                same_fields[field_name] = value1
-            else:
-                different_fields[field_name] = {" Table1_value ": value1, " Table2_Value ": value2}
+            for column in record_from_table1.__table__.columns:
+                field_name = column.name
+                value1 = getattr(record_from_table1, field_name)
+                value2 = getattr(record_from_table2, field_name)
 
-        logger.info("compared both fields separating in to same and different fields add upto Response ")
+                if value1 == value2:
+                    same_fields[field_name] = value1
+                else:
+                    different_fields[field_name] = {" Table1_value ": value1, " Table2_Value ": value2}
 
-        response["Comparison"] = {"same_fields": same_fields, "different_fields": different_fields}
+            logger.info("compared both fields separating in to same and different fields add upto Response ")
+
+            response["Comparison"] = {"same_fields": same_fields, "different_fields": different_fields}
+
+        else:
+            logger.warning(f"Cannot compare, one or both records with ID  not found in table1 or table2")
 
         return response

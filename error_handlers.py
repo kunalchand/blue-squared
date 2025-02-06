@@ -2,8 +2,9 @@ from flask import jsonify
 from log.log_config import setup_logger
 
 logger = setup_logger("Error Handlers")
-def register_error_handlers(app):
 
+
+def register_error_handlers(app):
     @app.errorhandler(400)
     def bad_request(error):
         logger.warning("ERROR HANDLER 400 GoT Called : BAD REQUEST")

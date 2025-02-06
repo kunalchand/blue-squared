@@ -6,9 +6,15 @@ record_service = RecordService()
 
 logger = setup_logger("Routes")
 
+
 def init_routes(app):
-    @app.route('/get_records/<int:id>', methods=['GET'])
+    @app.route('/get_records/<id>', methods=['GET'])
+
     def get_records_single_id(id):
+        if not id.isdigit():
+            logger.warning(f"Invalid ID {id} provided, returning 400 Bad Request.")
+            return jsonify({"message": "Invalid ID format. ID should be an integer."}), 400
+
         try:
 
             records = record_service.get_records_single_id(id)
@@ -28,9 +34,14 @@ def init_routes(app):
 
             return jsonify({"message": str(e)}), 500
 
+    @app.route('/get_records/<id1>/<id2>', methods=['GET'])
+    # Check if the ID is a valid integer
 
-    @app.route('/get_records/<int:id1>/<int:id2>', methods=['GET'])
     def get_records(id1, id2):
+        if not id1.isdigit() or not id2.isdigit():  # If it's not a number, raise a 400 error
+            logger.warning(f"Invalid ID {id1} and {id2} provided, returning 400 Bad Request.")
+            return jsonify({"message": "Invalid ID format. IDs should be an integer."}), 200
+
         try:
             # Fetch records based on two different IDs
             records = record_service.get_records(id1, id2)
