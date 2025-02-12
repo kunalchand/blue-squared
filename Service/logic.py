@@ -1,4 +1,3 @@
-
 from Repository.repository import DatabaseRepository
 from log.log_config import setup_logger
 

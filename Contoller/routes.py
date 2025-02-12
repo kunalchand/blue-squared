@@ -8,8 +8,8 @@ logger = setup_logger("Routes")
 
 
 def init_routes(app):
-    @app.route('/get_records/<id>', methods=['GET'])
 
+    @app.route('/get_records/<id>', methods=['GET'])
     def get_records_single_id(id):
         if not id.isdigit():
             logger.warning(f"Invalid ID {id} provided, returning 400 Bad Request.")
@@ -35,12 +35,10 @@ def init_routes(app):
             return jsonify({"message": str(e)}), 500
 
     @app.route('/get_records/<id1>/<id2>', methods=['GET'])
-    # Check if the ID is a valid integer
-
     def get_records(id1, id2):
         if not id1.isdigit() or not id2.isdigit():  # If it's not a number, raise a 400 error
             logger.warning(f"Invalid ID {id1} and {id2} provided, returning 400 Bad Request.")
-            return jsonify({"message": "Invalid ID format. IDs should be an integer."}), 200
+            return jsonify({"message": "Invalid ID format. IDs should be an integer."}), 400
 
         try:
             # Fetch records based on two different IDs
@@ -49,7 +47,7 @@ def init_routes(app):
 
             # If both table1 and table2 have no records, return a not found response
             if records['table1'] is None and records['table2'] is None:
-                return jsonify({"message": "Record not found in both tables"}), 200
+                return jsonify({"message": "404: Record not found in both tables"}), 404
             logger.info("Both table1 and table2 have no records")
 
             # Return the response with records from both tables (if they exist)

@@ -785,3 +785,585 @@
 2025-02-06 15:21:21 - Repository - INFO - Line 18 - Database connection established.
 2025-02-06 15:21:21 - app - INFO - Line 14 - Flask application started
 2025-02-06 15:21:25 - Routes - WARNING - Line 15 - Invalid ID g provided, returning 400 Bad Request.
+2025-02-06 15:23:12 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-06 15:23:12 - Repository - INFO - Line 18 - Database connection established.
+2025-02-06 15:23:12 - app - INFO - Line 14 - Flask application started
+2025-02-07 08:47:57 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 08:47:58 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 08:47:58 - app - INFO - Line 14 - Flask application started
+2025-02-07 08:48:04 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 08:48:04 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 08:48:04 - app - INFO - Line 14 - Flask application started
+2025-02-07 08:56:20 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 08:56:21 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 08:56:21 - app - INFO - Line 14 - Flask application started
+2025-02-07 08:56:54 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 08:56:54 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 08:56:54 - app - INFO - Line 14 - Flask application started
+2025-02-07 09:05:26 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 09:05:26 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 09:05:26 - app - INFO - Line 14 - Flask application started
+2025-02-07 09:05:35 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 09:05:35 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 09:05:35 - app - INFO - Line 14 - Flask application started
+2025-02-07 09:05:49 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 09:05:49 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 09:05:49 - app - INFO - Line 14 - Flask application started
+2025-02-07 09:05:52 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 09:05:52 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 09:05:52 - app - INFO - Line 14 - Flask application started
+2025-02-07 09:05:54 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 09:05:54 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 09:05:54 - app - INFO - Line 14 - Flask application started
+2025-02-07 09:05:58 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 09:05:58 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 09:05:58 - app - INFO - Line 14 - Flask application started
+2025-02-07 09:06:02 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 09:06:02 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 09:06:02 - app - INFO - Line 14 - Flask application started
+2025-02-07 09:06:09 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 09:06:09 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 09:06:09 - app - INFO - Line 14 - Flask application started
+2025-02-07 09:09:03 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 09:09:03 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 09:09:03 - app - INFO - Line 14 - Flask application started
+2025-02-07 09:09:20 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 09:09:20 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 09:09:20 - app - INFO - Line 14 - Flask application started
+2025-02-07 09:09:35 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 09:09:35 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 09:09:35 - app - INFO - Line 14 - Flask application started
+2025-02-07 09:09:37 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 09:09:37 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 09:09:37 - app - INFO - Line 14 - Flask application started
+2025-02-07 09:34:44 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 09:34:44 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 09:34:44 - app - INFO - Line 14 - Flask application started
+2025-02-07 09:43:21 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 09:43:21 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 09:43:21 - app - INFO - Line 14 - Flask application started
+2025-02-07 09:47:06 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 09:47:06 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 09:47:06 - app - INFO - Line 14 - Flask application started
+2025-02-07 09:47:48 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 09:47:48 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 09:47:48 - app - INFO - Line 14 - Flask application started
+2025-02-07 10:10:04 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 10:10:04 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 10:10:04 - app - INFO - Line 14 - Flask application started
+2025-02-07 10:10:48 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 10:10:48 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 10:10:48 - app - INFO - Line 14 - Flask application started
+2025-02-07 10:11:23 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 10:11:24 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 10:11:24 - app - INFO - Line 14 - Flask application started
+2025-02-07 10:11:34 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 10:11:34 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 10:11:34 - app - INFO - Line 14 - Flask application started
+2025-02-07 10:11:35 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 10:11:35 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 10:11:35 - app - INFO - Line 14 - Flask application started
+2025-02-07 10:40:20 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 10:40:20 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 10:40:20 - app - INFO - Line 14 - Flask application started
+2025-02-07 10:40:23 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 10:40:23 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 10:40:23 - app - INFO - Line 14 - Flask application started
+2025-02-07 10:40:25 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 10:40:25 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 10:40:25 - app - INFO - Line 14 - Flask application started
+2025-02-07 10:40:28 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 10:40:28 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 10:40:28 - app - INFO - Line 14 - Flask application started
+2025-02-07 10:40:42 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 10:40:42 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 10:40:42 - app - INFO - Line 14 - Flask application started
+2025-02-07 10:40:47 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 10:40:47 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 10:40:47 - app - INFO - Line 14 - Flask application started
+2025-02-07 10:40:57 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 10:40:57 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 10:40:57 - app - INFO - Line 14 - Flask application started
+2025-02-07 10:41:00 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 10:41:00 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 10:41:00 - app - INFO - Line 14 - Flask application started
+2025-02-07 10:41:10 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 10:41:10 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 10:41:10 - app - INFO - Line 14 - Flask application started
+2025-02-07 10:41:13 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 10:41:13 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 10:41:13 - app - INFO - Line 14 - Flask application started
+2025-02-07 10:41:19 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 10:41:19 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 10:41:20 - app - INFO - Line 14 - Flask application started
+2025-02-07 10:42:03 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 10:42:03 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 10:42:03 - app - INFO - Line 14 - Flask application started
+2025-02-07 11:57:50 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 11:57:51 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 11:57:51 - app - INFO - Line 14 - Flask application started
+2025-02-07 11:59:16 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 11:59:16 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 11:59:16 - app - INFO - Line 14 - Flask application started
+2025-02-07 11:59:24 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 11:59:24 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 11:59:24 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:00:37 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:00:37 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:00:37 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:00:39 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:00:39 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:00:39 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:01:21 - Error Handlers - WARNING - Line 15 - ERROR HANDLER 404 GoT Called :NOT FOUND
+2025-02-07 12:01:21 - Error Handlers - WARNING - Line 15 - ERROR HANDLER 404 GoT Called :NOT FOUND
+2025-02-07 12:01:26 - logic - INFO - Line 16 - Masking record from fetched data ID 1 from table1 (Person).
+2025-02-07 12:01:26 - Repository - INFO - Line 21 - Fetching record with ID 1 from table2 (Person2).
+2025-02-07 12:01:26 - logic - INFO - Line 22 - Masking record from fetched data ID 3 from table2 (Person2).
+2025-02-07 12:01:26 - Repository - INFO - Line 28 - Fetching record with ID 3 from table2 (Person2).
+2025-02-07 12:01:26 - logic - INFO - Line 83 - Call the get_records() method to check whether Both Records present or not
+2025-02-07 12:01:26 - logic - INFO - Line 90 - Successfully record 1 exists in table1(Person) in required format
+2025-02-07 12:01:26 - logic - INFO - Line 100 - Successfully record 3 exists in table2(Person2) in required format
+2025-02-07 12:01:26 - logic - INFO - Line 106 - Comparison Is Initiated between IDs 1 and 3
+2025-02-07 12:01:26 - logic - INFO - Line 112 - Comparison is initiated for IDs 1 and 3
+2025-02-07 12:01:26 - logic - INFO - Line 124 - compared both fields separating in to same and different fields add upto Response 
+2025-02-07 12:01:26 - Routes - INFO - Line 47 - Fetch records based on Two IDs 1,3
+2025-02-07 12:01:26 - Routes - INFO - Line 52 - Both table1 and table2 have no records
+2025-02-07 12:01:26 - Routes - INFO - Line 55 - returning the records with 200 OK code
+2025-02-07 12:01:34 - logic - INFO - Line 16 - Masking record from fetched data ID 1 from table1 (Person).
+2025-02-07 12:01:34 - Repository - INFO - Line 21 - Fetching record with ID 1 from table2 (Person2).
+2025-02-07 12:01:34 - logic - INFO - Line 22 - Masking record from fetched data ID 1 from table2 (Person2).
+2025-02-07 12:01:34 - Repository - INFO - Line 28 - Fetching record with ID 1 from table2 (Person2).
+2025-02-07 12:01:34 - logic - INFO - Line 32 - Call the get_records_single_id() method to check whether Both Records present or not
+2025-02-07 12:01:34 - logic - INFO - Line 38 - Successfully record 1 exists in table1(Person) in required format
+2025-02-07 12:01:34 - logic - INFO - Line 47 - Successfully record 1 exists in table2(Person2) in required format
+2025-02-07 12:01:34 - logic - INFO - Line 55 - Comparison is initiated for IDs 1
+2025-02-07 12:01:34 - logic - INFO - Line 58 - Comparison is initiated for IDs 1
+2025-02-07 12:01:34 - logic - INFO - Line 69 - compared both fields separating in to same and different fields add upto Response 
+2025-02-07 12:01:34 - Routes - INFO - Line 20 - Fetch records based on one ID 1
+2025-02-07 12:01:34 - Routes - INFO - Line 25 - Both table1 and table2 have no records
+2025-02-07 12:01:34 - Routes - INFO - Line 28 - returning the records with 200 OK code
+2025-02-07 12:02:24 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:02:24 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:02:24 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:02:24 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:02:25 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:02:25 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:03:12 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:03:12 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:03:12 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:03:13 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:03:13 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:03:13 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:14:14 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:14:14 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:14:14 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:14:14 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:14:14 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:14:14 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:14:17 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:14:17 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:14:18 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:14:18 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:14:18 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:14:18 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:14:22 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:14:23 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:14:23 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:14:23 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:14:23 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:14:23 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:14:31 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:14:31 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:14:31 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:14:31 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:14:31 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:14:31 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:14:35 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:14:35 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:14:35 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:14:35 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:14:35 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:14:35 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:14:39 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:14:39 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:14:39 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:14:40 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:14:41 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:14:41 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:14:42 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:14:42 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:14:42 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:14:55 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:14:56 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:14:56 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:14:57 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:14:57 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:14:57 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:15:05 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:15:05 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:15:05 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:15:05 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:15:06 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:15:06 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:15:27 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:15:27 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:15:27 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:15:27 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:15:27 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:15:27 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:15:33 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:15:33 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:15:34 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:15:34 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:15:34 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:15:34 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:15:47 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:15:47 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:15:47 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:15:47 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:15:47 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:15:47 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:15:50 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:15:50 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:15:50 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:15:50 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:15:50 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:15:50 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:15:55 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:15:55 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:15:55 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:15:56 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:15:56 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:15:56 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:15:58 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:15:59 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:15:59 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:15:59 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:15:59 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:15:59 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:16:02 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:16:02 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:16:02 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:16:03 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:16:03 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:16:03 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:16:06 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:16:06 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:16:06 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:16:07 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:16:07 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:16:07 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:17:08 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:17:08 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:17:08 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:17:10 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:17:10 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:17:10 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:17:17 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:17:17 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:17:17 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:17:17 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:17:17 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:17:17 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:17:20 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:17:20 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:17:20 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:17:20 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:17:20 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:17:20 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:17:22 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:17:22 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:17:22 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:17:23 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:17:23 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:17:23 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:17:26 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:17:27 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:17:27 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:17:27 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:17:27 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:17:27 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:17:32 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:17:32 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:17:32 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:17:32 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:17:32 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:17:32 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:17:35 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:17:36 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:17:36 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:26:30 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:26:30 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:26:30 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:26:30 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:26:30 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:26:30 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:26:39 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:26:39 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:26:39 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:26:39 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:26:39 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:26:39 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:26:43 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:26:43 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:26:43 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:26:43 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:26:43 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:26:43 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:28:56 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:28:56 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:28:56 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:28:56 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:28:56 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:28:56 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:29:02 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:29:02 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:29:02 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:29:02 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:29:02 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:29:02 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:31:14 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:31:14 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:31:14 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:31:14 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:31:14 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:31:14 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:35:59 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:35:59 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:35:59 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:35:59 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:35:59 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:35:59 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:36:11 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:36:11 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:36:11 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:36:11 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:36:11 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:36:11 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:36:16 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:36:16 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:36:16 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:36:16 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:36:16 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:36:16 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:36:28 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:36:28 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:36:28 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:36:28 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:36:28 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:36:28 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:36:32 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:36:32 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:36:32 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:36:32 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:36:32 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:36:32 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:36:53 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:36:53 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:36:54 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:36:54 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:36:54 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:36:54 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:38:33 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:38:33 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:38:33 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:38:33 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:38:33 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:38:33 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:41:21 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:41:21 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:41:21 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:41:21 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:41:21 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:41:21 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:42:38 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:42:38 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:42:38 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:42:38 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:42:39 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:42:39 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:42:42 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:42:42 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:42:42 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:42:42 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:42:42 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:42:42 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:42:46 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:42:46 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:42:46 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:42:46 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:42:46 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:42:46 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:43:27 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:43:27 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-07 12:43:27 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:43:27 - app - INFO - Line 14 - Flask application started
+2025-02-07 12:43:27 - Repository - INFO - Line 18 - Database connection established.
+2025-02-07 12:43:27 - app - INFO - Line 14 - Flask application started
+2025-02-09 06:15:02 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-09 06:15:02 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-09 06:15:02 - Repository - INFO - Line 18 - Database connection established.
+2025-02-09 06:15:02 - Repository - INFO - Line 18 - Database connection established.
+2025-02-09 06:15:02 - app - INFO - Line 14 - Flask application started
+2025-02-09 06:15:02 - app - INFO - Line 14 - Flask application started
+2025-02-09 16:44:17 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-09 16:44:17 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-09 16:44:17 - Repository - INFO - Line 18 - Database connection established.
+2025-02-09 16:44:17 - Repository - INFO - Line 18 - Database connection established.
+2025-02-09 16:44:17 - app - INFO - Line 14 - Flask application started
+2025-02-10 07:12:59 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-10 07:13:00 - Repository - INFO - Line 18 - Database connection established.
+2025-02-10 07:13:00 - app - INFO - Line 14 - Flask application started
+2025-02-10 07:13:00 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-10 07:13:00 - Repository - INFO - Line 18 - Database connection established.
+2025-02-10 07:13:00 - app - INFO - Line 14 - Flask application started
+2025-02-10 07:18:04 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-10 07:18:04 - logic - INFO - Line 11 - Retrieving Data from Repository to Service Logic
+2025-02-10 07:18:04 - Repository - INFO - Line 18 - Database connection established.
+2025-02-10 07:18:04 - Repository - INFO - Line 18 - Database connection established.
+2025-02-10 07:18:04 - app - INFO - Line 14 - Flask application started
+2025-02-10 07:18:04 - app - INFO - Line 14 - Flask application started
+2025-02-10 09:03:16 - logic - INFO - Line 10 - Retrieving Data from Repository to Service Logic
+2025-02-10 09:03:16 - Repository - INFO - Line 18 - Database connection established.
+2025-02-10 09:03:16 - app - INFO - Line 14 - Flask application started
+2025-02-10 09:03:17 - logic - INFO - Line 10 - Retrieving Data from Repository to Service Logic
+2025-02-10 09:03:17 - Repository - INFO - Line 18 - Database connection established.
+2025-02-10 09:03:17 - app - INFO - Line 14 - Flask application started
+2025-02-10 09:11:19 - logic - INFO - Line 10 - Retrieving Data from Repository to Service Logic
+2025-02-10 09:11:19 - logic - INFO - Line 10 - Retrieving Data from Repository to Service Logic
+2025-02-10 09:11:19 - Repository - INFO - Line 18 - Database connection established.
+2025-02-10 09:11:19 - Repository - INFO - Line 18 - Database connection established.
+2025-02-10 09:11:19 - app - INFO - Line 14 - Flask application started
+2025-02-10 09:11:19 - app - INFO - Line 14 - Flask application started
+2025-02-10 09:13:07 - logic - INFO - Line 10 - Retrieving Data from Repository to Service Logic
+2025-02-10 09:13:07 - logic - INFO - Line 10 - Retrieving Data from Repository to Service Logic
+2025-02-10 09:13:07 - Repository - INFO - Line 18 - Database connection established.
+2025-02-10 09:13:07 - Repository - INFO - Line 18 - Database connection established.
+2025-02-10 09:13:07 - app - INFO - Line 14 - Flask application started
+2025-02-10 09:13:07 - app - INFO - Line 14 - Flask application started
+2025-02-10 09:13:09 - logic - INFO - Line 10 - Retrieving Data from Repository to Service Logic
+2025-02-10 09:13:09 - logic - INFO - Line 10 - Retrieving Data from Repository to Service Logic
+2025-02-10 09:13:09 - Repository - INFO - Line 18 - Database connection established.
+2025-02-10 09:13:09 - Repository - INFO - Line 18 - Database connection established.
+2025-02-10 09:13:09 - app - INFO - Line 14 - Flask application started
+2025-02-10 09:13:09 - app - INFO - Line 14 - Flask application started
+2025-02-10 09:13:14 - logic - INFO - Line 10 - Retrieving Data from Repository to Service Logic
+2025-02-10 09:13:14 - logic - INFO - Line 10 - Retrieving Data from Repository to Service Logic
+2025-02-10 09:13:14 - Repository - INFO - Line 18 - Database connection established.
+2025-02-10 09:13:14 - Repository - INFO - Line 18 - Database connection established.
+2025-02-10 09:13:14 - app - INFO - Line 14 - Flask application started
+2025-02-10 09:13:14 - app - INFO - Line 14 - Flask application started
+2025-02-10 09:13:22 - logic - INFO - Line 10 - Retrieving Data from Repository to Service Logic
+2025-02-10 09:13:22 - logic - INFO - Line 10 - Retrieving Data from Repository to Service Logic
+2025-02-10 09:13:23 - Repository - INFO - Line 18 - Database connection established.
+2025-02-10 09:13:23 - Repository - INFO - Line 18 - Database connection established.
+2025-02-10 09:13:23 - app - INFO - Line 14 - Flask application started
+2025-02-10 09:13:23 - app - INFO - Line 14 - Flask application started
+2025-02-10 09:20:18 - logic - INFO - Line 10 - Retrieving Data from Repository to Service Logic
+2025-02-10 09:20:18 - logic - INFO - Line 10 - Retrieving Data from Repository to Service Logic
+2025-02-10 09:20:18 - Repository - INFO - Line 18 - Database connection established.
+2025-02-10 09:20:18 - Repository - INFO - Line 18 - Database connection established.
+2025-02-10 09:20:18 - app - INFO - Line 14 - Flask application started
+2025-02-10 09:20:18 - app - INFO - Line 14 - Flask application started
+2025-02-10 14:10:33 - logic - INFO - Line 10 - Retrieving Data from Repository to Service Logic
+2025-02-10 14:10:33 - Repository - INFO - Line 18 - Database connection established.
+2025-02-10 14:10:33 - app - INFO - Line 14 - Flask application started
+2025-02-10 14:10:34 - logic - INFO - Line 10 - Retrieving Data from Repository to Service Logic
+2025-02-10 14:10:34 - Repository - INFO - Line 18 - Database connection established.
+2025-02-10 14:10:34 - app - INFO - Line 14 - Flask application started
+2025-02-10 14:10:35 - logic - INFO - Line 10 - Retrieving Data from Repository to Service Logic
+2025-02-10 14:10:35 - Repository - INFO - Line 18 - Database connection established.
+2025-02-10 14:10:35 - app - INFO - Line 14 - Flask application started
+2025-02-10 14:10:35 - logic - INFO - Line 10 - Retrieving Data from Repository to Service Logic
+2025-02-10 14:10:35 - Repository - INFO - Line 18 - Database connection established.
+2025-02-10 14:10:35 - app - INFO - Line 14 - Flask application started
+2025-02-10 14:11:14 - logic - INFO - Line 15 - Masking record from fetched data ID 1 from table1 (Person).
+2025-02-10 14:11:14 - Repository - INFO - Line 21 - Fetching record with ID 1 from table2 (Person2).
+2025-02-10 14:11:14 - logic - INFO - Line 21 - Masking record from fetched data ID 1 from table2 (Person2).
+2025-02-10 14:11:14 - Repository - INFO - Line 28 - Fetching record with ID 1 from table2 (Person2).
+2025-02-10 14:11:14 - logic - INFO - Line 31 - Call the get_records_single_id() method to check whether Both Records present or not
+2025-02-10 14:11:14 - logic - INFO - Line 37 - Successfully record 1 exists in table1(Person) in required format
+2025-02-10 14:11:14 - logic - INFO - Line 46 - Successfully record 1 exists in table2(Person2) in required format
+2025-02-10 14:11:14 - logic - INFO - Line 54 - Comparison is initiated for IDs 1
+2025-02-10 14:11:14 - logic - INFO - Line 57 - Comparison is initiated for IDs 1
+2025-02-10 14:11:14 - logic - INFO - Line 68 - compared both fields separating in to same and different fields add upto Response 
+2025-02-10 14:11:14 - Routes - INFO - Line 21 - Fetch records based on one ID 1
+2025-02-10 14:11:14 - Routes - INFO - Line 26 - Both table1 and table2 have no records
+2025-02-10 14:11:14 - Routes - INFO - Line 29 - returning the records with 200 OK code
+2025-02-10 18:19:05 - logic - INFO - Line 10 - Retrieving Data from Repository to Service Logic
+2025-02-10 18:19:05 - logic - INFO - Line 10 - Retrieving Data from Repository to Service Logic
+2025-02-10 18:19:05 - Repository - INFO - Line 18 - Database connection established.
+2025-02-10 18:19:05 - Repository - INFO - Line 18 - Database connection established.
+2025-02-10 18:19:05 - app - INFO - Line 14 - Flask application started
+2025-02-10 18:19:05 - app - INFO - Line 14 - Flask application started
+2025-02-10 20:55:05 - logic - INFO - Line 10 - Retrieving Data from Repository to Service Logic
+2025-02-10 20:55:05 - Repository - INFO - Line 18 - Database connection established.
+2025-02-10 20:55:05 - app - INFO - Line 14 - Flask application started
+2025-02-10 20:55:06 - logic - INFO - Line 10 - Retrieving Data from Repository to Service Logic
+2025-02-10 20:55:06 - Repository - INFO - Line 18 - Database connection established.
+2025-02-10 20:55:06 - app - INFO - Line 14 - Flask application started
+2025-02-10 20:55:46 - logic - INFO - Line 10 - Retrieving Data from Repository to Service Logic
+2025-02-10 20:55:46 - Repository - INFO - Line 18 - Database connection established.
+2025-02-10 20:55:46 - app - INFO - Line 14 - Flask application started
+2025-02-10 20:55:47 - logic - INFO - Line 10 - Retrieving Data from Repository to Service Logic
+2025-02-10 20:55:47 - Repository - INFO - Line 18 - Database connection established.
+2025-02-10 20:55:47 - app - INFO - Line 14 - Flask application started
+2025-02-10 20:55:48 - logic - INFO - Line 10 - Retrieving Data from Repository to Service Logic
+2025-02-10 20:55:48 - logic - INFO - Line 10 - Retrieving Data from Repository to Service Logic
+2025-02-10 20:55:48 - Repository - INFO - Line 18 - Database connection established.
+2025-02-10 20:55:48 - app - INFO - Line 14 - Flask application started
+2025-02-10 20:55:48 - Repository - INFO - Line 18 - Database connection established.
+2025-02-10 20:55:48 - app - INFO - Line 14 - Flask application started
+2025-02-10 20:56:31 - logic - INFO - Line 15 - Masking record from fetched data ID 1 from table1 (Person).
+2025-02-10 20:56:31 - Repository - INFO - Line 21 - Fetching record with ID 1 from table2 (Person2).
+2025-02-10 20:56:32 - logic - INFO - Line 21 - Masking record from fetched data ID 1 from table2 (Person2).
+2025-02-10 20:56:32 - Repository - INFO - Line 28 - Fetching record with ID 1 from table2 (Person2).
+2025-02-10 20:56:32 - logic - INFO - Line 31 - Call the get_records_single_id() method to check whether Both Records present or not
+2025-02-10 20:56:32 - logic - INFO - Line 37 - Successfully record 1 exists in table1(Person) in required format
+2025-02-10 20:56:32 - logic - INFO - Line 46 - Successfully record 1 exists in table2(Person2) in required format
+2025-02-10 20:56:32 - logic - INFO - Line 54 - Comparison is initiated for IDs 1
+2025-02-10 20:56:32 - logic - INFO - Line 57 - Comparison is initiated for IDs 1
+2025-02-10 20:56:32 - logic - INFO - Line 68 - compared both fields separating in to same and different fields add upto Response 
+2025-02-10 20:56:32 - Routes - INFO - Line 21 - Fetch records based on one ID 1
+2025-02-10 20:56:32 - Routes - INFO - Line 26 - Both table1 and table2 have no records
+2025-02-10 20:56:32 - Routes - INFO - Line 29 - returning the records with 200 OK code
+2025-02-10 20:58:11 - logic - INFO - Line 10 - Retrieving Data from Repository to Service Logic
+2025-02-10 20:58:11 - Repository - INFO - Line 18 - Database connection established.
+2025-02-10 20:58:11 - app - INFO - Line 14 - Flask application started
+2025-02-10 20:58:12 - logic - INFO - Line 10 - Retrieving Data from Repository to Service Logic
+2025-02-10 20:58:12 - Repository - INFO - Line 18 - Database connection established.
+2025-02-10 20:58:12 - app - INFO - Line 14 - Flask application started
+2025-02-10 20:58:12 - logic - INFO - Line 10 - Retrieving Data from Repository to Service Logic
+2025-02-10 20:58:12 - logic - INFO - Line 10 - Retrieving Data from Repository to Service Logic
+2025-02-10 20:58:12 - Repository - INFO - Line 18 - Database connection established.
+2025-02-10 20:58:12 - Repository - INFO - Line 18 - Database connection established.
+2025-02-10 20:58:12 - app - INFO - Line 14 - Flask application started
+2025-02-10 20:58:12 - app - INFO - Line 14 - Flask application started
+2025-02-10 20:58:17 - logic - INFO - Line 15 - Masking record from fetched data ID 1 from table1 (Person).
+2025-02-10 20:58:17 - Repository - INFO - Line 21 - Fetching record with ID 1 from table2 (Person2).
+2025-02-10 20:58:17 - logic - INFO - Line 21 - Masking record from fetched data ID 1 from table2 (Person2).
+2025-02-10 20:58:17 - Repository - INFO - Line 28 - Fetching record with ID 1 from table2 (Person2).
+2025-02-10 20:58:17 - logic - INFO - Line 31 - Call the get_records_single_id() method to check whether Both Records present or not
+2025-02-10 20:58:17 - logic - INFO - Line 37 - Successfully record 1 exists in table1(Person) in required format
+2025-02-10 20:58:17 - logic - INFO - Line 46 - Successfully record 1 exists in table2(Person2) in required format
+2025-02-10 20:58:17 - logic - INFO - Line 54 - Comparison is initiated for IDs 1
+2025-02-10 20:58:17 - logic - INFO - Line 57 - Comparison is initiated for IDs 1
+2025-02-10 20:58:17 - logic - INFO - Line 68 - compared both fields separating in to same and different fields add upto Response 
+2025-02-10 20:58:17 - Routes - INFO - Line 21 - Fetch records based on one ID 1
+2025-02-10 20:58:17 - Routes - INFO - Line 26 - Both table1 and table2 have no records
+2025-02-10 20:58:17 - Routes - INFO - Line 29 - returning the records with 200 OK code
+2025-02-10 21:01:28 - logic - INFO - Line 10 - Retrieving Data from Repository to Service Logic
+2025-02-10 21:01:28 - logic - INFO - Line 10 - Retrieving Data from Repository to Service Logic
+2025-02-10 21:01:28 - Repository - INFO - Line 18 - Database connection established.
+2025-02-10 21:01:29 - app - INFO - Line 14 - Flask application started
+2025-02-10 21:01:29 - Repository - INFO - Line 18 - Database connection established.
+2025-02-10 21:01:29 - app - INFO - Line 14 - Flask application started
+2025-02-10 21:03:18 - logic - INFO - Line 10 - Retrieving Data from Repository to Service Logic
+2025-02-10 21:03:18 - Repository - INFO - Line 18 - Database connection established.
+2025-02-10 21:03:18 - app - INFO - Line 14 - Flask application started
+2025-02-10 21:03:20 - logic - INFO - Line 10 - Retrieving Data from Repository to Service Logic
+2025-02-10 21:03:20 - logic - INFO - Line 10 - Retrieving Data from Repository to Service Logic
+2025-02-10 21:03:20 - Repository - INFO - Line 18 - Database connection established.
+2025-02-10 21:03:20 - Repository - INFO - Line 18 - Database connection established.
+2025-02-10 21:03:20 - app - INFO - Line 14 - Flask application started
+2025-02-10 21:03:20 - app - INFO - Line 14 - Flask application started
