@@ -1,15 +1,9 @@
 from flask import jsonify
-from Service.logic import *
+from Service.logic import RecordService
 from log.log_config import setup_logger
 
 record_service = RecordService()
-
-# Step 4: Dependency Injection
-db_repo = DatabaseRepository()
-fetcher = DatabaseRecordFetcher(db_repo)
-comparator = RecordComparator()
-logger = setup_logger("Routes")
-
+logger = setup_logger("routes")
 
 def init_routes(app):
     @app.route('/get_records/<id>', methods=['GET'])
@@ -45,7 +39,7 @@ def init_routes(app):
 
         try:
             # Fetch records based on two different IDs
-            records = record_service.get_records_multiple_ids(id1, id2)
+            records = record_service.get_records(id1, id2)
             logger.info(f"Fetch records based on Two IDs {id1},{id2}")
 
             # If both table1 and table2 have no records, return a not found response
