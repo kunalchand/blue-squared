@@ -1,0 +1,327 @@
+2025-02-12 16:02:41 - Repository - INFO - Line 23 - Database connection established.
+2025-02-12 16:02:41 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-12 17:26:35 - Repository - INFO - Line 23 - Database connection established.
+2025-02-12 17:26:35 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-12 17:26:49 - Repository - INFO - Line 23 - Database connection established.
+2025-02-12 17:26:49 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-12 17:28:03 - Repository - INFO - Line 23 - Database connection established.
+2025-02-12 17:28:03 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-12 17:28:36 - Repository - INFO - Line 23 - Database connection established.
+2025-02-12 17:28:36 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-12 17:29:13 - Repository - INFO - Line 23 - Database connection established.
+2025-02-12 17:29:13 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-12 17:33:42 - Repository - INFO - Line 23 - Database connection established.
+2025-02-12 17:33:42 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-12 17:33:42 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-12 17:34:10 - Repository - INFO - Line 23 - Database connection established.
+2025-02-12 17:34:10 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-12 17:34:10 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-12 17:34:41 - Repository - INFO - Line 23 - Database connection established.
+2025-02-12 17:34:41 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-12 17:34:41 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-12 17:38:24 - Repository - INFO - Line 23 - Database connection established.
+2025-02-12 17:38:24 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-12 17:38:24 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-12 18:10:31 - Repository - INFO - Line 23 - Database connection established.
+2025-02-12 18:10:31 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-12 18:10:44 - Repository - INFO - Line 23 - Database connection established.
+2025-02-12 18:10:44 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-12 18:10:44 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-12 18:11:53 - Repository - INFO - Line 23 - Database connection established.
+2025-02-12 18:11:53 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-12 18:11:53 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-12 18:16:08 - Repository - INFO - Line 23 - Database connection established.
+2025-02-12 18:16:08 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-12 18:16:08 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-12 18:20:20 - Repository - INFO - Line 23 - Database connection established.
+2025-02-12 18:20:20 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-12 18:20:20 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-12 18:22:29 - Repository - INFO - Line 23 - Database connection established.
+2025-02-12 18:22:29 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-12 18:22:29 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-12 18:23:59 - Repository - INFO - Line 23 - Database connection established.
+2025-02-12 18:23:59 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-12 18:23:59 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-12 18:25:55 - Repository - INFO - Line 23 - Database connection established.
+2025-02-12 18:25:55 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-12 18:26:34 - Repository - INFO - Line 23 - Database connection established.
+2025-02-12 18:26:34 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-12 18:26:46 - Repository - INFO - Line 23 - Database connection established.
+2025-02-12 18:26:46 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-12 18:27:14 - Repository - INFO - Line 23 - Database connection established.
+2025-02-12 18:27:14 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-12 18:27:14 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-12 18:27:47 - Repository - INFO - Line 23 - Database connection established.
+2025-02-12 18:27:47 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-12 18:27:47 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-12 18:28:40 - Repository - INFO - Line 23 - Database connection established.
+2025-02-12 18:28:40 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-12 18:38:22 - Repository - INFO - Line 23 - Database connection established.
+2025-02-12 18:38:22 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-12 18:38:22 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person.
+2025-02-12 18:38:22 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person2.
+2025-02-12 18:38:22 - logic - INFO - Line 69 - Fetching records for ID 2
+2025-02-12 18:38:22 - logic - INFO - Line 76 - Record 2 exists in table1 (Person)
+2025-02-12 18:38:22 - logic - INFO - Line 86 - Record 2 exists in table2 (Person2)
+2025-02-12 18:38:22 - logic - INFO - Line 102 - Comparison completed for ID 2
+2025-02-12 18:38:22 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-12 18:38:22 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
+2025-02-12 18:38:22 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person.
+2025-02-12 18:38:22 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person2.
+2025-02-12 18:38:22 - logic - INFO - Line 69 - Fetching records for ID 1
+2025-02-12 18:38:22 - logic - INFO - Line 76 - Record 1 exists in table1 (Person)
+2025-02-12 18:38:22 - logic - INFO - Line 86 - Record 1 exists in table2 (Person2)
+2025-02-12 18:38:22 - logic - INFO - Line 69 - Fetching records for ID 2
+2025-02-12 18:38:22 - logic - INFO - Line 76 - Record 2 exists in table1 (Person)
+2025-02-12 18:38:22 - logic - INFO - Line 86 - Record 2 exists in table2 (Person2)
+2025-02-12 18:38:22 - logic - INFO - Line 102 - Comparison completed for ID 1 and 2
+2025-02-13 13:06:12 - Repository - INFO - Line 23 - Database connection established.
+2025-02-13 13:06:12 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-13 13:06:12 - Repository - INFO - Line 23 - Database connection established.
+2025-02-13 13:06:12 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-13 13:15:52 - Repository - INFO - Line 23 - Database connection established.
+2025-02-13 13:15:52 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-13 13:18:09 - Repository - INFO - Line 23 - Database connection established.
+2025-02-13 13:18:09 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-13 13:18:09 - Repository - INFO - Line 23 - Database connection established.
+2025-02-13 13:18:09 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-13 13:18:09 - Repository - INFO - Line 23 - Database connection established.
+2025-02-13 13:18:09 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-13 13:18:09 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-13 13:18:10 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
+2025-02-13 13:18:10 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person.
+2025-02-13 13:18:10 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person2.
+2025-02-13 13:18:10 - logic - INFO - Line 69 - Fetching records for ID 1
+2025-02-13 13:18:10 - logic - INFO - Line 76 - Record 1 exists in table1 (Person)
+2025-02-13 13:18:10 - logic - INFO - Line 86 - Record 1 exists in table2 (Person2)
+2025-02-13 13:18:10 - logic - INFO - Line 69 - Fetching records for ID 2
+2025-02-13 13:18:10 - logic - INFO - Line 76 - Record 2 exists in table1 (Person)
+2025-02-13 13:18:10 - logic - INFO - Line 86 - Record 2 exists in table2 (Person2)
+2025-02-13 13:18:10 - logic - INFO - Line 102 - Comparison completed for ID 1 and 2
+2025-02-13 13:18:10 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-13 13:18:10 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
+2025-02-13 13:18:10 - logic - INFO - Line 69 - Fetching records for ID 1
+2025-02-13 13:18:10 - logic - INFO - Line 76 - Record 1 exists in table1 (Person)
+2025-02-13 13:18:10 - logic - INFO - Line 86 - Record 1 exists in table2 (Person2)
+2025-02-13 13:18:10 - logic - INFO - Line 102 - Comparison completed for ID 1
+2025-02-13 18:54:15 - Repository - INFO - Line 23 - Database connection established.
+2025-02-13 18:54:15 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-13 18:54:15 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-13 18:54:15 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
+2025-02-13 18:54:15 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person.
+2025-02-13 18:54:15 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person2.
+2025-02-13 18:54:15 - logic - INFO - Line 69 - Fetching records for ID 1
+2025-02-13 18:54:15 - logic - INFO - Line 76 - Record 1 exists in table1 (Person)
+2025-02-13 18:54:15 - logic - INFO - Line 86 - Record 1 exists in table2 (Person2)
+2025-02-13 18:54:15 - logic - INFO - Line 69 - Fetching records for ID 2
+2025-02-13 18:54:15 - logic - INFO - Line 76 - Record 2 exists in table1 (Person)
+2025-02-13 18:54:15 - logic - INFO - Line 86 - Record 2 exists in table2 (Person2)
+2025-02-13 18:54:15 - logic - INFO - Line 102 - Comparison completed for ID 1 and 2
+2025-02-13 18:54:15 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-13 18:54:15 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
+2025-02-13 18:54:15 - logic - INFO - Line 69 - Fetching records for ID 1
+2025-02-13 18:54:15 - logic - INFO - Line 76 - Record 1 exists in table1 (Person)
+2025-02-13 18:54:15 - logic - INFO - Line 86 - Record 1 exists in table2 (Person2)
+2025-02-13 18:54:15 - logic - INFO - Line 102 - Comparison completed for ID 1
+2025-02-13 18:54:15 - Repository - INFO - Line 23 - Database connection established.
+2025-02-13 18:54:15 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-13 18:54:15 - app - INFO - Line 14 - Flask application started
+2025-02-13 18:54:17 - Repository - INFO - Line 23 - Database connection established.
+2025-02-13 18:54:17 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-13 18:54:17 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-13 18:54:17 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
+2025-02-13 18:54:17 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person.
+2025-02-13 18:54:17 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person2.
+2025-02-13 18:54:17 - logic - INFO - Line 69 - Fetching records for ID 1
+2025-02-13 18:54:17 - logic - INFO - Line 76 - Record 1 exists in table1 (Person)
+2025-02-13 18:54:17 - logic - INFO - Line 86 - Record 1 exists in table2 (Person2)
+2025-02-13 18:54:17 - logic - INFO - Line 69 - Fetching records for ID 2
+2025-02-13 18:54:17 - logic - INFO - Line 76 - Record 2 exists in table1 (Person)
+2025-02-13 18:54:17 - logic - INFO - Line 86 - Record 2 exists in table2 (Person2)
+2025-02-13 18:54:17 - logic - INFO - Line 102 - Comparison completed for ID 1 and 2
+2025-02-13 18:54:17 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-13 18:54:17 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
+2025-02-13 18:54:17 - logic - INFO - Line 69 - Fetching records for ID 1
+2025-02-13 18:54:17 - logic - INFO - Line 76 - Record 1 exists in table1 (Person)
+2025-02-13 18:54:17 - logic - INFO - Line 86 - Record 1 exists in table2 (Person2)
+2025-02-13 18:54:17 - logic - INFO - Line 102 - Comparison completed for ID 1
+2025-02-13 18:54:17 - Repository - INFO - Line 23 - Database connection established.
+2025-02-13 18:54:17 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-13 18:54:17 - app - INFO - Line 14 - Flask application started
+2025-02-13 18:54:26 - Error Handlers - WARNING - Line 15 - ERROR HANDLER 404 GoT Called :NOT FOUND
+2025-02-13 18:54:26 - Error Handlers - WARNING - Line 15 - ERROR HANDLER 404 GoT Called :NOT FOUND
+2025-02-13 18:57:56 - Repository - INFO - Line 23 - Database connection established.
+2025-02-13 18:57:56 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-13 18:57:56 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-13 18:57:56 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
+2025-02-13 18:57:56 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person.
+2025-02-13 18:57:56 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person2.
+2025-02-13 18:57:56 - logic - INFO - Line 69 - Fetching records for ID 1
+2025-02-13 18:57:56 - logic - INFO - Line 76 - Record 1 exists in table1 (Person)
+2025-02-13 18:57:56 - logic - INFO - Line 86 - Record 1 exists in table2 (Person2)
+2025-02-13 18:57:56 - logic - INFO - Line 69 - Fetching records for ID 2
+2025-02-13 18:57:56 - logic - INFO - Line 76 - Record 2 exists in table1 (Person)
+2025-02-13 18:57:56 - logic - INFO - Line 86 - Record 2 exists in table2 (Person2)
+2025-02-13 18:57:56 - logic - INFO - Line 102 - Comparison completed for ID 1 and 2
+2025-02-13 18:57:56 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-13 18:57:56 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
+2025-02-13 18:57:56 - logic - INFO - Line 69 - Fetching records for ID 1
+2025-02-13 18:57:56 - logic - INFO - Line 76 - Record 1 exists in table1 (Person)
+2025-02-13 18:57:56 - logic - INFO - Line 86 - Record 1 exists in table2 (Person2)
+2025-02-13 18:57:56 - logic - INFO - Line 102 - Comparison completed for ID 1
+2025-02-13 18:57:56 - Repository - INFO - Line 23 - Database connection established.
+2025-02-13 18:57:56 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-13 18:57:56 - app - INFO - Line 14 - Flask application started
+2025-02-13 18:57:58 - Repository - INFO - Line 23 - Database connection established.
+2025-02-13 18:57:58 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-13 18:57:58 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-13 18:57:59 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
+2025-02-13 18:57:59 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person.
+2025-02-13 18:57:59 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person2.
+2025-02-13 18:57:59 - logic - INFO - Line 69 - Fetching records for ID 1
+2025-02-13 18:57:59 - logic - INFO - Line 76 - Record 1 exists in table1 (Person)
+2025-02-13 18:57:59 - logic - INFO - Line 86 - Record 1 exists in table2 (Person2)
+2025-02-13 18:57:59 - logic - INFO - Line 69 - Fetching records for ID 2
+2025-02-13 18:57:59 - logic - INFO - Line 76 - Record 2 exists in table1 (Person)
+2025-02-13 18:57:59 - logic - INFO - Line 86 - Record 2 exists in table2 (Person2)
+2025-02-13 18:57:59 - logic - INFO - Line 102 - Comparison completed for ID 1 and 2
+2025-02-13 18:57:59 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-13 18:57:59 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
+2025-02-13 18:57:59 - logic - INFO - Line 69 - Fetching records for ID 1
+2025-02-13 18:57:59 - logic - INFO - Line 76 - Record 1 exists in table1 (Person)
+2025-02-13 18:57:59 - logic - INFO - Line 86 - Record 1 exists in table2 (Person2)
+2025-02-13 18:57:59 - logic - INFO - Line 102 - Comparison completed for ID 1
+2025-02-13 18:57:59 - Repository - INFO - Line 23 - Database connection established.
+2025-02-13 18:57:59 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-13 18:57:59 - app - INFO - Line 14 - Flask application started
+2025-02-13 18:58:06 - Error Handlers - WARNING - Line 15 - ERROR HANDLER 404 GoT Called :NOT FOUND
+2025-02-13 18:58:11 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-13 18:58:11 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
+2025-02-13 18:58:11 - Repository - INFO - Line 27 - Fetching record with ID 3 from Person.
+2025-02-13 18:58:11 - Repository - INFO - Line 27 - Fetching record with ID 3 from Person2.
+2025-02-13 18:58:11 - logic - INFO - Line 69 - Fetching records for ID 1
+2025-02-13 18:58:11 - logic - INFO - Line 76 - Record 1 exists in table1 (Person)
+2025-02-13 18:58:11 - logic - INFO - Line 86 - Record 1 exists in table2 (Person2)
+2025-02-13 18:58:11 - logic - INFO - Line 69 - Fetching records for ID 3
+2025-02-13 18:58:11 - logic - INFO - Line 76 - Record 3 exists in table1 (Person)
+2025-02-13 18:58:11 - logic - INFO - Line 86 - Record 3 exists in table2 (Person2)
+2025-02-13 18:58:11 - logic - INFO - Line 102 - Comparison completed for ID 1 and 3
+2025-02-13 18:58:11 - Routes - INFO - Line 50 - Fetch records based on Two IDs 1,3
+2025-02-13 18:58:11 - Routes - INFO - Line 55 - Both table1 and table2 have no records
+2025-02-13 18:58:11 - Routes - INFO - Line 58 - returning the records with 200 OK code
+2025-02-13 19:11:39 - Repository - INFO - Line 23 - Database connection established.
+2025-02-13 19:11:39 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-13 19:11:39 - Repository - INFO - Line 23 - Database connection established.
+2025-02-13 19:11:39 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-13 19:11:39 - app - INFO - Line 14 - Flask application started
+2025-02-13 19:16:17 - Repository - INFO - Line 23 - Database connection established.
+2025-02-13 19:16:17 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-13 19:16:17 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-13 19:16:17 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
+2025-02-13 19:16:17 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person.
+2025-02-13 19:16:17 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person2.
+2025-02-13 19:16:17 - logic - INFO - Line 69 - Fetching records for ID 1
+2025-02-13 19:16:17 - logic - INFO - Line 76 - Record 1 exists in table1 (Person)
+2025-02-13 19:16:17 - logic - INFO - Line 86 - Record 1 exists in table2 (Person2)
+2025-02-13 19:16:17 - logic - INFO - Line 69 - Fetching records for ID 2
+2025-02-13 19:16:17 - logic - INFO - Line 76 - Record 2 exists in table1 (Person)
+2025-02-13 19:16:17 - logic - INFO - Line 86 - Record 2 exists in table2 (Person2)
+2025-02-13 19:16:17 - logic - INFO - Line 102 - Comparison completed for ID 1 and 2
+2025-02-13 19:16:17 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-13 19:16:17 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
+2025-02-13 19:16:17 - logic - INFO - Line 69 - Fetching records for ID 1
+2025-02-13 19:16:17 - logic - INFO - Line 76 - Record 1 exists in table1 (Person)
+2025-02-13 19:16:17 - logic - INFO - Line 86 - Record 1 exists in table2 (Person2)
+2025-02-13 19:16:17 - logic - INFO - Line 102 - Comparison completed for ID 1
+2025-02-13 19:16:17 - Repository - INFO - Line 23 - Database connection established.
+2025-02-13 19:16:17 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-13 19:16:17 - app - INFO - Line 14 - Flask application started
+2025-02-13 19:20:16 - Repository - INFO - Line 23 - Database connection established.
+2025-02-13 19:20:16 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-13 19:20:16 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-13 19:20:17 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
+2025-02-13 19:20:17 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person.
+2025-02-13 19:20:17 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person2.
+2025-02-13 19:20:17 - logic - INFO - Line 69 - Fetching records for ID 1
+2025-02-13 19:20:17 - logic - INFO - Line 76 - Record 1 exists in table1 (Person)
+2025-02-13 19:20:17 - logic - INFO - Line 86 - Record 1 exists in table2 (Person2)
+2025-02-13 19:20:17 - logic - INFO - Line 69 - Fetching records for ID 2
+2025-02-13 19:20:17 - logic - INFO - Line 76 - Record 2 exists in table1 (Person)
+2025-02-13 19:20:17 - logic - INFO - Line 86 - Record 2 exists in table2 (Person2)
+2025-02-13 19:20:17 - logic - INFO - Line 102 - Comparison completed for ID 1 and 2
+2025-02-13 19:20:17 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-13 19:20:17 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
+2025-02-13 19:20:17 - logic - INFO - Line 69 - Fetching records for ID 1
+2025-02-13 19:20:17 - logic - INFO - Line 76 - Record 1 exists in table1 (Person)
+2025-02-13 19:20:17 - logic - INFO - Line 86 - Record 1 exists in table2 (Person2)
+2025-02-13 19:20:17 - logic - INFO - Line 102 - Comparison completed for ID 1
+2025-02-13 19:20:17 - Repository - INFO - Line 23 - Database connection established.
+2025-02-13 19:20:17 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-13 19:20:17 - app - INFO - Line 14 - Flask application started
+2025-02-13 19:21:18 - Repository - INFO - Line 23 - Database connection established.
+2025-02-13 19:21:18 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-13 19:21:18 - Repository - INFO - Line 23 - Database connection established.
+2025-02-13 19:21:18 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-13 19:21:18 - app - INFO - Line 14 - Flask application started
+2025-02-13 19:21:19 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-13 19:21:19 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
+2025-02-13 19:21:19 - Repository - INFO - Line 27 - Fetching record with ID 3 from Person.
+2025-02-13 19:21:19 - Repository - INFO - Line 27 - Fetching record with ID 3 from Person2.
+2025-02-13 19:21:19 - logic - INFO - Line 70 - Fetching records for ID 1
+2025-02-13 19:21:19 - logic - INFO - Line 77 - Record 1 exists in table1 (Person)
+2025-02-13 19:21:19 - logic - INFO - Line 87 - Record 1 exists in table2 (Person2)
+2025-02-13 19:21:19 - logic - INFO - Line 70 - Fetching records for ID 3
+2025-02-13 19:21:19 - logic - INFO - Line 77 - Record 3 exists in table1 (Person)
+2025-02-13 19:21:19 - logic - INFO - Line 87 - Record 3 exists in table2 (Person2)
+2025-02-13 19:21:19 - logic - INFO - Line 103 - Comparison completed for ID 1 and 3
+2025-02-13 19:21:19 - Routes - INFO - Line 49 - Fetch records based on Two IDs 1,3
+2025-02-13 19:21:19 - Routes - INFO - Line 54 - Both table1 and table2 have no records
+2025-02-13 19:21:19 - Routes - INFO - Line 57 - returning the records with 200 OK code
+2025-02-13 19:21:25 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-13 19:21:25 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
+2025-02-13 19:21:25 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person.
+2025-02-13 19:21:25 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person2.
+2025-02-13 19:21:25 - logic - INFO - Line 70 - Fetching records for ID 1
+2025-02-13 19:21:25 - logic - INFO - Line 77 - Record 1 exists in table1 (Person)
+2025-02-13 19:21:25 - logic - INFO - Line 87 - Record 1 exists in table2 (Person2)
+2025-02-13 19:21:25 - logic - INFO - Line 70 - Fetching records for ID 2
+2025-02-13 19:21:25 - logic - INFO - Line 77 - Record 2 exists in table1 (Person)
+2025-02-13 19:21:25 - logic - INFO - Line 87 - Record 2 exists in table2 (Person2)
+2025-02-13 19:21:25 - logic - INFO - Line 103 - Comparison completed for ID 1 and 2
+2025-02-13 19:21:25 - Routes - INFO - Line 49 - Fetch records based on Two IDs 1,2
+2025-02-13 19:21:25 - Routes - INFO - Line 54 - Both table1 and table2 have no records
+2025-02-13 19:21:25 - Routes - INFO - Line 57 - returning the records with 200 OK code
+2025-02-13 19:21:38 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-13 19:21:38 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
+2025-02-13 19:21:38 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-13 19:21:38 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
+2025-02-13 19:21:38 - logic - INFO - Line 70 - Fetching records for ID 1
+2025-02-13 19:21:38 - logic - INFO - Line 77 - Record 1 exists in table1 (Person)
+2025-02-13 19:21:38 - logic - INFO - Line 87 - Record 1 exists in table2 (Person2)
+2025-02-13 19:21:38 - logic - INFO - Line 70 - Fetching records for ID 1
+2025-02-13 19:21:38 - logic - INFO - Line 77 - Record 1 exists in table1 (Person)
+2025-02-13 19:21:38 - logic - INFO - Line 87 - Record 1 exists in table2 (Person2)
+2025-02-13 19:21:38 - logic - INFO - Line 103 - Comparison completed for ID 1 and 1
+2025-02-13 19:21:38 - Routes - INFO - Line 49 - Fetch records based on Two IDs 1,1
+2025-02-13 19:21:38 - Routes - INFO - Line 54 - Both table1 and table2 have no records
+2025-02-13 19:21:38 - Routes - INFO - Line 57 - returning the records with 200 OK code
+2025-02-13 19:22:32 - Repository - INFO - Line 23 - Database connection established.
+2025-02-13 19:22:32 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-13 19:22:32 - Repository - INFO - Line 23 - Database connection established.
+2025-02-13 19:22:32 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-13 19:22:32 - app - INFO - Line 14 - Flask application started
+2025-02-13 19:26:32 - Repository - INFO - Line 23 - Database connection established.
+2025-02-13 19:26:32 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-13 19:26:32 - Repository - INFO - Line 23 - Database connection established.
+2025-02-13 19:26:32 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-13 19:26:32 - app - INFO - Line 14 - Flask application started
+2025-02-13 19:43:31 - Repository - INFO - Line 23 - Database connection established.
+2025-02-13 19:43:31 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-13 19:43:31 - Repository - INFO - Line 23 - Database connection established.
+2025-02-13 19:43:31 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-13 19:43:31 - app - INFO - Line 14 - Flask application started
+2025-02-13 19:46:43 - Repository - INFO - Line 23 - Database connection established.
+2025-02-13 19:46:43 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-13 19:46:43 - Repository - INFO - Line 23 - Database connection established.
+2025-02-13 19:46:43 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-13 19:46:43 - app - INFO - Line 14 - Flask application started

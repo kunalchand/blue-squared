@@ -2,12 +2,11 @@ import logging
 import os
 
 # Create log directory if it doesn't exist
-log_directory = 'log'
-if not os.path.exists(log_directory):
-    os.makedirs(log_directory)
+root_directory = 'C:/Users/manda/OneDrive/Desktop/TruLogik/blue-squared'
+
 
 # Define the log file path
-log_file_path = os.path.join(log_directory, 'app_log.log')
+log_file_path = os.path.join(root_directory,'logs')
 
 # Set up the logging configuration
 def setup_logger(module_name):
