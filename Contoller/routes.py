@@ -1,9 +1,9 @@
 from flask import jsonify
-from Service.logic import RecordService
+from Service.logic import *
 from log.log_config import setup_logger
-
-record_service = RecordService()
 logger = setup_logger("routes")
+
+record_service = RecordService(fetch, compare, response)
 
 def init_routes(app):
     @app.route('/get_records/<id>', methods=['GET'])
