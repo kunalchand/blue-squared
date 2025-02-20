@@ -6,11 +6,13 @@ from Config.config import get_db_url
 
 logger = setup_logger("Repository")
 
+
 # Repository Interface (Abstract Base Class)
 class RepositoryInterface(ABC):
     @abstractmethod
     def get_record(self, model_class, record_id):
         pass
+
 
 # Base Repository class providing common functionality for database connection
 class BaseRepository(RepositoryInterface):
@@ -27,6 +29,7 @@ class BaseRepository(RepositoryInterface):
         logger.info(f"Fetching record with ID {record_id} from {model_class.__name__}.")
         record = self.session.query(model_class).filter(model_class.id == record_id).first()
         return record
+
 
 # DatabaseRepository class for handling specific operations for different tables
 class DatabaseRepository(BaseRepository):

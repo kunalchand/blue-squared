@@ -1,327 +1,733 @@
-2025-02-12 16:02:41 - Repository - INFO - Line 23 - Database connection established.
-2025-02-12 16:02:41 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-12 17:26:35 - Repository - INFO - Line 23 - Database connection established.
-2025-02-12 17:26:35 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-12 17:26:49 - Repository - INFO - Line 23 - Database connection established.
-2025-02-12 17:26:49 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-12 17:28:03 - Repository - INFO - Line 23 - Database connection established.
-2025-02-12 17:28:03 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-12 17:28:36 - Repository - INFO - Line 23 - Database connection established.
-2025-02-12 17:28:36 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-12 17:29:13 - Repository - INFO - Line 23 - Database connection established.
-2025-02-12 17:29:13 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-12 17:33:42 - Repository - INFO - Line 23 - Database connection established.
-2025-02-12 17:33:42 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-12 17:33:42 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
-2025-02-12 17:34:10 - Repository - INFO - Line 23 - Database connection established.
-2025-02-12 17:34:10 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-12 17:34:10 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
-2025-02-12 17:34:41 - Repository - INFO - Line 23 - Database connection established.
-2025-02-12 17:34:41 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-12 17:34:41 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
-2025-02-12 17:38:24 - Repository - INFO - Line 23 - Database connection established.
-2025-02-12 17:38:24 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-12 17:38:24 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
-2025-02-12 18:10:31 - Repository - INFO - Line 23 - Database connection established.
-2025-02-12 18:10:31 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-12 18:10:44 - Repository - INFO - Line 23 - Database connection established.
-2025-02-12 18:10:44 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-12 18:10:44 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
-2025-02-12 18:11:53 - Repository - INFO - Line 23 - Database connection established.
-2025-02-12 18:11:53 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-12 18:11:53 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
-2025-02-12 18:16:08 - Repository - INFO - Line 23 - Database connection established.
-2025-02-12 18:16:08 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-12 18:16:08 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
-2025-02-12 18:20:20 - Repository - INFO - Line 23 - Database connection established.
-2025-02-12 18:20:20 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-12 18:20:20 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
-2025-02-12 18:22:29 - Repository - INFO - Line 23 - Database connection established.
-2025-02-12 18:22:29 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-12 18:22:29 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
-2025-02-12 18:23:59 - Repository - INFO - Line 23 - Database connection established.
-2025-02-12 18:23:59 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-12 18:23:59 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
-2025-02-12 18:25:55 - Repository - INFO - Line 23 - Database connection established.
-2025-02-12 18:25:55 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-12 18:26:34 - Repository - INFO - Line 23 - Database connection established.
-2025-02-12 18:26:34 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-12 18:26:46 - Repository - INFO - Line 23 - Database connection established.
-2025-02-12 18:26:46 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-12 18:27:14 - Repository - INFO - Line 23 - Database connection established.
-2025-02-12 18:27:14 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-12 18:27:14 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
-2025-02-12 18:27:47 - Repository - INFO - Line 23 - Database connection established.
-2025-02-12 18:27:47 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-12 18:27:47 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
-2025-02-12 18:28:40 - Repository - INFO - Line 23 - Database connection established.
-2025-02-12 18:28:40 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-12 18:38:22 - Repository - INFO - Line 23 - Database connection established.
-2025-02-12 18:38:22 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-12 18:38:22 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person.
-2025-02-12 18:38:22 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person2.
-2025-02-12 18:38:22 - logic - INFO - Line 69 - Fetching records for ID 2
-2025-02-12 18:38:22 - logic - INFO - Line 76 - Record 2 exists in table1 (Person)
-2025-02-12 18:38:22 - logic - INFO - Line 86 - Record 2 exists in table2 (Person2)
-2025-02-12 18:38:22 - logic - INFO - Line 102 - Comparison completed for ID 2
-2025-02-12 18:38:22 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
-2025-02-12 18:38:22 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
-2025-02-12 18:38:22 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person.
-2025-02-12 18:38:22 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person2.
-2025-02-12 18:38:22 - logic - INFO - Line 69 - Fetching records for ID 1
-2025-02-12 18:38:22 - logic - INFO - Line 76 - Record 1 exists in table1 (Person)
-2025-02-12 18:38:22 - logic - INFO - Line 86 - Record 1 exists in table2 (Person2)
-2025-02-12 18:38:22 - logic - INFO - Line 69 - Fetching records for ID 2
-2025-02-12 18:38:22 - logic - INFO - Line 76 - Record 2 exists in table1 (Person)
-2025-02-12 18:38:22 - logic - INFO - Line 86 - Record 2 exists in table2 (Person2)
-2025-02-12 18:38:22 - logic - INFO - Line 102 - Comparison completed for ID 1 and 2
-2025-02-13 13:06:12 - Repository - INFO - Line 23 - Database connection established.
-2025-02-13 13:06:12 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-13 13:06:12 - Repository - INFO - Line 23 - Database connection established.
-2025-02-13 13:06:12 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-13 13:15:52 - Repository - INFO - Line 23 - Database connection established.
-2025-02-13 13:15:52 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-13 13:18:09 - Repository - INFO - Line 23 - Database connection established.
-2025-02-13 13:18:09 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-13 13:18:09 - Repository - INFO - Line 23 - Database connection established.
-2025-02-13 13:18:09 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-13 13:18:09 - Repository - INFO - Line 23 - Database connection established.
-2025-02-13 13:18:09 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-13 13:18:09 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
-2025-02-13 13:18:10 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
-2025-02-13 13:18:10 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person.
-2025-02-13 13:18:10 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person2.
-2025-02-13 13:18:10 - logic - INFO - Line 69 - Fetching records for ID 1
-2025-02-13 13:18:10 - logic - INFO - Line 76 - Record 1 exists in table1 (Person)
-2025-02-13 13:18:10 - logic - INFO - Line 86 - Record 1 exists in table2 (Person2)
-2025-02-13 13:18:10 - logic - INFO - Line 69 - Fetching records for ID 2
-2025-02-13 13:18:10 - logic - INFO - Line 76 - Record 2 exists in table1 (Person)
-2025-02-13 13:18:10 - logic - INFO - Line 86 - Record 2 exists in table2 (Person2)
-2025-02-13 13:18:10 - logic - INFO - Line 102 - Comparison completed for ID 1 and 2
-2025-02-13 13:18:10 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
-2025-02-13 13:18:10 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
-2025-02-13 13:18:10 - logic - INFO - Line 69 - Fetching records for ID 1
-2025-02-13 13:18:10 - logic - INFO - Line 76 - Record 1 exists in table1 (Person)
-2025-02-13 13:18:10 - logic - INFO - Line 86 - Record 1 exists in table2 (Person2)
-2025-02-13 13:18:10 - logic - INFO - Line 102 - Comparison completed for ID 1
-2025-02-13 18:54:15 - Repository - INFO - Line 23 - Database connection established.
-2025-02-13 18:54:15 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-13 18:54:15 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
-2025-02-13 18:54:15 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
-2025-02-13 18:54:15 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person.
-2025-02-13 18:54:15 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person2.
-2025-02-13 18:54:15 - logic - INFO - Line 69 - Fetching records for ID 1
-2025-02-13 18:54:15 - logic - INFO - Line 76 - Record 1 exists in table1 (Person)
-2025-02-13 18:54:15 - logic - INFO - Line 86 - Record 1 exists in table2 (Person2)
-2025-02-13 18:54:15 - logic - INFO - Line 69 - Fetching records for ID 2
-2025-02-13 18:54:15 - logic - INFO - Line 76 - Record 2 exists in table1 (Person)
-2025-02-13 18:54:15 - logic - INFO - Line 86 - Record 2 exists in table2 (Person2)
-2025-02-13 18:54:15 - logic - INFO - Line 102 - Comparison completed for ID 1 and 2
-2025-02-13 18:54:15 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
-2025-02-13 18:54:15 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
-2025-02-13 18:54:15 - logic - INFO - Line 69 - Fetching records for ID 1
-2025-02-13 18:54:15 - logic - INFO - Line 76 - Record 1 exists in table1 (Person)
-2025-02-13 18:54:15 - logic - INFO - Line 86 - Record 1 exists in table2 (Person2)
-2025-02-13 18:54:15 - logic - INFO - Line 102 - Comparison completed for ID 1
-2025-02-13 18:54:15 - Repository - INFO - Line 23 - Database connection established.
-2025-02-13 18:54:15 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-13 18:54:15 - app - INFO - Line 14 - Flask application started
-2025-02-13 18:54:17 - Repository - INFO - Line 23 - Database connection established.
-2025-02-13 18:54:17 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-13 18:54:17 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
-2025-02-13 18:54:17 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
-2025-02-13 18:54:17 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person.
-2025-02-13 18:54:17 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person2.
-2025-02-13 18:54:17 - logic - INFO - Line 69 - Fetching records for ID 1
-2025-02-13 18:54:17 - logic - INFO - Line 76 - Record 1 exists in table1 (Person)
-2025-02-13 18:54:17 - logic - INFO - Line 86 - Record 1 exists in table2 (Person2)
-2025-02-13 18:54:17 - logic - INFO - Line 69 - Fetching records for ID 2
-2025-02-13 18:54:17 - logic - INFO - Line 76 - Record 2 exists in table1 (Person)
-2025-02-13 18:54:17 - logic - INFO - Line 86 - Record 2 exists in table2 (Person2)
-2025-02-13 18:54:17 - logic - INFO - Line 102 - Comparison completed for ID 1 and 2
-2025-02-13 18:54:17 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
-2025-02-13 18:54:17 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
-2025-02-13 18:54:17 - logic - INFO - Line 69 - Fetching records for ID 1
-2025-02-13 18:54:17 - logic - INFO - Line 76 - Record 1 exists in table1 (Person)
-2025-02-13 18:54:17 - logic - INFO - Line 86 - Record 1 exists in table2 (Person2)
-2025-02-13 18:54:17 - logic - INFO - Line 102 - Comparison completed for ID 1
-2025-02-13 18:54:17 - Repository - INFO - Line 23 - Database connection established.
-2025-02-13 18:54:17 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-13 18:54:17 - app - INFO - Line 14 - Flask application started
-2025-02-13 18:54:26 - Error Handlers - WARNING - Line 15 - ERROR HANDLER 404 GoT Called :NOT FOUND
-2025-02-13 18:54:26 - Error Handlers - WARNING - Line 15 - ERROR HANDLER 404 GoT Called :NOT FOUND
-2025-02-13 18:57:56 - Repository - INFO - Line 23 - Database connection established.
-2025-02-13 18:57:56 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-13 18:57:56 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
-2025-02-13 18:57:56 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
-2025-02-13 18:57:56 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person.
-2025-02-13 18:57:56 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person2.
-2025-02-13 18:57:56 - logic - INFO - Line 69 - Fetching records for ID 1
-2025-02-13 18:57:56 - logic - INFO - Line 76 - Record 1 exists in table1 (Person)
-2025-02-13 18:57:56 - logic - INFO - Line 86 - Record 1 exists in table2 (Person2)
-2025-02-13 18:57:56 - logic - INFO - Line 69 - Fetching records for ID 2
-2025-02-13 18:57:56 - logic - INFO - Line 76 - Record 2 exists in table1 (Person)
-2025-02-13 18:57:56 - logic - INFO - Line 86 - Record 2 exists in table2 (Person2)
-2025-02-13 18:57:56 - logic - INFO - Line 102 - Comparison completed for ID 1 and 2
-2025-02-13 18:57:56 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
-2025-02-13 18:57:56 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
-2025-02-13 18:57:56 - logic - INFO - Line 69 - Fetching records for ID 1
-2025-02-13 18:57:56 - logic - INFO - Line 76 - Record 1 exists in table1 (Person)
-2025-02-13 18:57:56 - logic - INFO - Line 86 - Record 1 exists in table2 (Person2)
-2025-02-13 18:57:56 - logic - INFO - Line 102 - Comparison completed for ID 1
-2025-02-13 18:57:56 - Repository - INFO - Line 23 - Database connection established.
-2025-02-13 18:57:56 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-13 18:57:56 - app - INFO - Line 14 - Flask application started
-2025-02-13 18:57:58 - Repository - INFO - Line 23 - Database connection established.
-2025-02-13 18:57:58 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-13 18:57:58 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
-2025-02-13 18:57:59 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
-2025-02-13 18:57:59 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person.
-2025-02-13 18:57:59 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person2.
-2025-02-13 18:57:59 - logic - INFO - Line 69 - Fetching records for ID 1
-2025-02-13 18:57:59 - logic - INFO - Line 76 - Record 1 exists in table1 (Person)
-2025-02-13 18:57:59 - logic - INFO - Line 86 - Record 1 exists in table2 (Person2)
-2025-02-13 18:57:59 - logic - INFO - Line 69 - Fetching records for ID 2
-2025-02-13 18:57:59 - logic - INFO - Line 76 - Record 2 exists in table1 (Person)
-2025-02-13 18:57:59 - logic - INFO - Line 86 - Record 2 exists in table2 (Person2)
-2025-02-13 18:57:59 - logic - INFO - Line 102 - Comparison completed for ID 1 and 2
-2025-02-13 18:57:59 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
-2025-02-13 18:57:59 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
-2025-02-13 18:57:59 - logic - INFO - Line 69 - Fetching records for ID 1
-2025-02-13 18:57:59 - logic - INFO - Line 76 - Record 1 exists in table1 (Person)
-2025-02-13 18:57:59 - logic - INFO - Line 86 - Record 1 exists in table2 (Person2)
-2025-02-13 18:57:59 - logic - INFO - Line 102 - Comparison completed for ID 1
-2025-02-13 18:57:59 - Repository - INFO - Line 23 - Database connection established.
-2025-02-13 18:57:59 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-13 18:57:59 - app - INFO - Line 14 - Flask application started
-2025-02-13 18:58:06 - Error Handlers - WARNING - Line 15 - ERROR HANDLER 404 GoT Called :NOT FOUND
-2025-02-13 18:58:11 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
-2025-02-13 18:58:11 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
-2025-02-13 18:58:11 - Repository - INFO - Line 27 - Fetching record with ID 3 from Person.
-2025-02-13 18:58:11 - Repository - INFO - Line 27 - Fetching record with ID 3 from Person2.
-2025-02-13 18:58:11 - logic - INFO - Line 69 - Fetching records for ID 1
-2025-02-13 18:58:11 - logic - INFO - Line 76 - Record 1 exists in table1 (Person)
-2025-02-13 18:58:11 - logic - INFO - Line 86 - Record 1 exists in table2 (Person2)
-2025-02-13 18:58:11 - logic - INFO - Line 69 - Fetching records for ID 3
-2025-02-13 18:58:11 - logic - INFO - Line 76 - Record 3 exists in table1 (Person)
-2025-02-13 18:58:11 - logic - INFO - Line 86 - Record 3 exists in table2 (Person2)
-2025-02-13 18:58:11 - logic - INFO - Line 102 - Comparison completed for ID 1 and 3
-2025-02-13 18:58:11 - Routes - INFO - Line 50 - Fetch records based on Two IDs 1,3
-2025-02-13 18:58:11 - Routes - INFO - Line 55 - Both table1 and table2 have no records
-2025-02-13 18:58:11 - Routes - INFO - Line 58 - returning the records with 200 OK code
-2025-02-13 19:11:39 - Repository - INFO - Line 23 - Database connection established.
-2025-02-13 19:11:39 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-13 19:11:39 - Repository - INFO - Line 23 - Database connection established.
-2025-02-13 19:11:39 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-13 19:11:39 - app - INFO - Line 14 - Flask application started
-2025-02-13 19:16:17 - Repository - INFO - Line 23 - Database connection established.
-2025-02-13 19:16:17 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-13 19:16:17 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
-2025-02-13 19:16:17 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
-2025-02-13 19:16:17 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person.
-2025-02-13 19:16:17 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person2.
-2025-02-13 19:16:17 - logic - INFO - Line 69 - Fetching records for ID 1
-2025-02-13 19:16:17 - logic - INFO - Line 76 - Record 1 exists in table1 (Person)
-2025-02-13 19:16:17 - logic - INFO - Line 86 - Record 1 exists in table2 (Person2)
-2025-02-13 19:16:17 - logic - INFO - Line 69 - Fetching records for ID 2
-2025-02-13 19:16:17 - logic - INFO - Line 76 - Record 2 exists in table1 (Person)
-2025-02-13 19:16:17 - logic - INFO - Line 86 - Record 2 exists in table2 (Person2)
-2025-02-13 19:16:17 - logic - INFO - Line 102 - Comparison completed for ID 1 and 2
-2025-02-13 19:16:17 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
-2025-02-13 19:16:17 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
-2025-02-13 19:16:17 - logic - INFO - Line 69 - Fetching records for ID 1
-2025-02-13 19:16:17 - logic - INFO - Line 76 - Record 1 exists in table1 (Person)
-2025-02-13 19:16:17 - logic - INFO - Line 86 - Record 1 exists in table2 (Person2)
-2025-02-13 19:16:17 - logic - INFO - Line 102 - Comparison completed for ID 1
-2025-02-13 19:16:17 - Repository - INFO - Line 23 - Database connection established.
-2025-02-13 19:16:17 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-13 19:16:17 - app - INFO - Line 14 - Flask application started
-2025-02-13 19:20:16 - Repository - INFO - Line 23 - Database connection established.
-2025-02-13 19:20:16 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-13 19:20:16 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
-2025-02-13 19:20:17 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
-2025-02-13 19:20:17 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person.
-2025-02-13 19:20:17 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person2.
-2025-02-13 19:20:17 - logic - INFO - Line 69 - Fetching records for ID 1
-2025-02-13 19:20:17 - logic - INFO - Line 76 - Record 1 exists in table1 (Person)
-2025-02-13 19:20:17 - logic - INFO - Line 86 - Record 1 exists in table2 (Person2)
-2025-02-13 19:20:17 - logic - INFO - Line 69 - Fetching records for ID 2
-2025-02-13 19:20:17 - logic - INFO - Line 76 - Record 2 exists in table1 (Person)
-2025-02-13 19:20:17 - logic - INFO - Line 86 - Record 2 exists in table2 (Person2)
-2025-02-13 19:20:17 - logic - INFO - Line 102 - Comparison completed for ID 1 and 2
-2025-02-13 19:20:17 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
-2025-02-13 19:20:17 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
-2025-02-13 19:20:17 - logic - INFO - Line 69 - Fetching records for ID 1
-2025-02-13 19:20:17 - logic - INFO - Line 76 - Record 1 exists in table1 (Person)
-2025-02-13 19:20:17 - logic - INFO - Line 86 - Record 1 exists in table2 (Person2)
-2025-02-13 19:20:17 - logic - INFO - Line 102 - Comparison completed for ID 1
-2025-02-13 19:20:17 - Repository - INFO - Line 23 - Database connection established.
-2025-02-13 19:20:17 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-13 19:20:17 - app - INFO - Line 14 - Flask application started
-2025-02-13 19:21:18 - Repository - INFO - Line 23 - Database connection established.
-2025-02-13 19:21:18 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-13 19:21:18 - Repository - INFO - Line 23 - Database connection established.
-2025-02-13 19:21:18 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-13 19:21:18 - app - INFO - Line 14 - Flask application started
-2025-02-13 19:21:19 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
-2025-02-13 19:21:19 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
-2025-02-13 19:21:19 - Repository - INFO - Line 27 - Fetching record with ID 3 from Person.
-2025-02-13 19:21:19 - Repository - INFO - Line 27 - Fetching record with ID 3 from Person2.
-2025-02-13 19:21:19 - logic - INFO - Line 70 - Fetching records for ID 1
-2025-02-13 19:21:19 - logic - INFO - Line 77 - Record 1 exists in table1 (Person)
-2025-02-13 19:21:19 - logic - INFO - Line 87 - Record 1 exists in table2 (Person2)
-2025-02-13 19:21:19 - logic - INFO - Line 70 - Fetching records for ID 3
-2025-02-13 19:21:19 - logic - INFO - Line 77 - Record 3 exists in table1 (Person)
-2025-02-13 19:21:19 - logic - INFO - Line 87 - Record 3 exists in table2 (Person2)
-2025-02-13 19:21:19 - logic - INFO - Line 103 - Comparison completed for ID 1 and 3
-2025-02-13 19:21:19 - Routes - INFO - Line 49 - Fetch records based on Two IDs 1,3
-2025-02-13 19:21:19 - Routes - INFO - Line 54 - Both table1 and table2 have no records
-2025-02-13 19:21:19 - Routes - INFO - Line 57 - returning the records with 200 OK code
-2025-02-13 19:21:25 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
-2025-02-13 19:21:25 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
-2025-02-13 19:21:25 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person.
-2025-02-13 19:21:25 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person2.
-2025-02-13 19:21:25 - logic - INFO - Line 70 - Fetching records for ID 1
-2025-02-13 19:21:25 - logic - INFO - Line 77 - Record 1 exists in table1 (Person)
-2025-02-13 19:21:25 - logic - INFO - Line 87 - Record 1 exists in table2 (Person2)
-2025-02-13 19:21:25 - logic - INFO - Line 70 - Fetching records for ID 2
-2025-02-13 19:21:25 - logic - INFO - Line 77 - Record 2 exists in table1 (Person)
-2025-02-13 19:21:25 - logic - INFO - Line 87 - Record 2 exists in table2 (Person2)
-2025-02-13 19:21:25 - logic - INFO - Line 103 - Comparison completed for ID 1 and 2
-2025-02-13 19:21:25 - Routes - INFO - Line 49 - Fetch records based on Two IDs 1,2
-2025-02-13 19:21:25 - Routes - INFO - Line 54 - Both table1 and table2 have no records
-2025-02-13 19:21:25 - Routes - INFO - Line 57 - returning the records with 200 OK code
-2025-02-13 19:21:38 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
-2025-02-13 19:21:38 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
-2025-02-13 19:21:38 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
-2025-02-13 19:21:38 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
-2025-02-13 19:21:38 - logic - INFO - Line 70 - Fetching records for ID 1
-2025-02-13 19:21:38 - logic - INFO - Line 77 - Record 1 exists in table1 (Person)
-2025-02-13 19:21:38 - logic - INFO - Line 87 - Record 1 exists in table2 (Person2)
-2025-02-13 19:21:38 - logic - INFO - Line 70 - Fetching records for ID 1
-2025-02-13 19:21:38 - logic - INFO - Line 77 - Record 1 exists in table1 (Person)
-2025-02-13 19:21:38 - logic - INFO - Line 87 - Record 1 exists in table2 (Person2)
-2025-02-13 19:21:38 - logic - INFO - Line 103 - Comparison completed for ID 1 and 1
-2025-02-13 19:21:38 - Routes - INFO - Line 49 - Fetch records based on Two IDs 1,1
-2025-02-13 19:21:38 - Routes - INFO - Line 54 - Both table1 and table2 have no records
-2025-02-13 19:21:38 - Routes - INFO - Line 57 - returning the records with 200 OK code
-2025-02-13 19:22:32 - Repository - INFO - Line 23 - Database connection established.
-2025-02-13 19:22:32 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-13 19:22:32 - Repository - INFO - Line 23 - Database connection established.
-2025-02-13 19:22:32 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-13 19:22:32 - app - INFO - Line 14 - Flask application started
-2025-02-13 19:26:32 - Repository - INFO - Line 23 - Database connection established.
-2025-02-13 19:26:32 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-13 19:26:32 - Repository - INFO - Line 23 - Database connection established.
-2025-02-13 19:26:32 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-13 19:26:32 - app - INFO - Line 14 - Flask application started
-2025-02-13 19:43:31 - Repository - INFO - Line 23 - Database connection established.
-2025-02-13 19:43:31 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-13 19:43:31 - Repository - INFO - Line 23 - Database connection established.
-2025-02-13 19:43:31 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-13 19:43:31 - app - INFO - Line 14 - Flask application started
-2025-02-13 19:46:43 - Repository - INFO - Line 23 - Database connection established.
-2025-02-13 19:46:43 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-13 19:46:43 - Repository - INFO - Line 23 - Database connection established.
-2025-02-13 19:46:43 - Repository - INFO - Line 35 - DatabaseRepository initialized.
-2025-02-13 19:46:43 - app - INFO - Line 14 - Flask application started
+2025-02-17 10:41:23 - Repository - INFO - Line 23 - Database connection established.
+2025-02-17 10:41:23 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-17 10:41:23 - logic - INFO - Line 117 - RecordService initialized with FetchStrategy, ComparisonStrategy, and ResponseStrategy
+2025-02-17 10:41:23 - logic - INFO - Line 122 - Fetching records for IDs: 1
+2025-02-17 10:41:23 - logic - INFO - Line 37 - Fetching record from table1 with ID 1.
+2025-02-17 10:41:23 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-17 10:41:24 - logic - INFO - Line 128 - Record from Table 1 (ID: 1): <Model.models.Person object at 0x000002D6A3FE3A00>
+2025-02-17 10:41:24 - logic - INFO - Line 41 - Fetching record from table2 with ID 1.
+2025-02-17 10:41:24 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
+2025-02-17 10:41:24 - logic - INFO - Line 132 - Record from Table 2 (ID: 1): <Model.models.Person2 object at 0x000002D6A3FE37F0>
+2025-02-17 10:41:24 - logic - INFO - Line 93 - Adding record from Table 1: <Model.models.Person object at 0x000002D6A3FE3A00>
+2025-02-17 10:41:24 - logic - INFO - Line 101 - Adding record from Table 2: <Model.models.Person2 object at 0x000002D6A3FE37F0>
+2025-02-17 10:41:24 - logic - INFO - Line 137 - Generated response: {'table1': {'id': 1, 'name': 'John Doe', 'gender': 'Male', 'height': 180, 'city': 'New York'}, 'table2': {'id': 1, 'name': 'Liam Turner', 'gender': 'Male', 'height': 170, 'city': 'Houston'}}
+2025-02-17 10:41:24 - logic - INFO - Line 63 - Comparing records.
+2025-02-17 10:41:24 - logic - INFO - Line 141 - Comparison result: {'same_fields': {'id': 1, 'gender': 'Male'}, 'different_fields': {'name': {'Table1_value': 'John Doe', 'Table2_Value': 'Liam Turner'}, 'height_cm': {'Table1_value': 180, 'Table2_Value': 170}, 'city': {'Table1_value': 'New York', 'Table2_Value': 'Houston'}}}
+2025-02-17 10:43:47 - Repository - INFO - Line 23 - Database connection established.
+2025-02-17 10:43:47 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-17 10:43:47 - logic - INFO - Line 117 - RecordService initialized with FetchStrategy, ComparisonStrategy, and ResponseStrategy
+2025-02-17 10:44:09 - Repository - INFO - Line 23 - Database connection established.
+2025-02-17 10:44:09 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-17 10:44:09 - logic - INFO - Line 117 - RecordService initialized with FetchStrategy, ComparisonStrategy, and ResponseStrategy
+2025-02-17 10:44:09 - logic - INFO - Line 122 - Fetching records for IDs: 1, 2
+2025-02-17 10:44:09 - logic - INFO - Line 37 - Fetching record from table1 with ID 1.
+2025-02-17 10:44:09 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-17 10:44:09 - logic - INFO - Line 128 - Record from Table 1 (ID: 1): record_from_table1
+2025-02-17 10:44:09 - logic - INFO - Line 41 - Fetching record from table2 with ID 1.
+2025-02-17 10:44:09 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
+2025-02-17 10:44:09 - logic - INFO - Line 132 - Record from Table 2 (ID: 1): record_from_table2
+2025-02-17 10:44:09 - logic - INFO - Line 37 - Fetching record from table1 with ID 2.
+2025-02-17 10:44:09 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person.
+2025-02-17 10:44:09 - logic - INFO - Line 128 - Record from Table 1 (ID: 2): record_from_table1
+2025-02-17 10:44:09 - logic - INFO - Line 41 - Fetching record from table2 with ID 2.
+2025-02-17 10:44:09 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person2.
+2025-02-17 10:44:09 - logic - INFO - Line 132 - Record from Table 2 (ID: 2): record_from_table2
+2025-02-17 10:44:09 - logic - ERROR - Line 152 - Error fetching records for IDs 1, 2: generate_response() takes 3 positional arguments but 5 were given
+2025-02-17 10:44:53 - Repository - INFO - Line 23 - Database connection established.
+2025-02-17 10:44:53 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-17 10:44:53 - logic - INFO - Line 117 - RecordService initialized with FetchStrategy, ComparisonStrategy, and ResponseStrategy
+2025-02-17 10:45:09 - Repository - INFO - Line 23 - Database connection established.
+2025-02-17 10:45:09 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-17 10:45:09 - logic - INFO - Line 117 - RecordService initialized with FetchStrategy, ComparisonStrategy, and ResponseStrategy
+2025-02-17 10:45:09 - logic - INFO - Line 122 - Fetching records for IDs: 1, 1
+2025-02-17 10:45:09 - logic - INFO - Line 37 - Fetching record from table1 with ID 1.
+2025-02-17 10:45:09 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-17 10:45:09 - logic - INFO - Line 128 - Record from Table 1 (ID: 1): record_from_table1
+2025-02-17 10:45:09 - logic - INFO - Line 41 - Fetching record from table2 with ID 1.
+2025-02-17 10:45:09 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
+2025-02-17 10:45:09 - logic - INFO - Line 132 - Record from Table 2 (ID: 1): record_from_table2
+2025-02-17 10:45:09 - logic - INFO - Line 37 - Fetching record from table1 with ID 1.
+2025-02-17 10:45:09 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-17 10:45:09 - logic - INFO - Line 128 - Record from Table 1 (ID: 1): record_from_table1
+2025-02-17 10:45:09 - logic - INFO - Line 41 - Fetching record from table2 with ID 1.
+2025-02-17 10:45:09 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
+2025-02-17 10:45:09 - logic - INFO - Line 132 - Record from Table 2 (ID: 1): record_from_table2
+2025-02-17 10:45:09 - logic - ERROR - Line 152 - Error fetching records for IDs 1, 1: generate_response() takes 3 positional arguments but 5 were given
+2025-02-17 10:53:57 - Repository - INFO - Line 23 - Database connection established.
+2025-02-17 10:53:57 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-17 10:53:57 - logic - INFO - Line 117 - RecordService initialized with FetchStrategy, ComparisonStrategy, and ResponseStrategy
+2025-02-17 10:53:57 - logic - INFO - Line 122 - Fetching records for IDs: 1, 1
+2025-02-17 10:53:57 - logic - INFO - Line 37 - Fetching record from table1 with ID 1.
+2025-02-17 10:53:57 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-17 10:53:57 - logic - INFO - Line 128 - Record from Table 1 (ID: 1): record_from_table1
+2025-02-17 10:53:57 - logic - INFO - Line 41 - Fetching record from table2 with ID 1.
+2025-02-17 10:53:57 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
+2025-02-17 10:53:57 - logic - INFO - Line 132 - Record from Table 2 (ID: 1): record_from_table2
+2025-02-17 10:53:57 - logic - INFO - Line 37 - Fetching record from table1 with ID 1.
+2025-02-17 10:53:57 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-17 10:53:57 - logic - INFO - Line 128 - Record from Table 1 (ID: 1): record_from_table1
+2025-02-17 10:53:57 - logic - INFO - Line 41 - Fetching record from table2 with ID 1.
+2025-02-17 10:53:57 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
+2025-02-17 10:53:57 - logic - INFO - Line 132 - Record from Table 2 (ID: 1): record_from_table2
+2025-02-17 10:53:57 - logic - INFO - Line 93 - Adding record from Table 1: record_from_table1
+2025-02-17 10:53:57 - logic - INFO - Line 101 - Adding record from Table 2: <Model.models.Person2 object at 0x000001F23747A940>
+2025-02-17 10:53:57 - logic - INFO - Line 137 - Generated response: response
+2025-02-17 10:53:57 - logic - INFO - Line 63 - Comparing records.
+2025-02-17 10:53:57 - logic - INFO - Line 141 - Comparison result: comparison
+2025-02-17 10:55:57 - Repository - INFO - Line 23 - Database connection established.
+2025-02-17 10:55:57 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-17 10:55:57 - logic - INFO - Line 117 - RecordService initialized with FetchStrategy, ComparisonStrategy, and ResponseStrategy
+2025-02-17 10:55:57 - logic - INFO - Line 122 - Fetching records for IDs: 1, 2
+2025-02-17 10:55:57 - logic - INFO - Line 37 - Fetching record from table1 with ID 1.
+2025-02-17 10:55:57 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-17 10:55:57 - logic - INFO - Line 128 - Record from Table 1 (ID: 1): record_from_table1
+2025-02-17 10:55:57 - logic - INFO - Line 41 - Fetching record from table2 with ID 1.
+2025-02-17 10:55:57 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
+2025-02-17 10:55:57 - logic - INFO - Line 132 - Record from Table 2 (ID: 1): record_from_table2
+2025-02-17 10:55:57 - logic - INFO - Line 37 - Fetching record from table1 with ID 2.
+2025-02-17 10:55:57 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person.
+2025-02-17 10:55:57 - logic - INFO - Line 128 - Record from Table 1 (ID: 2): record_from_table1
+2025-02-17 10:55:57 - logic - INFO - Line 41 - Fetching record from table2 with ID 2.
+2025-02-17 10:55:57 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person2.
+2025-02-17 10:55:57 - logic - INFO - Line 132 - Record from Table 2 (ID: 2): record_from_table2
+2025-02-17 10:55:57 - logic - INFO - Line 93 - Adding record from Table 1: record_from_table1
+2025-02-17 10:55:57 - logic - INFO - Line 101 - Adding record from Table 2: record_from_table2
+2025-02-17 10:55:57 - logic - INFO - Line 137 - Generated response: response
+2025-02-17 10:55:57 - logic - INFO - Line 63 - Comparing records.
+2025-02-17 10:55:57 - logic - INFO - Line 141 - Comparison result: comparison
+2025-02-17 11:07:08 - Repository - INFO - Line 23 - Database connection established.
+2025-02-17 11:07:08 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-17 11:07:08 - logic - INFO - Line 117 - RecordService initialized with FetchStrategy, ComparisonStrategy, and ResponseStrategy
+2025-02-17 11:07:08 - logic - INFO - Line 122 - Fetching records for IDs: 1, 2
+2025-02-17 11:07:08 - logic - INFO - Line 37 - Fetching record from table1 with ID 1.
+2025-02-17 11:07:08 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-17 11:07:08 - logic - INFO - Line 137 - Record from Table 1 (ID: 1): record_from_table1
+2025-02-17 11:07:08 - logic - INFO - Line 41 - Fetching record from table2 with ID 2.
+2025-02-17 11:07:08 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person2.
+2025-02-17 11:07:08 - logic - INFO - Line 139 - Record from Table 2 (ID: 2): record_from_table2
+2025-02-17 11:07:08 - logic - INFO - Line 93 - Adding record from Table 1: record_from_table1
+2025-02-17 11:07:08 - logic - INFO - Line 101 - Adding record from Table 2: record_from_table2
+2025-02-17 11:07:08 - logic - INFO - Line 144 - Generated response: response
+2025-02-17 11:07:08 - logic - INFO - Line 63 - Comparing records.
+2025-02-17 11:07:08 - logic - INFO - Line 148 - Comparison result: comparison
+2025-02-17 12:14:44 - Repository - INFO - Line 23 - Database connection established.
+2025-02-17 12:14:44 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-17 12:14:44 - logic - INFO - Line 117 - RecordService initialized with FetchStrategy, ComparisonStrategy, and ResponseStrategy
+2025-02-17 12:14:44 - app - INFO - Line 14 - Flask application started
+2025-02-17 12:14:46 - Repository - INFO - Line 23 - Database connection established.
+2025-02-17 12:14:46 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-17 12:14:46 - logic - INFO - Line 117 - RecordService initialized with FetchStrategy, ComparisonStrategy, and ResponseStrategy
+2025-02-17 12:14:46 - app - INFO - Line 14 - Flask application started
+2025-02-17 12:14:55 - Error Handlers - WARNING - Line 15 - ERROR HANDLER 404 GoT Called :NOT FOUND
+2025-02-17 12:14:55 - Error Handlers - WARNING - Line 15 - ERROR HANDLER 404 GoT Called :NOT FOUND
+2025-02-17 12:14:55 - Error Handlers - WARNING - Line 15 - ERROR HANDLER 404 GoT Called :NOT FOUND
+2025-02-17 12:15:01 - Repository - INFO - Line 23 - Database connection established.
+2025-02-17 12:15:01 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-17 12:15:01 - logic - INFO - Line 117 - RecordService initialized with FetchStrategy, ComparisonStrategy, and ResponseStrategy
+2025-02-17 12:15:01 - app - INFO - Line 14 - Flask application started
+2025-02-17 12:15:51 - Repository - INFO - Line 23 - Database connection established.
+2025-02-17 12:15:51 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-17 12:16:49 - Repository - INFO - Line 23 - Database connection established.
+2025-02-17 12:16:49 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-17 12:16:49 - logic - INFO - Line 117 - RecordService initialized with FetchStrategy, ComparisonStrategy, and ResponseStrategy
+2025-02-17 12:16:49 - app - INFO - Line 14 - Flask application started
+2025-02-17 12:16:51 - Repository - INFO - Line 23 - Database connection established.
+2025-02-17 12:16:51 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-17 12:16:51 - logic - INFO - Line 117 - RecordService initialized with FetchStrategy, ComparisonStrategy, and ResponseStrategy
+2025-02-17 12:16:51 - app - INFO - Line 14 - Flask application started
+2025-02-17 12:16:53 - Error Handlers - WARNING - Line 15 - ERROR HANDLER 404 GoT Called :NOT FOUND
+2025-02-17 12:17:00 - logic - INFO - Line 122 - Fetching records for IDs: 1, 3
+2025-02-17 12:17:00 - logic - INFO - Line 37 - Fetching record from table1 with ID 1.
+2025-02-17 12:17:00 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-17 12:17:01 - logic - INFO - Line 137 - Record from Table 1 (ID: 1): record_from_table1
+2025-02-17 12:17:01 - logic - INFO - Line 41 - Fetching record from table2 with ID 3.
+2025-02-17 12:17:01 - Repository - INFO - Line 27 - Fetching record with ID 3 from Person2.
+2025-02-17 12:17:01 - logic - INFO - Line 139 - Record from Table 2 (ID: 3): record_from_table2
+2025-02-17 12:17:01 - logic - INFO - Line 93 - Adding record from Table 1: record_from_table1
+2025-02-17 12:17:01 - logic - INFO - Line 101 - Adding record from Table 2: record_from_table2
+2025-02-17 12:17:01 - logic - INFO - Line 144 - Generated response: response
+2025-02-17 12:17:01 - logic - INFO - Line 63 - Comparing records.
+2025-02-17 12:17:01 - logic - INFO - Line 148 - Comparison result: comparison
+2025-02-17 12:19:31 - Repository - INFO - Line 23 - Database connection established.
+2025-02-17 12:19:31 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-17 12:19:31 - logic - INFO - Line 117 - RecordService initialized with FetchStrategy, ComparisonStrategy, and ResponseStrategy
+2025-02-17 12:19:31 - app - INFO - Line 14 - Flask application started
+2025-02-17 12:19:55 - logic - INFO - Line 122 - Fetching records for IDs: 1, 2
+2025-02-17 12:19:55 - logic - INFO - Line 37 - Fetching record from table1 with ID 1.
+2025-02-17 12:19:55 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-17 12:19:56 - logic - INFO - Line 137 - Record from Table 1 (ID: 1): record_from_table1
+2025-02-17 12:19:56 - logic - INFO - Line 41 - Fetching record from table2 with ID 2.
+2025-02-17 12:19:56 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person2.
+2025-02-17 12:19:56 - logic - INFO - Line 139 - Record from Table 2 (ID: 2): record_from_table2
+2025-02-17 12:19:56 - logic - INFO - Line 93 - Adding record from Table 1: record_from_table1
+2025-02-17 12:19:56 - logic - INFO - Line 101 - Adding record from Table 2: record_from_table2
+2025-02-17 12:19:56 - logic - INFO - Line 144 - Generated response: response
+2025-02-17 12:19:56 - logic - INFO - Line 63 - Comparing records.
+2025-02-17 12:19:56 - logic - INFO - Line 148 - Comparison result: comparison
+2025-02-17 12:20:25 - Repository - INFO - Line 23 - Database connection established.
+2025-02-17 12:20:25 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-17 12:20:25 - logic - INFO - Line 117 - RecordService initialized with FetchStrategy, ComparisonStrategy, and ResponseStrategy
+2025-02-17 12:20:25 - app - INFO - Line 14 - Flask application started
+2025-02-17 12:20:25 - logic - INFO - Line 122 - Fetching records for IDs: 1, 2
+2025-02-17 12:20:25 - logic - INFO - Line 37 - Fetching record from table1 with ID 1.
+2025-02-17 12:20:25 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-17 12:20:25 - logic - INFO - Line 137 - Record from Table 1 (ID: 1): record_from_table1
+2025-02-17 12:20:25 - logic - INFO - Line 41 - Fetching record from table2 with ID 2.
+2025-02-17 12:20:25 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person2.
+2025-02-17 12:20:25 - logic - INFO - Line 139 - Record from Table 2 (ID: 2): record_from_table2
+2025-02-17 12:20:25 - logic - INFO - Line 93 - Adding record from Table 1: record_from_table1
+2025-02-17 12:20:25 - logic - INFO - Line 101 - Adding record from Table 2: record_from_table2
+2025-02-17 12:20:25 - logic - INFO - Line 144 - Generated response: response
+2025-02-17 12:20:25 - logic - INFO - Line 63 - Comparing records.
+2025-02-17 12:20:25 - logic - INFO - Line 148 - Comparison result: comparison
+2025-02-17 12:21:02 - Repository - INFO - Line 23 - Database connection established.
+2025-02-17 12:21:02 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-17 12:21:02 - logic - INFO - Line 117 - RecordService initialized with FetchStrategy, ComparisonStrategy, and ResponseStrategy
+2025-02-17 12:21:02 - app - INFO - Line 14 - Flask application started
+2025-02-17 12:21:03 - logic - INFO - Line 122 - Fetching records for IDs: 1, 2
+2025-02-17 12:21:03 - logic - INFO - Line 37 - Fetching record from table1 with ID 1.
+2025-02-17 12:21:03 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-17 12:21:03 - logic - INFO - Line 137 - Record from Table 1 (ID: 1): record_from_table1
+2025-02-17 12:21:03 - logic - INFO - Line 41 - Fetching record from table2 with ID 2.
+2025-02-17 12:21:03 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person2.
+2025-02-17 12:21:03 - logic - INFO - Line 139 - Record from Table 2 (ID: 2): record_from_table2
+2025-02-17 12:21:03 - logic - INFO - Line 93 - Adding record from Table 1: record_from_table1
+2025-02-17 12:21:03 - logic - INFO - Line 101 - Adding record from Table 2: record_from_table2
+2025-02-17 12:21:03 - logic - INFO - Line 144 - Generated response: response
+2025-02-17 12:21:03 - logic - INFO - Line 63 - Comparing records.
+2025-02-17 12:21:03 - logic - INFO - Line 148 - Comparison result: comparison
+2025-02-17 12:21:12 - logic - INFO - Line 122 - Fetching records for IDs: 1
+2025-02-17 12:21:12 - logic - INFO - Line 37 - Fetching record from table1 with ID 1.
+2025-02-17 12:21:12 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-17 12:21:12 - logic - INFO - Line 129 - Record from Table 1 (ID: 1): record_from_table1
+2025-02-17 12:21:12 - logic - INFO - Line 41 - Fetching record from table2 with ID 1.
+2025-02-17 12:21:12 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
+2025-02-17 12:21:12 - logic - INFO - Line 131 - Record from Table 2 (ID: 1): <Model.models.Person2 object at 0x000002D510EB5DF0>
+2025-02-17 12:21:12 - logic - INFO - Line 93 - Adding record from Table 1: record_from_table1
+2025-02-17 12:21:12 - logic - INFO - Line 101 - Adding record from Table 2: record_from_table2
+2025-02-17 12:21:12 - logic - INFO - Line 144 - Generated response: response
+2025-02-17 12:21:12 - logic - INFO - Line 63 - Comparing records.
+2025-02-17 12:21:12 - logic - INFO - Line 148 - Comparison result: comparison
+2025-02-17 12:21:21 - routes - WARNING - Line 15 - Invalid ID s provided, returning 400 Bad Request.
+2025-02-17 12:21:33 - routes - WARNING - Line 24 - Invalid ID 1 and s provided, returning 400 Bad Request.
+2025-02-17 12:21:41 - routes - WARNING - Line 15 - Invalid ID s provided, returning 400 Bad Request.
+2025-02-17 12:22:01 - Repository - INFO - Line 23 - Database connection established.
+2025-02-17 12:22:01 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-17 12:22:01 - logic - INFO - Line 117 - RecordService initialized with FetchStrategy, ComparisonStrategy, and ResponseStrategy
+2025-02-17 12:22:01 - app - INFO - Line 14 - Flask application started
+2025-02-17 12:23:04 - Repository - INFO - Line 23 - Database connection established.
+2025-02-17 12:23:04 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-17 12:23:04 - logic - INFO - Line 117 - RecordService initialized with FetchStrategy, ComparisonStrategy, and ResponseStrategy
+2025-02-17 12:23:04 - app - INFO - Line 14 - Flask application started
+2025-02-17 12:25:10 - Repository - INFO - Line 23 - Database connection established.
+2025-02-17 12:25:10 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-17 12:25:10 - logic - INFO - Line 117 - RecordService initialized with FetchStrategy, ComparisonStrategy, and ResponseStrategy
+2025-02-17 12:25:10 - app - INFO - Line 14 - Flask application started
+2025-02-17 12:25:16 - logic - INFO - Line 122 - Fetching records for IDs: 1
+2025-02-17 12:25:16 - logic - INFO - Line 37 - Fetching record from table1 with ID 1.
+2025-02-17 12:25:16 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-17 12:25:16 - logic - INFO - Line 129 - Record from Table 1 (ID: 1): record_from_table1
+2025-02-17 12:25:16 - logic - INFO - Line 41 - Fetching record from table2 with ID 1.
+2025-02-17 12:25:16 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
+2025-02-17 12:25:16 - logic - INFO - Line 131 - Record from Table 2 (ID: 1): <Model.models.Person2 object at 0x000002A86B3DB190>
+2025-02-17 12:25:16 - logic - INFO - Line 93 - Adding record from Table 1: record_from_table1
+2025-02-17 12:25:16 - logic - INFO - Line 101 - Adding record from Table 2: record_from_table2
+2025-02-17 12:25:16 - logic - INFO - Line 144 - Generated response: response
+2025-02-17 12:25:16 - logic - INFO - Line 63 - Comparing records.
+2025-02-17 12:25:16 - logic - INFO - Line 148 - Comparison result: comparison
+2025-02-17 12:25:16 - View - INFO - Line 6 - view in {'table1': {'id': 1, 'name': 'John Doe', 'gender': 'Male', 'height': 180, 'city': 'New York'}, 'table2': {'id': 1, 'name': 'Liam Turner', 'gender': 'Male', 'height': 170, 'city': 'Houston'}, 'Comparison': {'same_fields': {'id': 1, 'gender': 'Male'}, 'different_fields': {'name': {'Table1_value': 'John Doe', 'Table2_Value': 'Liam Turner'}, 'height_cm': {'Table1_value': 180, 'Table2_Value': 170}, 'city': {'Table1_value': 'New York', 'Table2_Value': 'Houston'}}}}
+2025-02-17 12:28:29 - Repository - INFO - Line 23 - Database connection established.
+2025-02-17 12:28:29 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-17 12:28:29 - logic - INFO - Line 117 - RecordService initialized with FetchStrategy, ComparisonStrategy, and ResponseStrategy
+2025-02-17 12:28:29 - app - INFO - Line 14 - Flask application started
+2025-02-17 12:28:31 - Repository - INFO - Line 23 - Database connection established.
+2025-02-17 12:28:31 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-17 12:28:31 - logic - INFO - Line 117 - RecordService initialized with FetchStrategy, ComparisonStrategy, and ResponseStrategy
+2025-02-17 12:28:31 - app - INFO - Line 14 - Flask application started
+2025-02-17 12:28:59 - routes - WARNING - Line 15 - Invalid ID s provided, returning 400 Bad Request.
+2025-02-17 12:30:04 - Repository - INFO - Line 23 - Database connection established.
+2025-02-17 12:30:04 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-17 12:30:04 - logic - INFO - Line 119 - RecordService initialized with FetchStrategy, ComparisonStrategy, and ResponseStrategy
+2025-02-17 12:30:04 - app - INFO - Line 14 - Flask application started
+2025-02-17 12:49:24 - View - INFO - Line 7 - View is initiated
+2025-02-17 12:50:01 - View - INFO - Line 7 - View is initiated
+2025-02-17 12:50:23 - View - INFO - Line 7 - View is initiated
+2025-02-17 12:50:51 - View - INFO - Line 7 - View is initiated
+2025-02-18 10:37:18 - Repository - INFO - Line 25 - Database connection established.
+2025-02-18 10:37:18 - Repository - INFO - Line 29 - Fetching record with ID 1 from Person.
+2025-02-18 10:37:44 - Repository - INFO - Line 25 - Database connection established.
+2025-02-18 10:37:44 - Repository - INFO - Line 29 - Fetching record with ID 1 from Person.
+2025-02-18 10:38:38 - Repository - INFO - Line 25 - Database connection established.
+2025-02-18 10:38:38 - Repository - INFO - Line 29 - Fetching record with ID 1 from Person.
+2025-02-18 10:38:38 - Repository - INFO - Line 25 - Database connection established.
+2025-02-18 10:38:38 - Repository - INFO - Line 37 - DatabaseRepository initialized.
+2025-02-18 10:38:38 - Repository - INFO - Line 29 - Fetching record with ID 1 from Person.
+2025-02-18 10:38:49 - Repository - INFO - Line 25 - Database connection established.
+2025-02-18 10:38:49 - Repository - INFO - Line 29 - Fetching record with ID 1 from Person.
+2025-02-18 10:38:49 - Repository - INFO - Line 25 - Database connection established.
+2025-02-18 10:38:49 - Repository - INFO - Line 37 - DatabaseRepository initialized.
+2025-02-18 10:38:49 - Repository - INFO - Line 29 - Fetching record with ID 1 from Person.
+2025-02-18 10:56:25 - Repository - INFO - Line 25 - Database connection established.
+2025-02-18 10:56:25 - Repository - INFO - Line 29 - Fetching record with ID 1 from Person.
+2025-02-18 10:56:36 - Repository - INFO - Line 25 - Database connection established.
+2025-02-18 10:56:36 - Repository - INFO - Line 29 - Fetching record with ID 1 from Person.
+2025-02-18 13:07:37 - Repository - INFO - Line 23 - Database connection established.
+2025-02-18 13:07:37 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-18 13:07:37 - logic - INFO - Line 119 - RecordService initialized with FetchStrategy, ComparisonStrategy, and ResponseStrategy
+2025-02-18 13:07:37 - app - INFO - Line 14 - Flask application started
+2025-02-18 13:07:37 - logic - INFO - Line 124 - Fetching records for IDs: 1, 2
+2025-02-18 13:07:37 - logic - INFO - Line 38 - Fetching record from table1 with ID 1.
+2025-02-18 13:07:37 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-18 13:07:38 - logic - INFO - Line 139 - Record from Table 1 (ID: 1): record_from_table1
+2025-02-18 13:07:38 - logic - INFO - Line 42 - Fetching record from table2 with ID 2.
+2025-02-18 13:07:38 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person2.
+2025-02-18 13:07:38 - logic - INFO - Line 141 - Record from Table 2 (ID: 2): record_from_table2
+2025-02-18 13:07:38 - logic - INFO - Line 95 - Adding record from Table 1: record_from_table1
+2025-02-18 13:07:38 - logic - INFO - Line 103 - Adding record from Table 2: record_from_table2
+2025-02-18 13:07:38 - logic - INFO - Line 146 - Generated response: response
+2025-02-18 13:07:38 - logic - INFO - Line 64 - Comparing records.
+2025-02-18 13:07:38 - logic - INFO - Line 150 - Comparison result: comparison
+2025-02-18 13:07:38 - View - INFO - Line 7 - View is initiated
+2025-02-18 13:07:38 - app - INFO - Line 14 - Flask application started
+2025-02-18 13:07:38 - app - INFO - Line 14 - Flask application started
+2025-02-18 13:07:38 - logic - INFO - Line 124 - Fetching records for IDs: 1
+2025-02-18 13:07:38 - logic - INFO - Line 38 - Fetching record from table1 with ID 1.
+2025-02-18 13:07:38 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-18 13:07:38 - logic - INFO - Line 131 - Record from Table 1 (ID: 1): record_from_table1
+2025-02-18 13:07:38 - logic - INFO - Line 42 - Fetching record from table2 with ID 1.
+2025-02-18 13:07:38 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
+2025-02-18 13:07:38 - logic - INFO - Line 133 - Record from Table 2 (ID: 1): <Model.models.Person2 object at 0x0000016DE315B250>
+2025-02-18 13:07:38 - logic - INFO - Line 95 - Adding record from Table 1: record_from_table1
+2025-02-18 13:07:38 - logic - INFO - Line 103 - Adding record from Table 2: record_from_table2
+2025-02-18 13:07:38 - logic - INFO - Line 146 - Generated response: response
+2025-02-18 13:07:38 - logic - INFO - Line 64 - Comparing records.
+2025-02-18 13:07:38 - logic - INFO - Line 150 - Comparison result: comparison
+2025-02-18 13:07:38 - View - INFO - Line 7 - View is initiated
+2025-02-18 13:07:38 - View - INFO - Line 7 - View is initiated
+2025-02-18 13:09:46 - Repository - INFO - Line 23 - Database connection established.
+2025-02-18 13:09:46 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-18 13:09:46 - logic - INFO - Line 119 - RecordService initialized with FetchStrategy, ComparisonStrategy, and ResponseStrategy
+2025-02-18 13:09:46 - app - INFO - Line 14 - Flask application started
+2025-02-18 13:09:46 - logic - INFO - Line 124 - Fetching records for IDs: 1, 2
+2025-02-18 13:09:46 - logic - INFO - Line 38 - Fetching record from table1 with ID 1.
+2025-02-18 13:09:46 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-18 13:09:46 - logic - INFO - Line 139 - Record from Table 1 (ID: 1): record_from_table1
+2025-02-18 13:09:46 - logic - INFO - Line 42 - Fetching record from table2 with ID 2.
+2025-02-18 13:09:46 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person2.
+2025-02-18 13:09:46 - logic - INFO - Line 141 - Record from Table 2 (ID: 2): record_from_table2
+2025-02-18 13:09:46 - logic - INFO - Line 95 - Adding record from Table 1: record_from_table1
+2025-02-18 13:09:46 - logic - INFO - Line 103 - Adding record from Table 2: record_from_table2
+2025-02-18 13:09:46 - logic - INFO - Line 146 - Generated response: response
+2025-02-18 13:09:46 - logic - INFO - Line 64 - Comparing records.
+2025-02-18 13:09:46 - logic - INFO - Line 150 - Comparison result: comparison
+2025-02-18 13:09:46 - View - INFO - Line 7 - View is initiated
+2025-02-18 13:09:46 - app - INFO - Line 14 - Flask application started
+2025-02-18 13:09:46 - app - INFO - Line 14 - Flask application started
+2025-02-18 13:09:46 - logic - INFO - Line 124 - Fetching records for IDs: 1
+2025-02-18 13:09:46 - logic - INFO - Line 38 - Fetching record from table1 with ID 1.
+2025-02-18 13:09:46 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-18 13:09:46 - logic - INFO - Line 131 - Record from Table 1 (ID: 1): record_from_table1
+2025-02-18 13:09:46 - logic - INFO - Line 42 - Fetching record from table2 with ID 1.
+2025-02-18 13:09:46 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
+2025-02-18 13:09:46 - logic - INFO - Line 133 - Record from Table 2 (ID: 1): <Model.models.Person2 object at 0x0000018496FED0D0>
+2025-02-18 13:09:46 - logic - INFO - Line 95 - Adding record from Table 1: record_from_table1
+2025-02-18 13:09:46 - logic - INFO - Line 103 - Adding record from Table 2: record_from_table2
+2025-02-18 13:09:46 - logic - INFO - Line 146 - Generated response: response
+2025-02-18 13:09:46 - logic - INFO - Line 64 - Comparing records.
+2025-02-18 13:09:46 - logic - INFO - Line 150 - Comparison result: comparison
+2025-02-18 13:09:46 - View - INFO - Line 7 - View is initiated
+2025-02-18 13:09:46 - View - INFO - Line 7 - View is initiated
+2025-02-18 13:10:49 - Repository - INFO - Line 23 - Database connection established.
+2025-02-18 13:10:49 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-18 13:10:49 - logic - INFO - Line 119 - RecordService initialized with FetchStrategy, ComparisonStrategy, and ResponseStrategy
+2025-02-18 13:10:49 - app - INFO - Line 14 - Flask application started
+2025-02-18 13:10:49 - logic - INFO - Line 124 - Fetching records for IDs: 1, 2
+2025-02-18 13:10:49 - logic - INFO - Line 38 - Fetching record from table1 with ID 1.
+2025-02-18 13:10:49 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-18 13:10:49 - logic - INFO - Line 139 - Record from Table 1 (ID: 1): record_from_table1
+2025-02-18 13:10:49 - logic - INFO - Line 42 - Fetching record from table2 with ID 2.
+2025-02-18 13:10:49 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person2.
+2025-02-18 13:10:49 - logic - INFO - Line 141 - Record from Table 2 (ID: 2): record_from_table2
+2025-02-18 13:10:49 - logic - INFO - Line 95 - Adding record from Table 1: record_from_table1
+2025-02-18 13:10:49 - logic - INFO - Line 103 - Adding record from Table 2: record_from_table2
+2025-02-18 13:10:49 - logic - INFO - Line 146 - Generated response: response
+2025-02-18 13:10:49 - logic - INFO - Line 64 - Comparing records.
+2025-02-18 13:10:49 - logic - INFO - Line 150 - Comparison result: comparison
+2025-02-18 13:10:49 - View - INFO - Line 7 - View is initiated
+2025-02-18 13:10:49 - app - INFO - Line 14 - Flask application started
+2025-02-18 13:10:49 - app - INFO - Line 14 - Flask application started
+2025-02-18 13:10:49 - logic - INFO - Line 124 - Fetching records for IDs: 1
+2025-02-18 13:10:49 - logic - INFO - Line 38 - Fetching record from table1 with ID 1.
+2025-02-18 13:10:49 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-18 13:10:49 - logic - INFO - Line 131 - Record from Table 1 (ID: 1): record_from_table1
+2025-02-18 13:10:49 - logic - INFO - Line 42 - Fetching record from table2 with ID 1.
+2025-02-18 13:10:49 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
+2025-02-18 13:10:49 - logic - INFO - Line 133 - Record from Table 2 (ID: 1): <Model.models.Person2 object at 0x0000023F57570DC0>
+2025-02-18 13:10:49 - logic - INFO - Line 95 - Adding record from Table 1: record_from_table1
+2025-02-18 13:10:49 - logic - INFO - Line 103 - Adding record from Table 2: record_from_table2
+2025-02-18 13:10:49 - logic - INFO - Line 146 - Generated response: response
+2025-02-18 13:10:49 - logic - INFO - Line 64 - Comparing records.
+2025-02-18 13:10:49 - logic - INFO - Line 150 - Comparison result: comparison
+2025-02-18 13:10:49 - View - INFO - Line 7 - View is initiated
+2025-02-18 13:10:49 - View - INFO - Line 7 - View is initiated
+2025-02-18 13:16:57 - Repository - INFO - Line 23 - Database connection established.
+2025-02-18 13:16:57 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-18 13:16:57 - logic - INFO - Line 119 - RecordService initialized with FetchStrategy, ComparisonStrategy, and ResponseStrategy
+2025-02-18 13:16:57 - app - INFO - Line 14 - Flask application started
+2025-02-18 13:16:57 - logic - INFO - Line 124 - Fetching records for IDs: 1, 2
+2025-02-18 13:16:57 - logic - INFO - Line 38 - Fetching record from table1 with ID 1.
+2025-02-18 13:16:57 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-18 13:16:57 - logic - INFO - Line 139 - Record from Table 1 (ID: 1): record_from_table1
+2025-02-18 13:16:57 - logic - INFO - Line 42 - Fetching record from table2 with ID 2.
+2025-02-18 13:16:57 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person2.
+2025-02-18 13:16:57 - logic - INFO - Line 141 - Record from Table 2 (ID: 2): record_from_table2
+2025-02-18 13:16:57 - logic - INFO - Line 95 - Adding record from Table 1: record_from_table1
+2025-02-18 13:16:57 - logic - INFO - Line 103 - Adding record from Table 2: record_from_table2
+2025-02-18 13:16:57 - logic - INFO - Line 146 - Generated response: response
+2025-02-18 13:16:57 - logic - INFO - Line 64 - Comparing records.
+2025-02-18 13:16:57 - logic - INFO - Line 150 - Comparison result: comparison
+2025-02-18 13:16:57 - View - INFO - Line 7 - View is initiated
+2025-02-18 13:16:57 - app - INFO - Line 14 - Flask application started
+2025-02-18 13:16:57 - app - INFO - Line 14 - Flask application started
+2025-02-18 13:16:57 - logic - INFO - Line 124 - Fetching records for IDs: 1
+2025-02-18 13:16:57 - logic - INFO - Line 38 - Fetching record from table1 with ID 1.
+2025-02-18 13:16:57 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-18 13:16:57 - logic - INFO - Line 131 - Record from Table 1 (ID: 1): record_from_table1
+2025-02-18 13:16:57 - logic - INFO - Line 42 - Fetching record from table2 with ID 1.
+2025-02-18 13:16:57 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
+2025-02-18 13:16:57 - logic - INFO - Line 133 - Record from Table 2 (ID: 1): <Model.models.Person2 object at 0x0000023D67BF3580>
+2025-02-18 13:16:57 - logic - INFO - Line 95 - Adding record from Table 1: record_from_table1
+2025-02-18 13:16:57 - logic - INFO - Line 103 - Adding record from Table 2: record_from_table2
+2025-02-18 13:16:57 - logic - INFO - Line 146 - Generated response: response
+2025-02-18 13:16:57 - logic - INFO - Line 64 - Comparing records.
+2025-02-18 13:16:57 - logic - INFO - Line 150 - Comparison result: comparison
+2025-02-18 13:16:57 - View - INFO - Line 7 - View is initiated
+2025-02-18 13:16:57 - View - INFO - Line 7 - View is initiated
+2025-02-18 13:43:09 - Repository - INFO - Line 23 - Database connection established.
+2025-02-18 13:43:09 - Repository - INFO - Line 35 - DatabaseRepository initialized.
+2025-02-18 13:43:09 - logic - INFO - Line 119 - RecordService initialized with FetchStrategy, ComparisonStrategy, and ResponseStrategy
+2025-02-18 13:43:09 - app - INFO - Line 14 - Flask application started
+2025-02-18 13:43:09 - app - INFO - Line 14 - Flask application started
+2025-02-18 13:43:09 - app - INFO - Line 14 - Flask application started
+2025-02-18 13:43:09 - app - INFO - Line 14 - Flask application started
+2025-02-18 13:43:09 - app - INFO - Line 14 - Flask application started
+2025-02-18 13:43:09 - app - INFO - Line 14 - Flask application started
+2025-02-18 13:43:09 - app - INFO - Line 14 - Flask application started
+2025-02-18 13:43:09 - app - INFO - Line 14 - Flask application started
+2025-02-18 13:43:09 - app - INFO - Line 14 - Flask application started
+2025-02-18 13:43:09 - app - INFO - Line 14 - Flask application started
+2025-02-18 13:43:09 - logic - INFO - Line 124 - Fetching records for IDs: 1, 2
+2025-02-18 13:43:09 - logic - INFO - Line 38 - Fetching record from table1 with ID 1.
+2025-02-18 13:43:09 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-18 13:43:09 - logic - INFO - Line 139 - Record from Table 1 (ID: 1): record_from_table1
+2025-02-18 13:43:09 - logic - INFO - Line 42 - Fetching record from table2 with ID 2.
+2025-02-18 13:43:09 - Repository - INFO - Line 27 - Fetching record with ID 2 from Person2.
+2025-02-18 13:43:09 - logic - INFO - Line 141 - Record from Table 2 (ID: 2): record_from_table2
+2025-02-18 13:43:09 - logic - INFO - Line 95 - Adding record from Table 1: record_from_table1
+2025-02-18 13:43:09 - logic - INFO - Line 103 - Adding record from Table 2: record_from_table2
+2025-02-18 13:43:09 - logic - INFO - Line 146 - Generated response: response
+2025-02-18 13:43:09 - logic - INFO - Line 64 - Comparing records.
+2025-02-18 13:43:09 - logic - INFO - Line 150 - Comparison result: comparison
+2025-02-18 13:43:09 - View - INFO - Line 7 - View is initiated
+2025-02-18 13:43:09 - app - INFO - Line 14 - Flask application started
+2025-02-18 13:43:09 - app - INFO - Line 14 - Flask application started
+2025-02-18 13:43:09 - app - INFO - Line 14 - Flask application started
+2025-02-18 13:43:09 - app - INFO - Line 14 - Flask application started
+2025-02-18 13:43:09 - app - INFO - Line 14 - Flask application started
+2025-02-18 13:43:09 - logic - INFO - Line 124 - Fetching records for IDs: 1
+2025-02-18 13:43:09 - logic - INFO - Line 38 - Fetching record from table1 with ID 1.
+2025-02-18 13:43:09 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person.
+2025-02-18 13:43:09 - logic - INFO - Line 131 - Record from Table 1 (ID: 1): record_from_table1
+2025-02-18 13:43:09 - logic - INFO - Line 42 - Fetching record from table2 with ID 1.
+2025-02-18 13:43:09 - Repository - INFO - Line 27 - Fetching record with ID 1 from Person2.
+2025-02-18 13:43:09 - logic - INFO - Line 133 - Record from Table 2 (ID: 1): <Model.models.Person2 object at 0x00000193C15C19D0>
+2025-02-18 13:43:09 - logic - INFO - Line 95 - Adding record from Table 1: record_from_table1
+2025-02-18 13:43:09 - logic - INFO - Line 103 - Adding record from Table 2: record_from_table2
+2025-02-18 13:43:09 - logic - INFO - Line 146 - Generated response: response
+2025-02-18 13:43:09 - logic - INFO - Line 64 - Comparing records.
+2025-02-18 13:43:09 - logic - INFO - Line 150 - Comparison result: comparison
+2025-02-18 13:43:09 - View - INFO - Line 7 - View is initiated
+2025-02-18 13:43:09 - View - INFO - Line 7 - View is initiated
+2025-02-19 20:13:55 - Repository - INFO - Line 25 - Database connection established.
+2025-02-19 20:13:55 - Repository - INFO - Line 38 - DatabaseRepository initialized.
+2025-02-19 20:13:55 - logic - INFO - Line 28 - RecordService initialized with FetchStrategy, ComparisonStrategy,and ResponseStrategy
+2025-02-19 20:13:55 - logic - INFO - Line 33 - Fetching records for IDs: 1
+2025-02-19 20:13:55 - RecordFetcher(Service) - INFO - Line 36 - Masking record from Record Fetcher Class with Table 1 ID 1.
+2025-02-19 20:13:55 - RecordFetcher(Service) - INFO - Line 22 - Fetching record from table1 with ID 1.
+2025-02-19 20:13:55 - Repository - INFO - Line 29 - Fetching record with ID 1 from Person.
+2025-02-19 20:13:55 - logic - INFO - Line 40 - Record from Table 1 (ID: 1): record_from_table1
+2025-02-19 20:13:55 - RecordFetcher(Service) - INFO - Line 40 - Masking record from Record Fetcher Class with Table 2 ID 1.
+2025-02-19 20:13:55 - RecordFetcher(Service) - INFO - Line 26 - Fetching record from table2 with ID 1.
+2025-02-19 20:13:55 - Repository - INFO - Line 29 - Fetching record with ID 1 from Person2.
+2025-02-19 20:13:55 - logic - INFO - Line 42 - Record from Table 2 (ID: 1): <Model.models.Person2 object at 0x000001F5C354C190>
+2025-02-19 20:13:55 - RecordCompartor(Service) - INFO - Line 19 - Adding record from Table 1: record_from_table1
+2025-02-19 20:13:55 - RecordCompartor(Service) - INFO - Line 19 - Adding record from Table 1: record_from_table1
+2025-02-19 20:13:55 - RecordCompartor(Service) - INFO - Line 27 - Adding record from Table 2: record_from_table2
+2025-02-19 20:13:55 - RecordCompartor(Service) - INFO - Line 27 - Adding record from Table 2: record_from_table2
+2025-02-19 20:13:55 - logic - INFO - Line 55 - Generated response: response
+2025-02-19 20:13:55 - RecordCompartor(Service) - INFO - Line 19 - Comparing records.
+2025-02-19 20:13:55 - RecordCompartor(Service) - INFO - Line 19 - Comparing records.
+2025-02-19 20:13:55 - logic - INFO - Line 59 - Comparison result: comparison
+2025-02-19 20:19:02 - Repository - INFO - Line 25 - Database connection established.
+2025-02-19 20:19:02 - Repository - INFO - Line 38 - DatabaseRepository initialized.
+2025-02-19 20:19:02 - logic - INFO - Line 28 - RecordService initialized with FetchStrategy, ComparisonStrategy,and ResponseStrategy
+2025-02-19 20:19:02 - logic - INFO - Line 33 - Fetching records for IDs: 1, 3
+2025-02-19 20:19:02 - RecordFetcher(Service) - INFO - Line 36 - Masking record from Record Fetcher Class with Table 1 ID 1.
+2025-02-19 20:19:02 - RecordFetcher(Service) - INFO - Line 22 - Fetching record from table1 with ID 1.
+2025-02-19 20:19:02 - Repository - INFO - Line 29 - Fetching record with ID 1 from Person.
+2025-02-19 20:19:02 - logic - INFO - Line 48 - Record from Table 1 (ID: 1): record_from_table1
+2025-02-19 20:19:02 - RecordFetcher(Service) - INFO - Line 40 - Masking record from Record Fetcher Class with Table 2 ID 3.
+2025-02-19 20:19:02 - RecordFetcher(Service) - INFO - Line 26 - Fetching record from table2 with ID 3.
+2025-02-19 20:19:02 - Repository - INFO - Line 29 - Fetching record with ID 3 from Person2.
+2025-02-19 20:19:02 - logic - INFO - Line 50 - Record from Table 2 (ID: 3): record_from_table2
+2025-02-19 20:19:02 - RecordCompartor(Service) - INFO - Line 19 - Adding record from Table 1: record_from_table1
+2025-02-19 20:19:02 - RecordCompartor(Service) - INFO - Line 19 - Adding record from Table 1: record_from_table1
+2025-02-19 20:19:02 - RecordCompartor(Service) - INFO - Line 27 - Adding record from Table 2: record_from_table2
+2025-02-19 20:19:02 - RecordCompartor(Service) - INFO - Line 27 - Adding record from Table 2: record_from_table2
+2025-02-19 20:19:02 - logic - INFO - Line 55 - Generated response: response
+2025-02-19 20:19:02 - RecordCompartor(Service) - INFO - Line 19 - Comparing records.
+2025-02-19 20:19:02 - RecordCompartor(Service) - INFO - Line 19 - Comparing records.
+2025-02-19 20:19:02 - logic - INFO - Line 59 - Comparison result: comparison
+2025-02-19 20:20:28 - Repository - INFO - Line 25 - Database connection established.
+2025-02-19 20:20:28 - Repository - INFO - Line 38 - DatabaseRepository initialized.
+2025-02-19 20:20:29 - logic - INFO - Line 28 - RecordService initialized with FetchStrategy, ComparisonStrategy,and ResponseStrategy
+2025-02-19 20:20:29 - logic - INFO - Line 78 - Returning Records from both tables on Different Ids
+2025-02-19 20:20:29 - logic - INFO - Line 33 - Fetching records for IDs: 1, 3
+2025-02-19 20:20:29 - RecordFetcher(Service) - INFO - Line 36 - Masking record from Record Fetcher Class with Table 1 ID 1.
+2025-02-19 20:20:29 - RecordFetcher(Service) - INFO - Line 22 - Fetching record from table1 with ID 1.
+2025-02-19 20:20:29 - Repository - INFO - Line 29 - Fetching record with ID 1 from Person.
+2025-02-19 20:20:29 - logic - INFO - Line 48 - Record from Table 1 (ID: 1): record_from_table1
+2025-02-19 20:20:29 - RecordFetcher(Service) - INFO - Line 40 - Masking record from Record Fetcher Class with Table 2 ID 3.
+2025-02-19 20:20:29 - RecordFetcher(Service) - INFO - Line 26 - Fetching record from table2 with ID 3.
+2025-02-19 20:20:29 - Repository - INFO - Line 29 - Fetching record with ID 3 from Person2.
+2025-02-19 20:20:29 - logic - INFO - Line 50 - Record from Table 2 (ID: 3): record_from_table2
+2025-02-19 20:20:29 - RecordCompartor(Service) - INFO - Line 19 - Adding record from Table 1: record_from_table1
+2025-02-19 20:20:29 - RecordCompartor(Service) - INFO - Line 19 - Adding record from Table 1: record_from_table1
+2025-02-19 20:20:29 - RecordCompartor(Service) - INFO - Line 27 - Adding record from Table 2: record_from_table2
+2025-02-19 20:20:29 - RecordCompartor(Service) - INFO - Line 27 - Adding record from Table 2: record_from_table2
+2025-02-19 20:20:29 - logic - INFO - Line 55 - Generated response: response
+2025-02-19 20:20:29 - RecordCompartor(Service) - INFO - Line 19 - Comparing records.
+2025-02-19 20:20:29 - RecordCompartor(Service) - INFO - Line 19 - Comparing records.
+2025-02-19 20:20:29 - logic - INFO - Line 59 - Comparison result: comparison
+2025-02-19 20:26:21 - Repository - INFO - Line 25 - Database connection established.
+2025-02-19 20:26:21 - Repository - INFO - Line 38 - DatabaseRepository initialized.
+2025-02-19 20:26:21 - logic - INFO - Line 117 - RecordService initialized with FetchStrategy, ComparisonStrategy, and ResponseStrategy
+2025-02-19 20:26:21 - logic - INFO - Line 120 - Fetching records for a single ID: 1
+2025-02-19 20:26:21 - logic - INFO - Line 121 - Fetching records for IDs: 1
+2025-02-19 20:26:21 - logic - INFO - Line 37 - Fetching record from table1 with ID 1.
+2025-02-19 20:26:21 - Repository - INFO - Line 29 - Fetching record with ID 1 from Person.
+2025-02-19 20:26:21 - logic - INFO - Line 125 - Record from Table 1 (ID: 1): record_from_table1
+2025-02-19 20:26:21 - logic - INFO - Line 41 - Fetching record from table2 with ID 1.
+2025-02-19 20:26:21 - Repository - INFO - Line 29 - Fetching record with ID 1 from Person2.
+2025-02-19 20:26:21 - logic - INFO - Line 128 - Record from Table 2 (ID: 1): record_from_table2
+2025-02-19 20:26:21 - logic - INFO - Line 93 - Adding record from Table 1: <Model.models.Person object at 0x0000021F283854C0>
+2025-02-19 20:26:21 - logic - INFO - Line 101 - Adding record from Table 2: <Model.models.Person2 object at 0x0000021F283852B0>
+2025-02-19 20:26:21 - logic - INFO - Line 132 - Generated response: {'table1': {'id': 1, 'name': 'John Doe', 'gender': 'Male', 'height': 180, 'city': 'New York'}, 'table2': {'id': 1, 'name': 'Liam Turner', 'gender': 'Male', 'height': 170, 'city': 'Houston'}}
+2025-02-19 20:26:21 - logic - INFO - Line 63 - Comparing records.
+2025-02-19 20:26:21 - logic - INFO - Line 136 - Comparison result: {'same_fields': {'id': 1, 'gender': 'Male'}, 'different_fields': {'name': {'Table1_value': 'John Doe', 'Table2_Value': 'Liam Turner'}, 'height_cm': {'Table1_value': 180, 'Table2_Value': 170}, 'city': {'Table1_value': 'New York', 'Table2_Value': 'Houston'}}}
+2025-02-19 20:26:43 - Repository - INFO - Line 25 - Database connection established.
+2025-02-19 20:26:43 - Repository - INFO - Line 38 - DatabaseRepository initialized.
+2025-02-19 20:26:43 - logic - INFO - Line 117 - RecordService initialized with FetchStrategy, ComparisonStrategy, and ResponseStrategy
+2025-02-19 20:26:43 - logic - INFO - Line 120 - Fetching records for a single ID: 1
+2025-02-19 20:26:43 - logic - INFO - Line 121 - Fetching records for IDs: 1
+2025-02-19 20:26:43 - logic - INFO - Line 37 - Fetching record from table1 with ID 1.
+2025-02-19 20:26:43 - Repository - INFO - Line 29 - Fetching record with ID 1 from Person.
+2025-02-19 20:26:44 - logic - INFO - Line 125 - Record from Table 1 (ID: 1): record_from_table1
+2025-02-19 20:26:44 - logic - INFO - Line 41 - Fetching record from table2 with ID 1.
+2025-02-19 20:26:44 - Repository - INFO - Line 29 - Fetching record with ID 1 from Person2.
+2025-02-19 20:26:44 - logic - INFO - Line 128 - Record from Table 2 (ID: 1): record_from_table2
+2025-02-19 20:26:44 - logic - INFO - Line 93 - Adding record from Table 1: <Model.models.Person object at 0x0000013F48ED7460>
+2025-02-19 20:26:44 - logic - INFO - Line 101 - Adding record from Table 2: <Model.models.Person2 object at 0x0000013F48ED7160>
+2025-02-19 20:26:44 - logic - INFO - Line 132 - Generated response: {'table1': {'id': 1, 'name': 'John Doe', 'gender': 'Male', 'height': 180, 'city': 'New York'}, 'table2': {'id': 1, 'name': 'Liam Turner', 'gender': 'Male', 'height': 170, 'city': 'Houston'}}
+2025-02-19 20:26:44 - logic - INFO - Line 63 - Comparing records.
+2025-02-19 20:26:44 - logic - INFO - Line 136 - Comparison result: {'same_fields': {'id': 1, 'gender': 'Male'}, 'different_fields': {'name': {'Table1_value': 'John Doe', 'Table2_Value': 'Liam Turner'}, 'height_cm': {'Table1_value': 180, 'Table2_Value': 170}, 'city': {'Table1_value': 'New York', 'Table2_Value': 'Houston'}}}
+2025-02-19 20:39:01 - Repository - INFO - Line 25 - Database connection established.
+2025-02-19 20:39:01 - Repository - INFO - Line 38 - DatabaseRepository initialized.
+2025-02-19 20:39:01 - logic - INFO - Line 16 - RecordService initialized with FetchStrategy, ComparisonStrategy, and ResponseStrategy
+2025-02-19 20:39:01 - logic - INFO - Line 19 - Fetching records for a single ID: 1
+2025-02-19 20:39:01 - logic - INFO - Line 20 - Fetching records for IDs: 1
+2025-02-19 20:39:01 - RecordFetcher(Service) - INFO - Line 36 - Masking record from Record Fetcher Class with Table 1 ID 1.
+2025-02-19 20:39:01 - RecordFetcher(Service) - INFO - Line 22 - Fetching record from table1 with ID 1.
+2025-02-19 20:39:01 - Repository - INFO - Line 29 - Fetching record with ID 1 from Person.
+2025-02-19 20:39:01 - logic - INFO - Line 24 - Record from Table 1 (ID: 1): record_from_table1
+2025-02-19 20:39:01 - RecordFetcher(Service) - INFO - Line 40 - Masking record from Record Fetcher Class with Table 2 ID 1.
+2025-02-19 20:39:01 - RecordFetcher(Service) - INFO - Line 26 - Fetching record from table2 with ID 1.
+2025-02-19 20:39:01 - Repository - INFO - Line 29 - Fetching record with ID 1 from Person2.
+2025-02-19 20:39:01 - logic - INFO - Line 27 - Record from Table 2 (ID: 1): record_from_table2
+2025-02-19 20:39:01 - RecordCompartor(Service) - INFO - Line 19 - Adding record from Table 1: record_from_table1
+2025-02-19 20:39:01 - RecordCompartor(Service) - INFO - Line 19 - Adding record from Table 1: record_from_table1
+2025-02-19 20:39:01 - RecordCompartor(Service) - INFO - Line 27 - Adding record from Table 2: record_from_table2
+2025-02-19 20:39:01 - RecordCompartor(Service) - INFO - Line 27 - Adding record from Table 2: record_from_table2
+2025-02-19 20:39:01 - logic - INFO - Line 31 - Generated response: {'table1': {'id': 1, 'name': 'John Doe', 'gender': 'Male', 'height': 180, 'city': 'New York'}, 'table2': {'id': 1, 'name': 'Liam Turner', 'gender': 'Male', 'height': 170, 'city': 'Houston'}}
+2025-02-19 20:39:01 - RecordCompartor(Service) - INFO - Line 19 - Comparing records.
+2025-02-19 20:39:01 - RecordCompartor(Service) - INFO - Line 19 - Comparing records.
+2025-02-19 20:39:01 - logic - INFO - Line 35 - Comparison result: {'same_fields': {'id': 1, 'gender': 'Male'}, 'different_fields': {'name': {'Table1_value': 'John Doe', 'Table2_Value': 'Liam Turner'}, 'height_cm': {'Table1_value': 180, 'Table2_Value': 170}, 'city': {'Table1_value': 'New York', 'Table2_Value': 'Houston'}}}
+2025-02-19 20:41:44 - Repository - INFO - Line 25 - Database connection established.
+2025-02-19 20:41:44 - Repository - INFO - Line 38 - DatabaseRepository initialized.
+2025-02-19 20:42:40 - Repository - INFO - Line 25 - Database connection established.
+2025-02-19 20:42:40 - Repository - INFO - Line 38 - DatabaseRepository initialized.
+2025-02-19 20:42:40 - logic - INFO - Line 16 - RecordService initialized with FetchStrategy, ComparisonStrategy, and ResponseStrategy
+2025-02-19 20:42:40 - logic - INFO - Line 19 - Fetching records for a single ID: 1
+2025-02-19 20:42:40 - logic - INFO - Line 20 - Fetching records for IDs: 1
+2025-02-19 20:42:40 - RecordFetcher(Service) - INFO - Line 36 - Masking record from Record Fetcher Class with Table 1 ID 1.
+2025-02-19 20:42:40 - RecordFetcher(Service) - INFO - Line 22 - Fetching record from table1 with ID 1.
+2025-02-19 20:42:40 - Repository - INFO - Line 29 - Fetching record with ID 1 from Person.
+2025-02-19 20:42:40 - logic - INFO - Line 24 - Record from Table 1 (ID: 1): record_from_table1
+2025-02-19 20:42:40 - RecordFetcher(Service) - INFO - Line 40 - Masking record from Record Fetcher Class with Table 2 ID 1.
+2025-02-19 20:42:40 - RecordFetcher(Service) - INFO - Line 26 - Fetching record from table2 with ID 1.
+2025-02-19 20:42:40 - Repository - INFO - Line 29 - Fetching record with ID 1 from Person2.
+2025-02-19 20:42:40 - logic - INFO - Line 27 - Record from Table 2 (ID: 1): record_from_table2
+2025-02-19 20:42:40 - RecordCompartor(Service) - INFO - Line 19 - Adding record from Table 1: record_from_table1
+2025-02-19 20:42:40 - RecordCompartor(Service) - INFO - Line 19 - Adding record from Table 1: record_from_table1
+2025-02-19 20:42:40 - RecordCompartor(Service) - INFO - Line 27 - Adding record from Table 2: record_from_table2
+2025-02-19 20:42:40 - RecordCompartor(Service) - INFO - Line 27 - Adding record from Table 2: record_from_table2
+2025-02-19 20:42:40 - logic - INFO - Line 31 - Generated response: {'table1': {'id': 1, 'name': 'John Doe', 'gender': 'Male', 'height': 180, 'city': 'New York'}, 'table2': {'id': 1, 'name': 'Liam Turner', 'gender': 'Male', 'height': 170, 'city': 'Houston'}}
+2025-02-19 20:42:40 - RecordCompartor(Service) - INFO - Line 19 - Comparing records.
+2025-02-19 20:42:40 - RecordCompartor(Service) - INFO - Line 19 - Comparing records.
+2025-02-19 20:42:40 - logic - INFO - Line 35 - Comparison result: {'same_fields': {'id': 1, 'gender': 'Male'}, 'different_fields': {'name': {'Table1_value': 'John Doe', 'Table2_Value': 'Liam Turner'}, 'height_cm': {'Table1_value': 180, 'Table2_Value': 170}, 'city': {'Table1_value': 'New York', 'Table2_Value': 'Houston'}}}
+2025-02-19 20:42:40 - logic - INFO - Line 38 - Returning Response with IDs 1 from both tables
+2025-02-19 20:43:13 - Repository - INFO - Line 25 - Database connection established.
+2025-02-19 20:43:13 - Repository - INFO - Line 38 - DatabaseRepository initialized.
+2025-02-19 20:43:13 - logic - INFO - Line 16 - RecordService initialized with FetchStrategy, ComparisonStrategy, and ResponseStrategy
+2025-02-19 20:43:13 - logic - INFO - Line 19 - Fetching records for a single ID: 1
+2025-02-19 20:43:13 - logic - INFO - Line 20 - Fetching records for IDs: 1
+2025-02-19 20:43:13 - RecordFetcher(Service) - INFO - Line 36 - Masking record from Record Fetcher Class with Table 1 ID 1.
+2025-02-19 20:43:13 - RecordFetcher(Service) - INFO - Line 22 - Fetching record from table1 with ID 1.
+2025-02-19 20:43:13 - Repository - INFO - Line 29 - Fetching record with ID 1 from Person.
+2025-02-19 20:43:13 - logic - INFO - Line 24 - Record from Table 1 (ID: 1): record_from_table1
+2025-02-19 20:43:13 - RecordFetcher(Service) - INFO - Line 40 - Masking record from Record Fetcher Class with Table 2 ID 1.
+2025-02-19 20:43:13 - RecordFetcher(Service) - INFO - Line 26 - Fetching record from table2 with ID 1.
+2025-02-19 20:43:13 - Repository - INFO - Line 29 - Fetching record with ID 1 from Person2.
+2025-02-19 20:43:13 - logic - INFO - Line 27 - Record from Table 2 (ID: 1): record_from_table2
+2025-02-19 20:43:13 - RecordCompartor(Service) - INFO - Line 19 - Adding record from Table 1: record_from_table1
+2025-02-19 20:43:13 - RecordCompartor(Service) - INFO - Line 19 - Adding record from Table 1: record_from_table1
+2025-02-19 20:43:13 - RecordCompartor(Service) - INFO - Line 27 - Adding record from Table 2: record_from_table2
+2025-02-19 20:43:13 - RecordCompartor(Service) - INFO - Line 27 - Adding record from Table 2: record_from_table2
+2025-02-19 20:43:13 - logic - INFO - Line 31 - Generated response: {'table1': {'id': 1, 'name': 'John Doe', 'gender': 'Male', 'height': 180, 'city': 'New York'}, 'table2': {'id': 1, 'name': 'Liam Turner', 'gender': 'Male', 'height': 170, 'city': 'Houston'}}
+2025-02-19 20:43:13 - RecordCompartor(Service) - INFO - Line 19 - Comparing records.
+2025-02-19 20:43:13 - RecordCompartor(Service) - INFO - Line 19 - Comparing records.
+2025-02-19 20:43:13 - logic - INFO - Line 35 - Comparison result: {'same_fields': {'id': 1, 'gender': 'Male'}, 'different_fields': {'name': {'Table1_value': 'John Doe', 'Table2_Value': 'Liam Turner'}, 'height_cm': {'Table1_value': 180, 'Table2_Value': 170}, 'city': {'Table1_value': 'New York', 'Table2_Value': 'Houston'}}}
+2025-02-19 21:02:24 - Repository - INFO - Line 25 - Database connection established.
+2025-02-19 21:02:24 - Repository - INFO - Line 38 - DatabaseRepository initialized.
+2025-02-19 21:02:24 - logic - INFO - Line 23 - RecordService initialized with FetchStrategy, ComparisonStrategy, and ResponseStrategy
+2025-02-19 21:02:24 - RecordFetcher(Service) - INFO - Line 36 - Masking record from Record Fetcher Class with Table 1 ID 1.
+2025-02-19 21:02:24 - RecordFetcher(Service) - INFO - Line 22 - Fetching record from table1 with ID 1.
+2025-02-19 21:02:24 - Repository - INFO - Line 29 - Fetching record with ID 1 from Person.
+2025-02-19 21:02:24 - RecordFetcher(Service) - INFO - Line 40 - Masking record from Record Fetcher Class with Table 2 ID 1.
+2025-02-19 21:02:24 - RecordFetcher(Service) - INFO - Line 26 - Fetching record from table2 with ID 1.
+2025-02-19 21:02:24 - Repository - INFO - Line 29 - Fetching record with ID 1 from Person2.
+2025-02-19 21:02:24 - logic - INFO - Line 33 - Using the same ID for both tables (ID: 1)
+2025-02-19 21:02:24 - RecordCompartor(Service) - INFO - Line 19 - Adding record from Table 1: record_from_table1
+2025-02-19 21:02:24 - RecordCompartor(Service) - INFO - Line 19 - Adding record from Table 1: record_from_table1
+2025-02-19 21:02:24 - RecordCompartor(Service) - INFO - Line 27 - Adding record from Table 2: record_from_table2
+2025-02-19 21:02:24 - RecordCompartor(Service) - INFO - Line 27 - Adding record from Table 2: record_from_table2
+2025-02-19 21:02:24 - logic - INFO - Line 45 - Generated response: {'table1': {'id': 1, 'name': 'John Doe', 'gender': 'Male', 'height': 180, 'city': 'New York'}, 'table2': {'id': 1, 'name': 'Liam Turner', 'gender': 'Male', 'height': 170, 'city': 'Houston'}}
+2025-02-19 21:02:24 - RecordCompartor(Service) - INFO - Line 19 - Comparing records.
+2025-02-19 21:02:24 - RecordCompartor(Service) - INFO - Line 19 - Comparing records.
+2025-02-19 21:02:24 - logic - INFO - Line 49 - Comparison result: {'same_fields': {'id': 1, 'gender': 'Male'}, 'different_fields': {'name': {'Table1_value': 'John Doe', 'Table2_Value': 'Liam Turner'}, 'height_cm': {'Table1_value': 180, 'Table2_Value': 170}, 'city': {'Table1_value': 'New York', 'Table2_Value': 'Houston'}}}
+2025-02-19 21:02:49 - Repository - INFO - Line 25 - Database connection established.
+2025-02-19 21:02:49 - Repository - INFO - Line 38 - DatabaseRepository initialized.
+2025-02-19 21:02:49 - logic - INFO - Line 23 - RecordService initialized with FetchStrategy, ComparisonStrategy, and ResponseStrategy
+2025-02-19 21:02:49 - RecordFetcher(Service) - INFO - Line 36 - Masking record from Record Fetcher Class with Table 1 ID 1.
+2025-02-19 21:02:49 - RecordFetcher(Service) - INFO - Line 22 - Fetching record from table1 with ID 1.
+2025-02-19 21:02:49 - Repository - INFO - Line 29 - Fetching record with ID 1 from Person.
+2025-02-19 21:02:50 - RecordFetcher(Service) - INFO - Line 40 - Masking record from Record Fetcher Class with Table 2 ID 1.
+2025-02-19 21:02:50 - RecordFetcher(Service) - INFO - Line 26 - Fetching record from table2 with ID 1.
+2025-02-19 21:02:50 - Repository - INFO - Line 29 - Fetching record with ID 1 from Person2.
+2025-02-19 21:02:50 - logic - INFO - Line 33 - Using the same ID for both tables (ID: 1)
+2025-02-19 21:02:50 - RecordCompartor(Service) - INFO - Line 19 - Adding record from Table 1: record_from_table1
+2025-02-19 21:02:50 - RecordCompartor(Service) - INFO - Line 19 - Adding record from Table 1: record_from_table1
+2025-02-19 21:02:50 - RecordCompartor(Service) - INFO - Line 27 - Adding record from Table 2: record_from_table2
+2025-02-19 21:02:50 - RecordCompartor(Service) - INFO - Line 27 - Adding record from Table 2: record_from_table2
+2025-02-19 21:02:50 - logic - INFO - Line 45 - Generated response: {'table1': {'id': 1, 'name': 'John Doe', 'gender': 'Male', 'height': 180, 'city': 'New York'}, 'table2': {'id': 1, 'name': 'Liam Turner', 'gender': 'Male', 'height': 170, 'city': 'Houston'}}
+2025-02-19 21:02:50 - RecordCompartor(Service) - INFO - Line 19 - Comparing records.
+2025-02-19 21:02:50 - RecordCompartor(Service) - INFO - Line 19 - Comparing records.
+2025-02-19 21:02:50 - logic - INFO - Line 49 - Comparison result: {'same_fields': {'id': 1, 'gender': 'Male'}, 'different_fields': {'name': {'Table1_value': 'John Doe', 'Table2_Value': 'Liam Turner'}, 'height_cm': {'Table1_value': 180, 'Table2_Value': 170}, 'city': {'Table1_value': 'New York', 'Table2_Value': 'Houston'}}}
+2025-02-19 21:03:32 - Repository - INFO - Line 25 - Database connection established.
+2025-02-19 21:03:32 - Repository - INFO - Line 38 - DatabaseRepository initialized.
+2025-02-19 21:03:32 - logic - INFO - Line 23 - RecordService initialized with FetchStrategy, ComparisonStrategy, and ResponseStrategy
+2025-02-19 21:03:32 - RecordFetcher(Service) - INFO - Line 36 - Masking record from Record Fetcher Class with Table 1 ID 1.
+2025-02-19 21:03:32 - RecordFetcher(Service) - INFO - Line 22 - Fetching record from table1 with ID 1.
+2025-02-19 21:03:32 - Repository - INFO - Line 29 - Fetching record with ID 1 from Person.
+2025-02-19 21:03:33 - RecordFetcher(Service) - INFO - Line 40 - Masking record from Record Fetcher Class with Table 2 ID 2.
+2025-02-19 21:03:33 - RecordFetcher(Service) - INFO - Line 26 - Fetching record from table2 with ID 2.
+2025-02-19 21:03:33 - Repository - INFO - Line 29 - Fetching record with ID 2 from Person2.
+2025-02-19 21:03:33 - logic - INFO - Line 39 - Using different IDs for tables (ID1: 1, ID2: 2)
+2025-02-19 21:03:33 - RecordCompartor(Service) - INFO - Line 19 - Adding record from Table 1: record_from_table1
+2025-02-19 21:03:33 - RecordCompartor(Service) - INFO - Line 19 - Adding record from Table 1: record_from_table1
+2025-02-19 21:03:33 - RecordCompartor(Service) - INFO - Line 27 - Adding record from Table 2: record_from_table2
+2025-02-19 21:03:33 - RecordCompartor(Service) - INFO - Line 27 - Adding record from Table 2: record_from_table2
+2025-02-19 21:03:33 - RecordCompartor(Service) - INFO - Line 19 - Comparing records.
+2025-02-19 21:03:33 - RecordCompartor(Service) - INFO - Line 19 - Comparing records.
+2025-02-19 21:08:34 - Repository - INFO - Line 25 - Database connection established.
+2025-02-19 21:08:34 - Repository - INFO - Line 38 - DatabaseRepository initialized.
+2025-02-19 21:09:03 - Repository - INFO - Line 25 - Database connection established.
+2025-02-19 21:09:03 - Repository - INFO - Line 38 - DatabaseRepository initialized.
+2025-02-19 21:10:07 - Repository - INFO - Line 25 - Database connection established.
+2025-02-19 21:10:07 - Repository - INFO - Line 38 - DatabaseRepository initialized.
+2025-02-19 21:11:05 - Repository - INFO - Line 25 - Database connection established.
+2025-02-19 21:11:05 - Repository - INFO - Line 38 - DatabaseRepository initialized.
+2025-02-19 21:11:20 - Repository - INFO - Line 25 - Database connection established.
+2025-02-19 21:11:20 - Repository - INFO - Line 38 - DatabaseRepository initialized.
+2025-02-19 21:11:20 - logic - INFO - Line 59 - RecordService initialized with RecordFetcherAndComparer
+2025-02-19 21:11:20 - RecordFetcher(Service) - INFO - Line 36 - Masking record from Record Fetcher Class with Table 1 ID 1.
+2025-02-19 21:11:20 - RecordFetcher(Service) - INFO - Line 22 - Fetching record from table1 with ID 1.
+2025-02-19 21:11:20 - Repository - INFO - Line 29 - Fetching record with ID 1 from Person.
+2025-02-19 21:11:20 - RecordFetcher(Service) - INFO - Line 40 - Masking record from Record Fetcher Class with Table 2 ID 1.
+2025-02-19 21:11:20 - RecordFetcher(Service) - INFO - Line 26 - Fetching record from table2 with ID 1.
+2025-02-19 21:11:20 - Repository - INFO - Line 29 - Fetching record with ID 1 from Person2.
+2025-02-19 21:11:20 - logic - INFO - Line 31 - Using the same ID for both tables (ID: 1)
+2025-02-19 21:11:20 - RecordCompartor(Service) - INFO - Line 19 - Adding record from Table 1: record_from_table1
+2025-02-19 21:11:20 - RecordCompartor(Service) - INFO - Line 19 - Adding record from Table 1: record_from_table1
+2025-02-19 21:11:20 - RecordCompartor(Service) - INFO - Line 27 - Adding record from Table 2: record_from_table2
+2025-02-19 21:11:20 - RecordCompartor(Service) - INFO - Line 27 - Adding record from Table 2: record_from_table2
+2025-02-19 21:11:20 - logic - INFO - Line 43 - Generated response: {'table1': {'id': 1, 'name': 'John Doe', 'gender': 'Male', 'height': 180, 'city': 'New York'}, 'table2': {'id': 1, 'name': 'Liam Turner', 'gender': 'Male', 'height': 170, 'city': 'Houston'}}
+2025-02-19 21:11:20 - RecordCompartor(Service) - INFO - Line 19 - Comparing records.
+2025-02-19 21:11:20 - RecordCompartor(Service) - INFO - Line 19 - Comparing records.
+2025-02-19 21:11:20 - logic - INFO - Line 47 - Comparison result: {'same_fields': {'id': 1, 'gender': 'Male'}, 'different_fields': {'name': {'Table1_value': 'John Doe', 'Table2_Value': 'Liam Turner'}, 'height_cm': {'Table1_value': 180, 'Table2_Value': 170}, 'city': {'Table1_value': 'New York', 'Table2_Value': 'Houston'}}}
+2025-02-19 21:21:30 - Repository - INFO - Line 25 - Database connection established.
+2025-02-19 21:21:30 - Repository - INFO - Line 38 - DatabaseRepository initialized.
+2025-02-19 21:24:59 - Repository - INFO - Line 25 - Database connection established.
+2025-02-19 21:24:59 - Repository - INFO - Line 38 - DatabaseRepository initialized.
+2025-02-19 21:24:59 - logic - INFO - Line 21 - RecordService initialized with RecordFetcherAndComparer
+2025-02-19 21:24:59 - RecordFetcher(Service) - INFO - Line 36 - Masking record from Record Fetcher Class with Table 1 ID 1.
+2025-02-19 21:24:59 - RecordFetcher(Service) - INFO - Line 22 - Fetching record from table1 with ID 1.
+2025-02-19 21:24:59 - Repository - INFO - Line 29 - Fetching record with ID 1 from Person.
+2025-02-19 21:24:59 - RecordFetcher(Service) - INFO - Line 40 - Masking record from Record Fetcher Class with Table 2 ID 1.
+2025-02-19 21:24:59 - RecordFetcher(Service) - INFO - Line 26 - Fetching record from table2 with ID 1.
+2025-02-19 21:24:59 - Repository - INFO - Line 29 - Fetching record with ID 1 from Person2.
+2025-02-19 21:24:59 - RecordFetcherAndCompartor - INFO - Line 32 - Using the same ID for both tables (ID: 1)
+2025-02-19 21:24:59 - RecordCompartor(Service) - INFO - Line 19 - Adding record from Table 1: record_from_table1
+2025-02-19 21:24:59 - RecordCompartor(Service) - INFO - Line 19 - Adding record from Table 1: record_from_table1
+2025-02-19 21:24:59 - RecordCompartor(Service) - INFO - Line 27 - Adding record from Table 2: record_from_table2
+2025-02-19 21:24:59 - RecordCompartor(Service) - INFO - Line 27 - Adding record from Table 2: record_from_table2
+2025-02-19 21:24:59 - RecordFetcherAndCompartor - INFO - Line 44 - Generated response: {'table1': {'id': 1, 'name': 'John Doe', 'gender': 'Male', 'height': 180, 'city': 'New York'}, 'table2': {'id': 1, 'name': 'Liam Turner', 'gender': 'Male', 'height': 170, 'city': 'Houston'}}
+2025-02-19 21:24:59 - RecordCompartor(Service) - INFO - Line 19 - Comparing records.
+2025-02-19 21:24:59 - RecordCompartor(Service) - INFO - Line 19 - Comparing records.
+2025-02-19 21:24:59 - RecordFetcherAndCompartor - INFO - Line 48 - Comparison result: {'same_fields': {'id': 1, 'gender': 'Male'}, 'different_fields': {'name': {'Table1_value': 'John Doe', 'Table2_Value': 'Liam Turner'}, 'height_cm': {'Table1_value': 180, 'Table2_Value': 170}, 'city': {'Table1_value': 'New York', 'Table2_Value': 'Houston'}}}
+2025-02-19 21:27:04 - Repository - INFO - Line 25 - Database connection established.
+2025-02-19 21:27:04 - Repository - INFO - Line 38 - DatabaseRepository initialized.
+2025-02-19 21:27:04 - logic - INFO - Line 21 - RecordService initialized with RecordFetcherAndComparer
+2025-02-19 21:27:04 - app - INFO - Line 14 - Flask application started
+2025-02-19 21:27:05 - Repository - INFO - Line 25 - Database connection established.
+2025-02-19 21:27:05 - Repository - INFO - Line 38 - DatabaseRepository initialized.
+2025-02-19 21:27:05 - logic - INFO - Line 21 - RecordService initialized with RecordFetcherAndComparer
+2025-02-19 21:27:05 - app - INFO - Line 14 - Flask application started
+2025-02-19 21:27:08 - Error Handlers - WARNING - Line 15 - ERROR HANDLER 404 GoT Called :NOT FOUND
+2025-02-19 21:27:08 - Error Handlers - WARNING - Line 15 - ERROR HANDLER 404 GoT Called :NOT FOUND
+2025-02-19 21:27:13 - RecordFetcher(Service) - INFO - Line 36 - Masking record from Record Fetcher Class with Table 1 ID 1.
+2025-02-19 21:27:13 - RecordFetcher(Service) - INFO - Line 22 - Fetching record from table1 with ID 1.
+2025-02-19 21:27:13 - Repository - INFO - Line 29 - Fetching record with ID 1 from Person.
+2025-02-19 21:27:13 - RecordFetcher(Service) - INFO - Line 40 - Masking record from Record Fetcher Class with Table 2 ID 3.
+2025-02-19 21:27:13 - RecordFetcher(Service) - INFO - Line 26 - Fetching record from table2 with ID 3.
+2025-02-19 21:27:13 - Repository - INFO - Line 29 - Fetching record with ID 3 from Person2.
+2025-02-19 21:27:13 - RecordFetcherAndCompartor - INFO - Line 38 - Using different IDs for tables (ID1: 1, ID2: 3)
+2025-02-19 21:27:13 - RecordCompartor(Service) - INFO - Line 19 - Adding record from Table 1: record_from_table1
+2025-02-19 21:27:13 - RecordCompartor(Service) - INFO - Line 19 - Adding record from Table 1: record_from_table1
+2025-02-19 21:27:13 - RecordCompartor(Service) - INFO - Line 27 - Adding record from Table 2: record_from_table2
+2025-02-19 21:27:13 - RecordCompartor(Service) - INFO - Line 27 - Adding record from Table 2: record_from_table2
+2025-02-19 21:27:13 - RecordFetcherAndCompartor - INFO - Line 44 - Generated response: {'table1': {'id': 1, 'name': 'John Doe', 'gender': 'Male', 'height': 180, 'city': 'New York'}, 'table2': {'id': 3, 'name': 'Ethan Clark', 'gender': 'Male', 'height': 180, 'city': 'San Diego'}}
+2025-02-19 21:27:13 - RecordCompartor(Service) - INFO - Line 19 - Comparing records.
+2025-02-19 21:27:13 - RecordCompartor(Service) - INFO - Line 19 - Comparing records.
+2025-02-19 21:27:13 - RecordFetcherAndCompartor - INFO - Line 48 - Comparison result: {'same_fields': {'gender': 'Male', 'height_cm': 180}, 'different_fields': {'id': {'Table1_value': 1, 'Table2_Value': 3}, 'name': {'Table1_value': 'John Doe', 'Table2_Value': 'Ethan Clark'}, 'city': {'Table1_value': 'New York', 'Table2_Value': 'San Diego'}}}
+2025-02-19 21:27:13 - View - INFO - Line 7 - View is initiated
