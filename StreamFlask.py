@@ -1,17 +1,17 @@
 import streamlit as st
 import requests  # To make API calls to Flask backend
-
+import pandas as pd
 
 def fetch_single_id_data(id):
     # Make an API call to Flask to fetch the data for the single id.
     response = requests.get(f"http://127.0.0.1:5000//get_records/{id}")
-    return response.json()  # Assuming Flask returns JSON
+    return response.json()
 
 
 def fetch_dual_id_data(id1, id2):
     # Make an API call to Flask to fetch the data for dual ids.
     response = requests.get(f"http://127.0.0.1:5000//get_records/{id1}/{id2}")
-    return response.json()  # Assuming Flask returns JSON
+    return response.json()
 
 
 # Streamlit UI
@@ -28,21 +28,25 @@ if option == "Single ID":
     if st.button("Submit"):
         # Fetch and display the record data for the chosen ID
         record_data = fetch_single_id_data(id_choice)
+        table1_df = pd.DataFrame([record_data["table1"]], index = [1])
+        table2_df = pd.DataFrame([record_data["table2"]],index = [1])
         st.write("Table 1 Record:")
-        st.write(record_data["table1"])
+        st.dataframe(table1_df)
         st.write("Table 2 Record:")
-        st.write(record_data["table2"])
+        st.dataframe(table2_df)
 
         # Display same and different fields
+        same_fields_df = pd.DataFrame([record_data["Comparison"]["same_fields"]],index = [1])
+        different_fields_df = pd.DataFrame([record_data["Comparison"]["different_fields"]],index = [1])
         st.write("Same Fields:")
-        st.write(record_data["Comparison"]["same_fields"])
+        st.dataframe(same_fields_df)
         st.write("Different Fields:")
-        st.write(record_data["Comparison"]["different_fields"])
+        st.dataframe(different_fields_df)
 
 elif option == "Dual ID":
     # Fetch available IDs for both tables
-    ids_table1 = [1, 2, 3, 4, 5, 6, 7]  # Replace with API call to get IDs for table1
-    ids_table2 = [1, 2, 3, 4, 5, 6, 7]  # Replace with API call to get IDs for table2
+    ids_table1 = [1, 2, 3, 4, 5, 6, 7]
+    ids_table2 = [1, 2, 3, 4, 5, 6, 7]
 
     id1_choice = st.selectbox("Choose ID from Table 1", ids_table1)
     id2_choice = st.selectbox("Choose ID from Table 2", ids_table2)
@@ -50,13 +54,17 @@ elif option == "Dual ID":
     if st.button("Submit"):
         # Fetch and display the record data for dual IDs
         dual_record_data = fetch_dual_id_data(id1_choice, id2_choice)
-        st.write("Table 1 Record (ID1):")
-        st.write(dual_record_data["table1"])
-        st.write("Table 2 Record (ID2):")
-        st.write(dual_record_data["table2"])
+        table1_df = pd.DataFrame([dual_record_data["table1"]],index = [1])
+        table2_df = pd.DataFrame([dual_record_data["table2"]],index = [1])
+        st.write("Table 1 Record:")
+        st.dataframe(table1_df)
+        st.write("Table 2 Record:")
+        st.dataframe(table2_df)
 
         # Display same and different fields
-        st.write(f"Same Fields: Between Two tables with ids")
-        st.write(dual_record_data["Comparison"]["same_fields"])
+        same_fields_df = pd.DataFrame([dual_record_data["Comparison"]["same_fields"]],index = [1])
+        different_fields_df = pd.DataFrame([dual_record_data["Comparison"]["different_fields"]],index = [1])
+        st.write("Same Fields:")
+        st.dataframe(same_fields_df)
         st.write("Different Fields:")
-        st.write(dual_record_data["Comparison"]["different_fields"])
+        st.dataframe(different_fields_df)
