@@ -37,11 +37,29 @@ if option == "Single ID":
 
         # Display same and different fields
         same_fields_df = pd.DataFrame([record_data["Comparison"]["same_fields"]],index = [1])
-        different_fields_df = pd.DataFrame([record_data["Comparison"]["different_fields"]],index = [1])
+        diff = record_data["Comparison"]["different_fields"]
+        # Separate the data into two lists
+
+        table1_values = []
+        table2_values = []
+        field_names = []
+
+        for field_name, values in diff.items():
+            field_names.append(field_name)
+            table1_values.append(values["Table1_value"])
+            table2_values.append(values["Table2_Value"])
+
+        # Create a DataFrame with separate columns for Table 1 and Table 2
+        df = pd.DataFrame({
+            "Field Name": field_names,
+            "Table 1 Value": table1_values,
+            "Table 2 Value": table2_values
+        },index=range(1, len(field_names) + 1))
+
         st.write("Same Fields:")
         st.dataframe(same_fields_df)
         st.write("Different Fields:")
-        st.dataframe(different_fields_df)
+        st.dataframe(df)
 
 elif option == "Dual ID":
     # Fetch available IDs for both tables
@@ -63,8 +81,25 @@ elif option == "Dual ID":
 
         # Display same and different fields
         same_fields_df = pd.DataFrame([dual_record_data["Comparison"]["same_fields"]],index = [1])
-        different_fields_df = pd.DataFrame([dual_record_data["Comparison"]["different_fields"]],index = [1])
+        diff = dual_record_data["Comparison"]["different_fields"]
+        # Separate the data into two lists
+        table1_values = []
+        table2_values = []
+        field_names = []
+
+        for field_name, values in diff.items():
+            field_names.append(field_name)
+            table1_values.append(values["Table1_value"])
+            table2_values.append(values["Table2_Value"])
+
+        # Create a DataFrame with separate columns for Table 1 and Table 2
+        df = pd.DataFrame({
+            "Field Name": field_names,
+            "Table 1 Value": table1_values,
+            "Table 2 Value": table2_values
+        },index=range(1, len(field_names) + 1))
+
         st.write("Same Fields:")
         st.dataframe(same_fields_df)
         st.write("Different Fields:")
-        st.dataframe(different_fields_df)
+        st.dataframe(df)
