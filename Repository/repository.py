@@ -3,7 +3,6 @@ from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 from log.log_config import setup_logger
 from Config.config import get_db_url
-
 logger = setup_logger("Repository")
 
 
@@ -12,6 +11,7 @@ class RepositoryInterface(ABC):
     @abstractmethod
     def get_record(self, model_class, record_id):
         pass
+
 
 
 # Base Repository class providing common functionality for database connection
